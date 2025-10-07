@@ -1,0 +1,4332 @@
+[
+  {
+    "name": "Lafayette 148",
+    "description": "Responsible Wool Double Face Reade Straight Leg Pants",
+    "price": 998,
+    "category": "Clothing",
+    "subCategory": "Pants",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1062106/710201/large_lafayette-148-black-responsible-wool-double-face-reade-straight-leg-pant.jpg?_v=1756644648",
+      "https://cdn.modaoperandi.com/assets/images/products/1062106/710201/c/large_lafayette-148-black-responsible-wool-double-face-reade-straight-leg-pant.jpg?_v=1756644648"
+    ],
+    "variants": [
+      { "size": "S", "color": "Black", "stock": 2 },
+      { "size": "M", "color": "Black", "stock": 5 },
+      { "size": "L", "color": "Black", "stock": 7 },
+      { "size": "XS", "color": "Black", "stock": 5 }
+    ]
+  },
+  {
+    "name": "Arcina Ori",
+    "description": "Darcy Open-Back Satin Maxi Dress",
+    "price": 480,
+    "category": "Collections",
+    "subCategory": "Arcina Ori",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1061786/709862/large_arcina-ori-blue-darcy-dress.jpg?_v=1756692807",
+      "https://cdn.modaoperandi.com/assets/images/products/1061786/709862/c/large_arcina-ori-blue-darcy-dress.jpg?_v=1756692807"
+    ],
+    "variants": [
+      { "size": "S", "color": "Blue", "stock": 2 },
+      { "size": "M", "color": "Blue", "stock": 5 },
+      { "size": "L", "color": "Blue", "stock": 7 },
+      { "size": "XS", "color": "Blue", "stock": 5 }
+    ]
+  },
+  {
+    "name": "Arcina Ori",
+    "description": "Odessa Open-Back Satin Maxi Dress",
+    "price": 480,
+    "category": "Collections",
+    "subCategory": "Arcina Ori",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1061788/709864/large_arcina-ori-green-odessa-dress.jpg?_v=1756743973",
+      "https://cdn.modaoperandi.com/assets/images/products/1061788/709864/c/large_arcina-ori-green-odessa-dress.jpg?_v=1756743973"
+    ],
+    "variants": [
+      { "size": "S", "color": "Green", "stock": 2 },
+      { "size": "M", "color": "Green", "stock": 5 },
+      { "size": "L", "color": "Green", "stock": 7 },
+      { "size": "XS", "color": "Green", "stock": 5 }
+    ]
+  },
+  {
+    "name": "Arcina Ori",
+    "description": "Jordana Draped Georgette Maxi Dress",
+    "price": 400,
+    "category": "Collections",
+    "subCategory": "Arcina Ori",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1061794/709870/large_arcina-ori-blue-jordana-dress.jpg?_v=1757253711",
+      "https://cdn.modaoperandi.com/assets/images/products/1061794/709870/c/large_arcina-ori-blue-jordana-dress.jpg?_v=1755655271"
+    ],
+    "variants": [
+      { "size": "S", "color": "Blue", "stock": 2 },
+      { "size": "M", "color": "Blue", "stock": 5 },
+      { "size": "L", "color": "Blue", "stock": 7 },
+      { "size": "XS", "color": "Blue", "stock": 5 }
+    ]
+  },
+  {
+    "name": "Arcina Ori",
+    "description": "Helena Chiffon-Detailed Satin Gown",
+    "price": 480,
+    "category": "Collections",
+    "subCategory": "Arcina Ori",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1061792/709868/large_arcina-ori-ivory-helena-dress.jpg?_v=1756486163",
+      "https://cdn.modaoperandi.com/assets/images/products/1061792/709868/c/large_arcina-ori-ivory-helena-dress.jpg?_v=1756486163"
+    ],
+    "variants": [
+      { "size": "S", "color": "Ivory", "stock": 2 },
+      { "size": "M", "color": "Ivory", "stock": 5 },
+      { "size": "L", "color": "Ivory", "stock": 7 },
+      { "size": "XS", "color": "Ivory", "stock": 5 }
+    ]
+  },
+  {
+    "name": "Arcina Ori",
+    "description": "Responsible Wool Double Face Reade Straight Leg Pants",
+    "price": 998,
+    "category": "Collections",
+    "subCategory": "Arcina Ori",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1062106/710201/large_lafayette-148-black-responsible-wool-double-face-reade-straight-leg-pant.jpg?_v=1756644648",
+      "https://cdn.modaoperandi.com/assets/images/products/1062106/710201/c/large_lafayette-148-black-responsible-wool-double-face-reade-straight-leg-pant.jpg?_v=1756644648"
+    ],
+    "variants": [
+      { "size": "S", "color": "Black", "stock": 2 },
+      { "size": "M", "color": "Black", "stock": 5 },
+      { "size": "L", "color": "Black", "stock": 7 },
+      { "size": "XS", "color": "Black", "stock": 5 }
+    ]
+  },
+
+  {
+    "name": "Arcina Ori",
+    "description": "Responsible Wool Double Face Reade Straight Leg Pants",
+    "price": 998,
+    "category": "Collections",
+    "subCategory": "Arcina Ori",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1062106/710201/large_lafayette-148-black-responsible-wool-double-face-reade-straight-leg-pant.jpg?_v=1756644648",
+      "https://cdn.modaoperandi.com/assets/images/products/1062106/710201/c/large_lafayette-148-black-responsible-wool-double-face-reade-straight-leg-pant.jpg?_v=1756644648"
+    ],
+    "variants": [
+      { "size": "S", "color": "Black", "stock": 2 },
+      { "size": "M", "color": "Black", "stock": 5 },
+      { "size": "L", "color": "Black", "stock": 7 },
+      { "size": "XS", "color": "Black", "stock": 5 }
+    ]
+  },
+  {
+    "name": "Arcina Ori",
+    "description": "Monique Open-Back Satin Gown",
+    "price": 420,
+    "category": "Collections",
+    "subCategory": "Arcina Ori",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1061787/709863/large_arcina-ori-red-monique-dress.jpg?_v=1756068800",
+      "https://cdn.modaoperandi.com/assets/images/products/1061787/709863/c/large_arcina-ori-red-monique-dress.jpg?_v=1756068800"
+    ],
+    "variants": [
+      { "size": "S", "color": "Red", "stock": 2 },
+      { "size": "M", "color": "Red", "stock": 5 },
+      { "size": "L", "color": "Red", "stock": 7 },
+      { "size": "XS", "color": "Red", "stock": 5 }
+    ]
+  },
+
+  {
+    "name": "Oscar de la Renta",
+    "description": "Embroidered Threadwork Mini Dress",
+    "price": 7290,
+    "category": "Collections",
+    "subCategory": "Oscar de la Renta",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1034160/679703/large_oscar-de-la-renta-black-embroidered-threadwork-mini-dress-2.jpg?_v=1752529767",
+      "https://cdn.modaoperandi.com/assets/images/products/1034160/679703/g01/large_oscar-de-la-renta-black-embroidered-threadwork-mini-dress-2.jpg?_v=1752529767"
+    ],
+    "variants": [
+      { "size": "S", "color": "Black", "stock": 2 },
+      { "size": "M", "color": "Black", "stock": 5 },
+      { "size": "L", "color": "Black", "stock": 7 },
+      { "size": "XS", "color": "Black", "stock": 5 }
+    ]
+  },
+  {
+    "name": "De La Vali",
+    "description": "Exclusive Hemera Ruffled Silk Maxi Dress",
+    "price": 950,
+    "category": "Collections",
+    "subCategory": "De La Vali",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1033774/679269/large_de-la-vali-yellow-exclusive-hemera-ruffled-silk-maxi-dress.jpg?_v=1756694739",
+      "https://cdn.modaoperandi.com/assets/images/products/1033774/679269/c/large_de-la-vali-yellow-exclusive-hemera-ruffled-silk-maxi-dress.jpg?_v=1756694739"
+    ],
+    "variants": [
+      { "size": "S", "color": "Yellow", "stock": 2 },
+      { "size": "M", "color": "Yellow", "stock": 5 },
+      { "size": "L", "color": "Yellow", "stock": 7 },
+      { "size": "XS", "color": "Yellow", "stock": 5 }
+    ]
+  },
+  {
+    "name": "De La Vali",
+    "description": "Persephone Lace Gown",
+    "price": 900,
+    "category": "Collections",
+    "subCategory": "De La Vali",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1032138/677525/large_de-la-vali-green-persephone-lace-maxi-dress.jpg?_v=1756818899",
+      "https://cdn.modaoperandi.com/assets/images/products/1032138/677525/c/large_de-la-vali-green-persephone-lace-maxi-dress.jpg?_v=1756818899"
+    ],
+    "variants": [
+      { "size": "S", "color": "Green", "stock": 2 },
+      { "size": "M", "color": "Green", "stock": 5 },
+      { "size": "L", "color": "Green", "stock": 7 },
+      { "size": "XS", "color": "Green", "stock": 5 }
+    ]
+  },
+
+  {
+    "name": "De La Vali",
+    "description": "Exclusive Ruffled Silk-Blend Satin Maxi Slip Dress",
+    "price": 940,
+    "category": "Collections",
+    "subCategory": "De La Vali",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1047306/694256/large_de-la-vali-blue-exclusive-slip-dress.jpg?_v=1756762588",
+      "https://cdn.modaoperandi.com/assets/images/products/1047306/694256/c/large_de-la-vali-blue-exclusive-slip-dress.jpg?_v=1756762588"
+    ],
+    "variants": [
+      { "size": "S", "color": "Blue", "stock": 2 },
+      { "size": "M", "color": "Blue", "stock": 5 },
+      { "size": "L", "color": "Blue", "stock": 7 },
+      { "size": "XS", "color": "Blue", "stock": 5 }
+    ]
+  },
+  {
+    "name": "De La Vali",
+    "description": "Nema Ruffled Silk-Blend Satin Maxi Slip Dress",
+    "price": 795,
+    "category": "Collections",
+    "subCategory": "De La Vali",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1047302/694252/large_de-la-vali-neutral-nema-long-dress-silk-satin.jpg?_v=1756592749",
+      "https://cdn.modaoperandi.com/assets/images/products/1047302/694252/c/large_de-la-vali-neutral-nema-long-dress-silk-satin.jpg?_v=1756592749"
+    ],
+    "variants": [
+      { "size": "S", "color": "Neutral", "stock": 2 },
+      { "size": "M", "color": "Neutral", "stock": 5 },
+      { "size": "L", "color": "Neutral", "stock": 7 },
+      { "size": "XS", "color": "Neutral", "stock": 5 }
+    ]
+  },
+  {
+    "name": "De La Vali",
+    "description": "Cleodora Corseted Silk-Blend Satin Maxi Dress",
+    "price": 1050,
+    "category": "Collections",
+    "subCategory": "De La Vali",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1047301/694251/large_de-la-vali-green-cleodora-maxi-dress-silk-satin.jpg?_v=1756819408",
+      "https://cdn.modaoperandi.com/assets/images/products/1047301/694251/c/large_de-la-vali-green-cleodora-maxi-dress-silk-satin.jpg?_v=1756819408"
+    ],
+    "variants": [
+      { "size": "S", "color": "Green", "stock": 2 },
+      { "size": "M", "color": "Green", "stock": 5 },
+      { "size": "L", "color": "Green", "stock": 7 },
+      { "size": "XS", "color": "Green", "stock": 5 }
+    ]
+  },
+  {
+    "name": "De La Vali",
+    "description": "Exclusive Suestado Ruffled Georgette Maxi Dress",
+    "price": 725,
+    "category": "Collections",
+    "subCategory": "De La Vali",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1047304/694254/large_de-la-vali-neutral-suestado-maxi-dress-viscose-ggt.jpg?_v=1756773991",
+      "https://cdn.modaoperandi.com/assets/images/products/1047304/694254/c/large_de-la-vali-neutral-suestado-maxi-dress-viscose-ggt.jpg?_v=1756773991"
+    ],
+    "variants": [
+      { "size": "S", "color": "Neutral", "stock": 2 },
+      { "size": "M", "color": "Neutral", "stock": 5 },
+      { "size": "L", "color": "Neutral", "stock": 7 },
+      { "size": "XS", "color": "Neutral", "stock": 5 }
+    ]
+  },
+  {
+    "name": "Oscar de la Renta",
+    "description": "Exclusive Belted Pleated Cotton-Twill Maxi Dress",
+    "price": 4690,
+    "category": "Collections",
+    "subCategory": "Oscar de la Renta",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1035370/680981/large_oscar-de-la-renta-ivory-belted-pleated-cotton-twill-maxi-dress-2.jpg?_v=1756487315",
+      "https://cdn.modaoperandi.com/assets/images/products/1035370/680981/c/large_oscar-de-la-renta-ivory-belted-pleated-cotton-twill-maxi-dress-2.jpg?_v=1756487315"
+    ],
+    "variants": [
+      { "size": "S", "color": "Ivory", "stock": 2 },
+      { "size": "M", "color": "Ivory", "stock": 5 },
+      { "size": "L", "color": "Ivory", "stock": 7 },
+      { "size": "XS", "color": "Ivory", "stock": 5 }
+    ]
+  },
+  {
+    "name": "Oscar de la Renta",
+    "description": "Crystal-Embellished Cupro-Blend Mini Dress",
+    "price": 7690,
+    "category": "Collections",
+    "subCategory": "Oscar de la Renta",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1040408/686683/large_oscar-de-la-renta-black-crystal-embellished-cupro-blend-mini-dress.jpg?_v=1756268640",
+      "https://cdn.modaoperandi.com/assets/images/products/1040408/686683/c/large_oscar-de-la-renta-black-crystal-embellished-cupro-blend-mini-dress.jpg?_v=1756268640"
+    ],
+    "variants": [
+      { "size": "S", "color": "Black", "stock": 2 },
+      { "size": "M", "color": "Black", "stock": 5 },
+      { "size": "L", "color": "Black", "stock": 7 },
+      { "size": "XS", "color": "Black", "stock": 5 }
+    ]
+  },
+  {
+    "name": "Oscar de la Renta",
+    "description": "Sequined Mini Dress",
+    "price": 7290,
+    "category": "Collections",
+    "subCategory": "Oscar de la Renta",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1040516/686791/large_oscar-de-la-renta-gold-sequined-mini-dress.jpg?_v=1756268658",
+      "https://cdn.modaoperandi.com/assets/images/products/1040516/686791/c2/large_oscar-de-la-renta-gold-sequined-mini-dress.jpg?_v=1756268658"
+    ],
+    "variants": [
+      { "size": "S", "color": "Gold", "stock": 2 },
+      { "size": "M", "color": "Gold", "stock": 5 },
+      { "size": "L", "color": "Gold", "stock": 7 },
+      { "size": "XS", "color": "Gold", "stock": 5 }
+    ]
+  },
+  {
+    "name": "Oscar de la Renta",
+    "description": "Metallic Embroidered Tulle Top",
+    "price": 7290,
+    "category": "Collections",
+    "subCategory": "Oscar de la Renta",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1040471/686746/large_oscar-de-la-renta-silver-metallic-embroidered-tulle-top.jpg?_v=1756268653",
+      "https://cdn.modaoperandi.com/assets/images/products/1040471/686746/c/large_oscar-de-la-renta-silver-metallic-embroidered-tulle-top.jpg?_v=1756268653"
+    ],
+    "variants": [
+      { "size": "S", "color": "Silver", "stock": 2 },
+      { "size": "M", "color": "Silver", "stock": 5 },
+      { "size": "L", "color": "Silver", "stock": 7 },
+      { "size": "XS", "color": "Silver", "stock": 5 }
+    ]
+  },
+  {
+    "name": "Oscar de la Renta",
+    "description": "Mosaic-Embellished Tulle Mini Dress",
+    "price": 13590,
+    "category": "Collections",
+    "subCategory": "Oscar de la Renta",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1040440/686715/large_oscar-de-la-renta-red-mosaic-embellished-tulle-mini-dress.jpg?_v=1756334563",
+      "https://cdn.modaoperandi.com/assets/images/products/1040440/686715/c/large_oscar-de-la-renta-red-mosaic-embellished-tulle-mini-dress.jpg?_v=1756334563"
+    ],
+    "variants": [
+      { "size": "S", "color": "Red", "stock": 2 },
+      { "size": "M", "color": "Red", "stock": 5 },
+      { "size": "L", "color": "Red", "stock": 7 },
+      { "size": "XS", "color": "Red", "stock": 5 }
+    ]
+  },
+
+  {
+    "name": "Alfie",
+    "description": "Alice Mid-Rise Straight-Leg Jeans",
+    "price": 455,
+    "category": "Clothing",
+    "subCategory": "Pants",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1049206/696253/large_alfie-blue-alice-pants-denim-dark-blue.jpg?_v=1756646122",
+      "https://cdn.modaoperandi.com/assets/images/products/1049206/696253/c/large_alfie-blue-alice-pants-denim-dark-blue.jpg?_v=1756646122"
+    ],
+    "variants": [
+      { "size": "S", "color": "Blue", "stock": 2 },
+      { "size": "M", "color": "Blue", "stock": 5 },
+      { "size": "L", "color": "Blue", "stock": 7 },
+      { "size": "XS", "color": "Blue", "stock": 5 }
+    ]
+  },
+  {
+    "name": "Victoria Beckham",
+    "description": "Rigid High-Rise Straight-Leg Jeans",
+    "price": 690,
+    "category": "Clothing",
+    "subCategory": "Pants",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1032604/678005/large_victoria-beckham-white-rigid-high-rise-straight-leg-jeans.jpg?_v=1756315298",
+      "https://cdn.modaoperandi.com/assets/images/products/1032604/678005/c/large_victoria-beckham-white-rigid-high-rise-straight-leg-jeans.jpg?_v=1756315298"
+    ],
+    "variants": [
+      { "size": "S", "color": "White", "stock": 2 },
+      { "size": "M", "color": "White", "stock": 5 },
+      { "size": "L", "color": "White", "stock": 7 },
+      { "size": "XS", "color": "White", "stock": 5 }
+    ]
+  },
+  {
+    "name": "FRAME",
+    "description": "Le Slim Palazzo Modernist Corduroy Pants",
+    "price": 328,
+    "category": "Clothing",
+    "subCategory": "Pants",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1041023/687352/large_frame-denim-brown-le-slim-palazzo-modernist.jpg?_v=1756688847",
+      "https://cdn.modaoperandi.com/assets/images/products/1041023/687352/c/large_frame-denim-brown-le-slim-palazzo-modernist.jpg?_v=1756688847",
+      "https://cdn.modaoperandi.com/assets/images/products/1041023/687352/c3/large_frame-denim-brown-le-slim-palazzo-modernist.jpg?_v=1756688847"
+    ],
+    "variants": [
+      { "size": "S", "color": "Brown", "stock": 2 },
+      { "size": "M", "color": "Brown", "stock": 5 },
+      { "size": "L", "color": "Brown", "stock": 7 },
+      { "size": "XS", "color": "Brown", "stock": 5 }
+    ]
+  },
+  {
+    "name": "Johanna Ortiz",
+    "description": "Outlaw Wool Pants",
+    "price": 1450,
+    "category": "Clothing",
+    "subCategory": "Pants",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1045108/691822/large_johanna-ortiz-black-outlaw-wool-pants-2.jpg?_v=1756480269",
+      "https://cdn.modaoperandi.com/assets/images/products/1045108/691822/c/large_johanna-ortiz-black-outlaw-wool-pants-2.jpg?_v=1756480269",
+      "https://cdn.modaoperandi.com/assets/images/products/1045108/691822/c3/large_johanna-ortiz-black-outlaw-wool-pants-2.jpg?_v=1756480269"
+    ],
+    "variants": [
+      { "size": "S", "color": "Black", "stock": 2 },
+      { "size": "M", "color": "Black", "stock": 5 },
+      { "size": "L", "color": "Black", "stock": 7 },
+      { "size": "XS", "color": "Black", "stock": 5 }
+    ]
+  },
+  {
+    "name": "Comme Si",
+    "description": "La Boxer Alta Striped Cotton-Poplin Pants",
+    "price": 195,
+    "category": "Clothing",
+    "subCategory": "Pants",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1047035/693978/large_comme-si-pink-la-boxer-alta-poplin-stripes.jpg?_v=1755700690",
+      "https://cdn.modaoperandi.com/assets/images/products/1047035/693978/c/large_comme-si-pink-la-boxer-alta-poplin-stripes.jpg?_v=1755700690",
+      "https://cdn.modaoperandi.com/assets/images/products/1047035/693978/c3/large_comme-si-pink-la-boxer-alta-poplin-stripes.jpg?_v=1755700690"
+    ],
+    "variants": [
+      { "size": "S", "color": "Pink", "stock": 2 },
+      { "size": "M", "color": "Pink", "stock": 5 },
+      { "size": "L", "color": "Pink", "stock": 7 },
+      { "size": "XS", "color": "Pink", "stock": 5 }
+    ]
+  },
+  {
+    "name": "HOMMEGIRLS",
+    "description": "Denim Pants",
+    "price": 320,
+    "category": "Clothing",
+    "subCategory": "Pants",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1036107/681795/large_homme-girls-blue-denim-pant.jpg?_v=1755326168",
+      "https://cdn.modaoperandi.com/assets/images/products/1036107/681795/c/large_homme-girls-blue-denim-pant.jpg?_v=1755326168",
+      "https://cdn.modaoperandi.com/assets/images/products/1036107/681795/c2/large_homme-girls-blue-denim-pant.jpg?_v=1755326168"
+    ],
+    "variants": [
+      { "size": "S", "color": "Blue", "stock": 2 },
+      { "size": "M", "color": "Blue", "stock": 5 },
+      { "size": "L", "color": "Blue", "stock": 7 },
+      { "size": "XS", "color": "Blue", "stock": 5 }
+    ]
+  },
+  {
+    "name": "St. Agni",
+    "description": "Silk Twill Wide-Leg Pants",
+    "price": 425,
+    "category": "Clothing",
+    "subCategory": "Pants",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1037780/683639/large_st-agni-white-relaxed-silk-twill-pants-2.jpg?_v=1756144217",
+      "https://cdn.modaoperandi.com/assets/images/products/1037780/683639/c/large_st-agni-white-relaxed-silk-twill-pants-2.jpg?_v=1756144217",
+      "https://cdn.modaoperandi.com/assets/images/products/1037780/683639/c3/large_st-agni-white-relaxed-silk-twill-pants-2.jpg?_v=1756144217"
+    ],
+    "variants": [
+      { "size": "S", "color": "White", "stock": 2 },
+      { "size": "M", "color": "White", "stock": 5 },
+      { "size": "L", "color": "White", "stock": 7 },
+      { "size": "XS", "color": "White", "stock": 5 }
+    ]
+  },
+  {
+    "name": "LA VESTE",
+    "description": "Parasol Cotton Pants",
+    "price": 229,
+    "category": "Clothing",
+    "subCategory": "Pants",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1052901/700198/large_la-veste-red-parasol-pants-red.jpg?_v=1756667799",
+      "https://cdn.modaoperandi.com/assets/images/products/1052901/700198/c/large_la-veste-red-parasol-pants-red.jpg?_v=1756667799",
+      "https://cdn.modaoperandi.com/assets/images/products/1052901/700198/c3/large_la-veste-red-parasol-pants-red.jpg?_v=1756667799"
+    ],
+    "variants": [
+      { "size": "S", "color": "Red", "stock": 2 },
+      { "size": "M", "color": "Red", "stock": 5 },
+      { "size": "L", "color": "Red", "stock": 7 },
+      { "size": "XS", "color": "Red", "stock": 5 }
+    ]
+  },
+  {
+    "name": "Comme Si",
+    "description": "La Boxer Alta Striped Cotton-Poplin Pants",
+    "price": 195,
+    "category": "Clothing",
+    "subCategory": "Pants",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1047183/694131/large_comme-si-brown-la-boxer-alta-cotton-poplin.jpg?_v=1756394130",
+      "https://cdn.modaoperandi.com/assets/images/products/1047183/694131/c/large_comme-si-brown-la-boxer-alta-cotton-poplin.jpg?_v=1756394130",
+      "https://cdn.modaoperandi.com/assets/images/products/1047183/694131/c3/large_comme-si-brown-la-boxer-alta-cotton-poplin.jpg?_v=1756394130"
+    ],
+    "variants": [
+      { "size": "S", "color": "Brown", "stock": 2 },
+      { "size": "M", "color": "Brown", "stock": 5 },
+      { "size": "L", "color": "Brown", "stock": 7 },
+      { "size": "XS", "color": "Brown", "stock": 5 }
+    ]
+  },
+  {
+    "name": "SLOAN",
+    "description": "Pleated Pinstriped Wool Wide-Leg Trousers",
+    "price": 400,
+    "category": "Clothing",
+    "subCategory": "Pants",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1051633/698825/large_sloan-black-wide-leg-pinstripe-pleated-trouser-exclusive.jpg?_v=1756399583",
+      "https://cdn.modaoperandi.com/assets/images/products/1051633/698825/c/large_sloan-black-wide-leg-pinstripe-pleated-trouser-exclusive.jpg?_v=1756399583",
+      "https://cdn.modaoperandi.com/assets/images/products/1051633/698825/c3/large_sloan-black-wide-leg-pinstripe-pleated-trouser-exclusive.jpg?_v=1756399583"
+    ],
+    "variants": [
+      { "size": "S", "color": "Black", "stock": 2 },
+      { "size": "M", "color": "Black", "stock": 5 },
+      { "size": "L", "color": "Black", "stock": 7 },
+      { "size": "XS", "color": "Black", "stock": 5 }
+    ]
+  },
+  {
+    "name": "Michael Kors Collection",
+    "description": "Pleated Twill Wide-Leg Culottes",
+    "price": 1090,
+    "category": "Clothing",
+    "subCategory": "Pants",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1041613/688050/large_michael-kors-grey-covert-twill-wide-leg-culotte-pants.jpg?_v=1756268763",
+      "https://cdn.modaoperandi.com/assets/images/products/1041613/688050/c/large_michael-kors-grey-covert-twill-wide-leg-culotte-pants.jpg?_v=1756268763",
+      "https://cdn.modaoperandi.com/assets/images/products/1041613/688050/c3/large_michael-kors-grey-covert-twill-wide-leg-culotte-pants.jpg?_v=1756268763"
+    ],
+    "variants": [
+      { "size": "S", "color": "Grey", "stock": 2 },
+      { "size": "M", "color": "Grey", "stock": 5 },
+      { "size": "L", "color": "Grey", "stock": 7 },
+      { "size": "XS", "color": "Grey", "stock": 5 }
+    ]
+  },
+  {
+    "name": "House of Aama",
+    "description": "Cotton Corduroy Wide-Leg Pants",
+    "price": 640,
+    "category": "Clothing",
+    "subCategory": "Pants",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1050066/697175/large_house-of-aama-blue-womens-pants-cotton-corduroy-blue.jpg?_v=1753817390",
+      "https://cdn.modaoperandi.com/assets/images/products/1050066/697175/c/large_house-of-aama-blue-womens-pants-cotton-corduroy-blue.jpg?_v=1753817390",
+      "https://cdn.modaoperandi.com/assets/images/products/1050066/697175/c3/large_house-of-aama-blue-womens-pants-cotton-corduroy-blue.jpg?_v=17538173903"
+    ],
+    "variants": [
+      { "size": "S", "color": "Blue", "stock": 2 },
+      { "size": "M", "color": "Blue", "stock": 5 },
+      { "size": "L", "color": "Blue", "stock": 7 },
+      { "size": "XS", "color": "Blue", "stock": 5 }
+    ]
+  },
+  {
+    "name": "Ulla Johnson",
+    "description": "Pax Jacquard Pants",
+    "price": 540,
+    "category": "Clothing",
+    "subCategory": "Pants",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1034301/679873/large_ulla-johnson-ivory-pax-jacquard-pants.jpg?_v=1756493971",
+      "https://cdn.modaoperandi.com/assets/images/products/1034301/679873/68127df7/large_ulla-johnson-ivory-pax-jacquard-pants.jpg?_v=1756493971",
+      "https://cdn.modaoperandi.com/assets/images/products/1034301/679873/c/large_ulla-johnson-ivory-pax-jacquard-pants.jpg?_v=1756493971",
+      "https://cdn.modaoperandi.com/assets/images/products/1034301/679873/c3/large_ulla-johnson-ivory-pax-jacquard-pants.jpg?_v=1756493971"
+    ],
+    "variants": [
+      { "size": "S", "color": "Ivory", "stock": 2 },
+      { "size": "M", "color": "Ivory", "stock": 5 },
+      { "size": "L", "color": "Ivory", "stock": 7 },
+      { "size": "XS", "color": "Ivory", "stock": 5 }
+    ]
+  },
+  {
+    "name": "Sea",
+    "description": "Sullivan Belted Cotton Cargo Pants",
+    "price": 350,
+    "category": "Clothing",
+    "subCategory": "Pants",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1047157/694102/large_sea-green-sullivan-sportswear-belted-cargo-pant-d1.jpg?_v=1756725848",
+      "https://cdn.modaoperandi.com/assets/images/products/1047157/694102/c/large_sea-green-sullivan-sportswear-belted-cargo-pant-d1.jpg?_v=1756725848",
+      "https://cdn.modaoperandi.com/assets/images/products/1047157/694102/c2/large_sea-green-sullivan-sportswear-belted-cargo-pant-d1.jpg?_v=1756725848",
+      "https://cdn.modaoperandi.com/assets/images/products/1047157/694102/c3/large_sea-green-sullivan-sportswear-belted-cargo-pant-d1.jpg?_v=1756725848"
+    ],
+    "variants": [
+      { "size": "S", "color": "Green", "stock": 2 },
+      { "size": "M", "color": "Green", "stock": 5 },
+      { "size": "L", "color": "Green", "stock": 7 },
+      { "size": "XS", "color": "Green", "stock": 5 }
+    ]
+  },
+  {
+    "name": "Citizens of Humanity",
+    "description": "x Bloom Farm Exclusive Fluid Denim Maxi Skirt",
+    "price": 398,
+    "category": "Clothing",
+    "subCategory": "Skirts",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1053744/701103/large_citizens-of-humanity-medium-wash-exclusive-fluid-maxi-skirt.jpg?_v=1756508607",
+      "https://cdn.modaoperandi.com/assets/images/products/1053744/701103/689f53f3/large_citizens-of-humanity-medium-wash-exclusive-fluid-maxi-skirt.jpg?_v=1756508607",
+      "https://cdn.modaoperandi.com/assets/images/products/1053744/701103/c/large_citizens-of-humanity-medium-wash-exclusive-fluid-maxi-skirt.jpg?_v=1756508607",
+      "https://cdn.modaoperandi.com/assets/images/products/1053744/701103/c3/large_citizens-of-humanity-medium-wash-exclusive-fluid-maxi-skirt.jpg?_v=1756508607"
+    ],
+    "variants": [
+      { "size": "S", "color": "Medium wash", "stock": 2 },
+      { "size": "M", "color": "Medium wash", "stock": 5 },
+      { "size": "L", "color": "Medium wash", "stock": 7 },
+      { "size": "XS", "color": "Medium wash", "stock": 5 }
+    ]
+  },
+  {
+    "name": "Gabriela Hearst",
+    "description": "Adalaide Snake-Printed Denim Midi Skirt",
+    "price": 1100,
+    "category": "Clothing",
+    "subCategory": "Skirts",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1046897/693822/large_gabriela-hearst-grey-adalaide-snake-printed-denim-midi-skirt.jpg?_v=1756530337"
+    ],
+    "variants": [
+      { "size": "S", "color": "Grey", "stock": 2 },
+      { "size": "M", "color": "Grey", "stock": 5 },
+      { "size": "L", "color": "Grey", "stock": 7 },
+      { "size": "XS", "color": "Grey", "stock": 5 }
+    ]
+  },
+  {
+    "name": "Arcina Ori",
+    "description": "Andi Satin Maxi Skirt",
+    "price": 280,
+    "category": "Clothing",
+    "subCategory": "Skirts",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1061778/709854/large_arcina-ori-yellow-andi-skirt.jpg?_v=1755753761",
+      "https://cdn.modaoperandi.com/assets/images/products/1061778/709854/c/large_arcina-ori-yellow-andi-skirt.jpg?_v=1755753761",
+      "https://cdn.modaoperandi.com/assets/images/products/1061778/709854/c3/large_arcina-ori-yellow-andi-skirt.jpg?_v=1755753761"
+    ],
+    "variants": [
+      { "size": "S", "color": "Yellow", "stock": 2 },
+      { "size": "M", "color": "Yellow", "stock": 5 },
+      { "size": "L", "color": "Yellow", "stock": 7 },
+      { "size": "XS", "color": "Yellow", "stock": 5 }
+    ]
+  },
+  {
+    "name": "Matthew Bruch",
+    "description": "Raw-Denim Midi Skirt",
+    "price": 350,
+    "category": "Clothing",
+    "subCategory": "Skirts",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1052142/699368/large_matthew-bruch-navy-raw-denim-combo-midi-skirt.jpg?_v=1756490447",
+      "https://cdn.modaoperandi.com/assets/images/products/1052142/699368/c/large_matthew-bruch-navy-raw-denim-combo-midi-skirt.jpg?_v=1756490447",
+      "https://cdn.modaoperandi.com/assets/images/products/1052142/699368/c2/large_matthew-bruch-navy-raw-denim-combo-midi-skirt.jpg?_v=1756490447",
+      "https://cdn.modaoperandi.com/assets/images/products/1052142/699368/c3/large_matthew-bruch-navy-raw-denim-combo-midi-skirt.jpg?_v=1756490447"
+    ],
+    "variants": [
+      { "size": "S", "color": "Black", "stock": 2 },
+      { "size": "M", "color": "Black", "stock": 5 },
+      { "size": "L", "color": "Black", "stock": 7 },
+      { "size": "XS", "color": "Black", "stock": 5 }
+    ]
+  },
+  {
+    "name": "DL1961",
+    "description": "Alma Mini Skirt",
+    "price": 179,
+    "category": "Clothing",
+    "subCategory": "Skirts",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1008519/705739/large_dl1961-blue-alma-skirt-mini.jpg?_v=1756115725",
+      "https://cdn.modaoperandi.com/assets/images/products/1008519/705739/c/large_dl1961-blue-alma-skirt-mini.jpg?_v=1756115725",
+      "https://cdn.modaoperandi.com/assets/images/products/1008519/705739/c2/large_dl1961-blue-alma-skirt-mini.jpg?_v=1756115725",
+      "https://cdn.modaoperandi.com/assets/images/products/1008519/705739/c3/large_dl1961-blue-alma-skirt-mini.jpg?_v=17561157258"
+    ],
+    "variants": [
+      { "size": "S", "color": "Blue", "stock": 2 },
+      { "size": "M", "color": "Blue", "stock": 5 },
+      { "size": "L", "color": "Blue", "stock": 7 },
+      { "size": "XS", "color": "Blue", "stock": 5 }
+    ]
+  },
+  {
+    "name": "Ferragamo",
+    "description": "Herringbone Stretch-Wool Mini Skirt",
+    "price": 830,
+    "category": "Clothing",
+    "subCategory": "Skirts",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1045432/692207/large_ferragamo-stripe-herringbone-stretch-wool-mini-skirt.jpg?_v=1756476337",
+      "https://cdn.modaoperandi.com/assets/images/products/1045432/692207/c2/large_ferragamo-stripe-herringbone-stretch-wool-mini-skirt.jpg?_v=1756476337",
+      "https://cdn.modaoperandi.com/assets/images/products/1045432/692207/c2/large_ferragamo-stripe-herringbone-stretch-wool-mini-skirt.jpg?_v=1756476337",
+      "https://cdn.modaoperandi.com/assets/images/products/1045432/692207/c3/large_ferragamo-stripe-herringbone-stretch-wool-mini-skirt.jpg?_v=17564763378"
+    ],
+    "variants": [
+      { "size": "S", "color": "Stripe", "stock": 2 },
+      { "size": "M", "color": "Stripe", "stock": 5 },
+      { "size": "L", "color": "Stripe", "stock": 7 },
+      { "size": "XS", "color": "Stripe", "stock": 5 }
+    ]
+  },
+  {
+    "name": "STAUD",
+    "description": "Reese Belted Floral Jacquard Mini Skirts",
+    "price": 345,
+    "category": "Clothing",
+    "subCategory": "Skirts",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1041041/687371/large_staud-yellow-reese-skirt.jpg?_v=1756651721",
+      "https://cdn.modaoperandi.com/assets/images/products/1041041/687371/c/large_staud-yellow-reese-skirt.jpg?_v=1756651721",
+      "https://cdn.modaoperandi.com/assets/images/products/1041041/687371/c2/large_staud-yellow-reese-skirt.jpg?_v=1756651721",
+      "https://cdn.modaoperandi.com/assets/images/products/1041041/687371/c3/large_staud-yellow-reese-skirt.jpg?_v=1756651721"
+    ],
+    "variants": [
+      { "size": "S", "color": "Yellow", "stock": 2 },
+      { "size": "M", "color": "Yellow", "stock": 5 },
+      { "size": "L", "color": "Yellow", "stock": 7 },
+      { "size": "XS", "color": "Yellow", "stock": 5 }
+    ]
+  },
+  {
+    "name": "Sporty & Rich",
+    "description": "Mila Pleated Knit Mini Skirt",
+    "price": 190,
+    "category": "Clothing",
+    "subCategory": "Skirts",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1015887/659683/large_sporty-rich-white-serif-logo-mila-skirt.jpg?_v=1756727358",
+      "https://cdn.modaoperandi.com/assets/images/products/1015887/659683/c/large_sporty-rich-white-serif-logo-mila-skirt.jpg?_v=1756727358",
+      "https://cdn.modaoperandi.com/assets/images/products/1015887/659683/c2/large_sporty-rich-white-serif-logo-mila-skirt.jpg?_v=1756727358",
+      "https://cdn.modaoperandi.com/assets/images/products/1015887/659683/c3/large_sporty-rich-white-serif-logo-mila-skirt.jpg?_v=1756727358"
+    ],
+    "variants": [
+      { "size": "S", "color": "White", "stock": 2 },
+      { "size": "M", "color": "White", "stock": 5 },
+      { "size": "L", "color": "White", "stock": 7 },
+      { "size": "XS", "color": "White", "stock": 5 }
+    ]
+  },
+  {
+    "name": "Andres Otalora",
+    "description": "Sublimes Silk-Charmeuse Maxi Skirt",
+    "price": 1100,
+    "category": "Clothing",
+    "subCategory": "Skirts",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1040301/686572/large_andres-otalora-gold-sublimes-silk-maxi-skirt.jpg?_v=1756688313",
+      "https://cdn.modaoperandi.com/assets/images/products/1040301/686572/c/large_andres-otalora-gold-sublimes-silk-maxi-skirt.jpg?_v=1756688313",
+      "https://cdn.modaoperandi.com/assets/images/products/1040301/686572/c2/large_andres-otalora-gold-sublimes-silk-maxi-skirt.jpg?_v=1756688313",
+      "https://cdn.modaoperandi.com/assets/images/products/1040301/686572/c3/large_andres-otalora-gold-sublimes-silk-maxi-skirt.jpg?_v=17566883138"
+    ],
+    "variants": [
+      { "size": "S", "color": "Gold", "stock": 2 },
+      { "size": "M", "color": "Gold", "stock": 5 },
+      { "size": "L", "color": "Gold", "stock": 7 },
+      { "size": "XS", "color": "Gold", "stock": 5 }
+    ]
+  },
+  {
+    "name": "Anna October",
+    "description": "Sonia Draped Jersey Maxi Skirt",
+    "price": 545,
+    "category": "Clothing",
+    "subCategory": "Skirts",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1039487/685622/large_anna-october-blue-sonia-maxi-skirt.jpg?_v=1756386534",
+      "https://cdn.modaoperandi.com/assets/images/products/1039487/685622/c/large_anna-october-blue-sonia-maxi-skirt.jpg?_v=1756386534",
+      "https://cdn.modaoperandi.com/assets/images/products/1039487/685622/c3/large_anna-october-blue-sonia-maxi-skirt.jpg?_v=17563865347",
+      "https://cdn.modaoperandi.com/assets/images/products/1039487/685622/c3/large_anna-october-blue-sonia-maxi-skirt.jpg?_v=1756386534"
+    ],
+    "variants": [
+      { "size": "S", "color": "Blue", "stock": 2 },
+      { "size": "M", "color": "Blue", "stock": 5 },
+      { "size": "L", "color": "Blue", "stock": 7 },
+      { "size": "XS", "color": "Blue", "stock": 5 }
+    ]
+  },
+  {
+    "name": "Citizens of Humanity",
+    "description": "Pleated Mini Skirt",
+    "price": 288,
+    "category": "Clothing",
+    "subCategory": "Skirts",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1043922/690551/large_citizens-of-humanity-brown-pleated-mini-skirt.jpg?_v=1756504870",
+      "https://cdn.modaoperandi.com/assets/images/products/1043922/690551/689f56de/large_citizens-of-humanity-brown-pleated-mini-skirt.jpg?_v=1756504870",
+      "https://cdn.modaoperandi.com/assets/images/products/1043922/690551/c/large_citizens-of-humanity-brown-pleated-mini-skirt.jpg?_v=1756504870",
+      "https://cdn.modaoperandi.com/assets/images/products/1043922/690551/c3/large_citizens-of-humanity-brown-pleated-mini-skirt.jpg?_v=1756504870"
+    ],
+    "variants": [
+      { "size": "S", "color": "Brown", "stock": 2 },
+      { "size": "M", "color": "Brown", "stock": 5 },
+      { "size": "L", "color": "Brown", "stock": 7 },
+      { "size": "XS", "color": "Brown", "stock": 5 }
+    ]
+  },
+  {
+    "name": "BIRROT",
+    "description": "Exclusive Lay3 Crepe Mini Skirt",
+    "price": 250,
+    "category": "Clothing",
+    "subCategory": "Skirts",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1039340/685413/large_birrot-silver-a-line-mini-skirt.jpg?_v=1756684620",
+      "https://cdn.modaoperandi.com/assets/images/products/1039340/685413/c/large_birrot-silver-a-line-mini-skirt.jpg?_v=1756684620",
+      "https://cdn.modaoperandi.com/assets/images/products/1039340/685413/c3/large_birrot-silver-a-line-mini-skirt.jpg?_v=1756684620",
+      "https://cdn.modaoperandi.com/assets/images/products/1039340/685413/b/large_birrot-silver-a-line-mini-skirt.jpg?_v=1756684620"
+    ],
+    "variants": [
+      { "size": "S", "color": "Silver", "stock": 2 },
+      { "size": "M", "color": "Silver", "stock": 5 },
+      { "size": "L", "color": "Silver", "stock": 7 },
+      { "size": "XS", "color": "Silver", "stock": 5 }
+    ]
+  },
+  {
+    "name": "THE GARMENT",
+    "description": "Goatskin Suede Mini Skirt",
+    "price": 425,
+    "category": "Clothing",
+    "subCategory": "Skirts",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1040143/686397/large_the-garment-brown-goatskin-suede-mini-skirt.jpg?_v=1754009009",
+      "https://cdn.modaoperandi.com/assets/images/products/1040143/686397/c/large_the-garment-brown-goatskin-suede-mini-skirt.jpg?_v=1754009009",
+      "https://cdn.modaoperandi.com/assets/images/products/1040143/686397/c2/large_the-garment-brown-goatskin-suede-mini-skirt.jpg?_v=1754009009",
+      "https://cdn.modaoperandi.com/assets/images/products/1040143/686397/c3/large_the-garment-brown-goatskin-suede-mini-skirt.jpg?_v=1754009009"
+    ],
+    "variants": [
+      { "size": "S", "color": "Brown", "stock": 2 },
+      { "size": "M", "color": "Brown", "stock": 5 },
+      { "size": "L", "color": "Brown", "stock": 7 },
+      { "size": "XS", "color": "Brown", "stock": 5 }
+    ]
+  },
+  {
+    "name": "Tove",
+    "description": "Orrla Off-The-Shoulder Wool Top",
+    "price": 775,
+    "category": "Clothing",
+    "subCategory": "Tops",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1049047/696083/large_tove-black-orrla-top.jpg?_v=1756584327",
+      "https://cdn.modaoperandi.com/assets/images/products/1049047/696083/c/large_tove-black-orrla-top.jpg?_v=1756584327"
+    ],
+    "variants": [
+      { "size": "S", "color": "Black", "stock": 2 },
+      { "size": "M", "color": "Black", "stock": 5 },
+      { "size": "L", "color": "Black", "stock": 7 },
+      { "size": "XS", "color": "Black", "stock": 5 }
+    ]
+  },
+  {
+    "name": "ILA.",
+    "description": "Exclusive Noelle Sequined Knit Top",
+    "price": 565,
+    "category": "Clothing",
+    "subCategory": "Tops",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1047625/694581/large_ila-black-noelle-top.jpg?_v=1756476910",
+      "https://cdn.modaoperandi.com/assets/images/products/1047625/694581/c2/large_ila-black-noelle-top.jpg?_v=1756476910"
+    ],
+    "variants": [
+      { "size": "S", "color": "Black", "stock": 2 },
+      { "size": "M", "color": "Black", "stock": 5 },
+      { "size": "L", "color": "Black", "stock": 7 },
+      { "size": "XS", "color": "Black", "stock": 5 }
+    ]
+  },
+  {
+    "name": "DL1961",
+    "description": "Brinn Cardigan Top",
+    "price": 269,
+    "category": "Clothing",
+    "subCategory": "Tops",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1061830/709909/large_dl1961-navy-brinn-cardigan-top-navy.jpg?_v=1756619733",
+      "https://cdn.modaoperandi.com/assets/images/products/1061830/709909/c/large_dl1961-navy-brinn-cardigan-top-navy.jpg?_v=1756619733"
+    ],
+    "variants": [
+      { "size": "S", "color": "Navy", "stock": 2 },
+      { "size": "M", "color": "Navy", "stock": 5 },
+      { "size": "L", "color": "Navy", "stock": 7 },
+      { "size": "XS", "color": "Navy", "stock": 5 }
+    ]
+  },
+  {
+    "name": "THE GARMENT",
+    "description": "Gilian Draped Chiffon Bustier Top",
+    "price": 295,
+    "category": "Clothing",
+    "subCategory": "Tops",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1035061/680658/large_the-garment-brown-gilian-bustier-2.jpg?_v=1756523396",
+      "https://cdn.modaoperandi.com/assets/images/products/1035061/680658/681282af/large_the-garment-brown-gilian-bustier-2.jpg?_v=1756523396"
+    ],
+    "variants": [
+      { "size": "S", "color": "Brown", "stock": 2 },
+      { "size": "M", "color": "Brown", "stock": 5 },
+      { "size": "L", "color": "Brown", "stock": 7 },
+      { "size": "XS", "color": "Brown", "stock": 5 }
+    ]
+  },
+  {
+    "name": "House of Dagmar",
+    "description": "Ruffled Stretch-Crepe Strapless Top",
+    "price": 300,
+    "category": "Clothing",
+    "subCategory": "Tops",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/994978/637271/large_house-of-dagmar-white-sculpted-tube-top-2.jpg?_v=1756477332",
+      "https://cdn.modaoperandi.com/assets/images/products/994978/637271/c2/large_house-of-dagmar-white-sculpted-tube-top-2.jpg?_v=1756477332"
+    ],
+    "variants": [
+      { "size": "S", "color": "White", "stock": 2 },
+      { "size": "M", "color": "White", "stock": 5 },
+      { "size": "L", "color": "White", "stock": 7 },
+      { "size": "XS", "color": "White", "stock": 5 }
+    ]
+  },
+  {
+    "name": "Tove",
+    "description": "Malia Cashmere Tie-Neck Sweater",
+    "price": 955,
+    "category": "Clothing",
+    "subCategory": "Tops",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1049050/696086/large_tove-grey-malia-jumper.jpg?_v=1756665800",
+      "https://cdn.modaoperandi.com/assets/images/products/1049050/696086/c/large_tove-grey-malia-jumper.jpg?_v=1756665800"
+    ],
+    "variants": [
+      { "size": "S", "color": "Grey", "stock": 2 },
+      { "size": "M", "color": "Grey", "stock": 5 },
+      { "size": "L", "color": "Grey", "stock": 7 },
+      { "size": "XS", "color": "Grey", "stock": 5 }
+    ]
+  },
+  {
+    "name": "Lisa Yang",
+    "description": "Vanna Cashmere Cardigan",
+    "price": 825,
+    "category": "Clothing",
+    "subCategory": "Tops",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1037740/683595/large_lisa-yang-grey-vanna-cardigan.jpg?_v=1755792200",
+      "https://cdn.modaoperandi.com/assets/images/products/1037740/683595/c/large_lisa-yang-grey-vanna-cardigan.jpg?_v=1755792200"
+    ],
+    "variants": [
+      { "size": "S", "color": "Grey", "stock": 2 },
+      { "size": "M", "color": "Grey", "stock": 5 },
+      { "size": "L", "color": "Grey", "stock": 7 },
+      { "size": "XS", "color": "Grey", "stock": 5 }
+    ]
+  },
+  {
+    "name": "Toteme",
+    "description": "Raglan-Sleeve Cashmere Cardigan",
+    "price": 740,
+    "category": "Clothing",
+    "subCategory": "Tops",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1039544/685682/large_toteme-grey-raglan-sleeve-cashmere-cardigan.jpg?_v=1756309570",
+      "https://cdn.modaoperandi.com/assets/images/products/1039544/685682/c/large_toteme-grey-raglan-sleeve-cashmere-cardigan.jpg?_v=1756309570"
+    ],
+    "variants": [
+      { "size": "S", "color": "Grey", "stock": 2 },
+      { "size": "M", "color": "Grey", "stock": 5 },
+      { "size": "L", "color": "Grey", "stock": 7 },
+      { "size": "XS", "color": "Grey", "stock": 5 }
+    ]
+  },
+  {
+    "name": "DL1961",
+    "description": "Ines Aura Denim Shirt",
+    "price": 199,
+    "category": "Clothing",
+    "subCategory": "Tops",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1059413/707250/large_dl1961-blue-ines-aura-denim-shirt.jpg?_v=1756137217",
+      "https://cdn.modaoperandi.com/assets/images/products/1059413/707250/c/large_dl1961-blue-ines-aura-denim-shirt.jpg?_v=1756137217"
+    ],
+    "variants": [
+      { "size": "S", "color": "Blue", "stock": 2 },
+      { "size": "M", "color": "Blue", "stock": 5 },
+      { "size": "L", "color": "Blue", "stock": 7 },
+      { "size": "XS", "color": "Blue", "stock": 5 }
+    ]
+  },
+  {
+    "name": "Arcina Ori",
+    "description": "Alessia Cropped Off-The-Shoulder Jersey Top",
+    "price": 220,
+    "category": "Collections",
+    "subCategory": "Arcina Ori",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1061790/709866/large_arcina-ori-neutral-alessia-top.jpg?_v=1756366788",
+      "https://cdn.modaoperandi.com/assets/images/products/1061790/709866/c/large_arcina-ori-neutral-alessia-top.jpg?_v=1756366788"
+    ],
+    "variants": [
+      { "size": "S", "color": "Neutral", "stock": 2 },
+      { "size": "M", "color": "Neutral", "stock": 5 },
+      { "size": "L", "color": "Neutral", "stock": 7 },
+      { "size": "XS", "color": "Neutral", "stock": 5 }
+    ]
+  },
+  {
+    "name": "SIMKHAI",
+    "description": "Maebry Metallic Plisse Top",
+    "price": 445,
+    "category": "Clothing",
+    "subCategory": "Tops",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1052934/700235/large_jonathan-simkhai-gold-maebry-l-s-crewneck-top.jpg?_v=1756658939",
+      "https://cdn.modaoperandi.com/assets/images/products/1052934/700235/c/large_jonathan-simkhai-gold-maebry-l-s-crewneck-top.jpg?_v=1756658939"
+    ],
+    "variants": [
+      { "size": "S", "color": "Gold", "stock": 2 },
+      { "size": "M", "color": "Gold", "stock": 5 },
+      { "size": "L", "color": "Gold", "stock": 7 },
+      { "size": "XS", "color": "Gold", "stock": 5 }
+    ]
+  },
+  {
+    "name": "Wiederhoeft",
+    "description": "Wasp Embellished Satin Corset Top",
+    "price": 6500,
+    "category": "Clothing",
+    "subCategory": "Tops",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1022647/667266/large_wiederhoeft-pink-wasp-embellished-satin-corset-top.jpg?_v=1753716684",
+      "https://cdn.modaoperandi.com/assets/images/products/1022647/667266/b/large_wiederhoeft-pink-wasp-embellished-satin-corset-top.jpg?_v=1753716684"
+    ],
+    "variants": [
+      { "size": "S", "color": "Pink", "stock": 2 },
+      { "size": "M", "color": "Pink", "stock": 5 },
+      { "size": "L", "color": "Pink", "stock": 7 },
+      { "size": "XS", "color": "Pink", "stock": 5 }
+    ]
+  },
+  {
+    "name": "Tae Park",
+    "description": "Versailles Ruffled Cotton-Canvas Top",
+    "price": 625,
+    "category": "Clothing",
+    "subCategory": "Tops",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1052775/700042/large_tae-park-ivory-versailles-top.jpg?_v=1756231708",
+      "https://cdn.modaoperandi.com/assets/images/products/1052775/700042/c/large_tae-park-ivory-versailles-top.jpg?_v=1756231708"
+    ],
+    "variants": [
+      { "size": "S", "color": "Ivory", "stock": 2 },
+      { "size": "M", "color": "Ivory", "stock": 5 },
+      { "size": "L", "color": "Ivory", "stock": 7 },
+      { "size": "XS", "color": "Ivory", "stock": 5 }
+    ]
+  },
+  {
+    "name": "Arcina Ori",
+    "description": "Jordana Draped Georgette Maxi Dress",
+    "price": 400,
+    "category": "Clothing",
+    "subCategory": "Dresses",
+
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1061794/709870/medium_arcina-ori-blue-jordana-dress.jpg?_v=1755655271",
+      "https://cdn.modaoperandi.com/assets/images/products/1061794/709870/c/large_arcina-ori-blue-jordana-dress.jpg?_v=1755655271"
+    ],
+    "variants": [
+      { "size": "S", "color": "Blue", "stock": 2 },
+      { "size": "M", "color": "Blue", "stock": 5 },
+      { "size": "L", "color": "Blue", "stock": 7 },
+      { "size": "XS", "color": "Blue", "stock": 5 }
+    ]
+  },
+  {
+    "name": "Paris Georgia",
+    "description": "Raina Dobby Maxi Dress",
+    "price": 740,
+    "category": "Clothing",
+    "subCategory": "Dresses",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1035626/681245/large_paris-georgia-light-blue-raina-woven-maxi-dress.jpg?_v=1756590359"
+    ],
+    "variants": [
+      { "size": "S", "color": "Light blue", "stock": 2 },
+      { "size": "M", "color": "Light blue", "stock": 5 },
+      { "size": "L", "color": "Light blue", "stock": 7 },
+      { "size": "XS", "color": "Light blue", "stock": 5 }
+    ]
+  },
+  {
+    "name": "Arcina Ori",
+    "description": "Fernanda Open-Back Georgette Mini Dress",
+    "price": 420,
+    "category": "Clothing",
+    "subCategory": "Dresses",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1061779/709855/large_arcina-ori-blue-fernanda-dress.jpg?_v=1756323558",
+      "https://cdn.modaoperandi.com/assets/images/products/1061779/709855/c/large_arcina-ori-blue-fernanda-dress.jpg?_v=1756323558"
+    ],
+    "variants": [
+      { "size": "S", "color": "Blue", "stock": 2 },
+      { "size": "M", "color": "Blue", "stock": 5 },
+      { "size": "L", "color": "Blue", "stock": 7 },
+      { "size": "XS", "color": "Blue", "stock": 5 }
+    ]
+  },
+  {
+    "name": "Aje",
+    "description": "Ivy Cotton Bubble-Hem Mini Dress",
+    "price": 550,
+    "category": "Clothing",
+    "subCategory": "Dresses",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1046921/693846/large_aje-ivory-ivy-bubble-hem-mini-dress.jpg?_v=1756409957",
+      "https://cdn.modaoperandi.com/assets/images/products/1046921/693846/c2/large_aje-ivory-ivy-bubble-hem-mini-dress.jpg?_v=1756409957"
+    ],
+    "variants": [
+      { "size": "S", "color": "Ivory", "stock": 2 },
+      { "size": "M", "color": "Ivory", "stock": 5 },
+      { "size": "L", "color": "Ivory", "stock": 7 },
+      { "size": "XS", "color": "Ivory", "stock": 5 }
+    ]
+  },
+  {
+    "name": "Arcina Ori",
+    "description": "Chantal Draped Jersey Maxi Dress",
+    "price": 440,
+    "category": "Collections",
+    "subCategory": "Arcina Ori",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1061783/709859/large_arcina-ori-white-chantal-dress.jpg?_v=1756668694",
+      "https://cdn.modaoperandi.com/assets/images/products/1061783/709859/c2/large_arcina-ori-white-chantal-dress.jpg?_v=1756668694"
+    ],
+    "variants": [
+      { "size": "S", "color": "White", "stock": 2 },
+      { "size": "M", "color": "White", "stock": 5 },
+      { "size": "L", "color": "White", "stock": 7 },
+      { "size": "XS", "color": "White", "stock": 5 }
+    ]
+  },
+  {
+    "name": "Markarian",
+    "description": "Yolanda Off-The-Shoulder Brocade Gown",
+    "price": 2775,
+    "category": "Clothing",
+    "subCategory": "Dresses",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1045881/692689/large_markarian-gold-yolanda-brocade-off-theshoulder-gown-with-back-slit.jpg?_v=1754577915",
+      "https://cdn.modaoperandi.com/assets/images/products/1045881/692689/c/large_markarian-gold-yolanda-brocade-off-theshoulder-gown-with-back-slit.jpg?_v=1754577915"
+    ],
+    "variants": [
+      { "size": "S", "color": "Gold", "stock": 2 },
+      { "size": "M", "color": "Gold", "stock": 5 },
+      { "size": "L", "color": "Gold", "stock": 7 },
+      { "size": "XS", "color": "Gold", "stock": 5 }
+    ]
+  },
+  {
+    "name": "Markarian",
+    "description": "Emmalina Pomegranate-Embroidered Jacquard Midi Dress",
+    "price": 2055,
+    "category": "Clothing",
+    "subCategory": "Dresses",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1045880/692688/large_markarian-ivory-emmalina-pomegranate-embroidered-bust-sweetheart-midi-length-jacquard-dress.jpg?_v=1756086866",
+      "https://cdn.modaoperandi.com/assets/images/products/1045880/692688/c/large_markarian-ivory-emmalina-pomegranate-embroidered-bust-sweetheart-midi-length-jacquard-dress.jpg?_v=1756086866"
+    ],
+    "variants": [
+      { "size": "S", "color": "Ivory", "stock": 2 },
+      { "size": "M", "color": "Ivory", "stock": 5 },
+      { "size": "L", "color": "Ivory", "stock": 7 },
+      { "size": "XS", "color": "Ivory", "stock": 5 }
+    ]
+  },
+  {
+    "name": "Christopher Esber",
+    "description": "Exclusive Draped Off-The-Shoulder Silk Maxi Dress",
+    "price": 1650,
+    "category": "Clothing",
+    "subCategory": "Dresses",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1040025/686260/large_christopher-esber-yellow-exclusive-draped-off-the-shoulder-silk-maxi-dress.jpg?_v=1756298654",
+      "https://cdn.modaoperandi.com/assets/images/products/1040025/686260/c2/large_christopher-esber-yellow-exclusive-draped-off-the-shoulder-silk-maxi-dress.jpg?_v=1756298654"
+    ],
+    "variants": [
+      { "size": "S", "color": "Yellow", "stock": 2 },
+      { "size": "M", "color": "Yellow", "stock": 5 },
+      { "size": "L", "color": "Yellow", "stock": 7 },
+      { "size": "XS", "color": "Yellow", "stock": 5 }
+    ]
+  },
+  {
+    "name": "Agua by Agua Bendita",
+    "description": "Cinéfila Jaguar Jacquard Midi Dress",
+    "price": 990,
+    "category": "Clothing",
+    "subCategory": "Dresses",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1038900/684924/large_agua-by-agua-bendita-animal-cinefila-leopard-print-jacquard-midi-dress.jpg?_v=1756471188",
+      "https://cdn.modaoperandi.com/assets/images/products/1038900/684924/c/large_agua-by-agua-bendita-animal-cinefila-leopard-print-jacquard-midi-dress.jpg?_v=1756471188"
+    ],
+    "variants": [
+      { "size": "S", "color": "Animal", "stock": 2 },
+      { "size": "M", "color": "Animal", "stock": 5 },
+      { "size": "L", "color": "Animal", "stock": 7 },
+      { "size": "XS", "color": "Animal", "stock": 5 }
+    ]
+  },
+  {
+    "name": "Arcina Ori",
+    "description": "Devora Satin Maxi Halter Dress",
+    "price": 540,
+    "category": "Clothing",
+    "subCategory": "Dresses",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1061785/709861/large_arcina-ori-brown-devora-dress.jpg?_v=1756655491",
+      "https://cdn.modaoperandi.com/assets/images/products/1061785/709861/c2/large_arcina-ori-brown-devora-dress.jpg?_v=1756655491"
+    ],
+    "variants": [
+      { "size": "S", "color": "Brown", "stock": 2 },
+      { "size": "M", "color": "Brown", "stock": 5 },
+      { "size": "L", "color": "Brown", "stock": 7 },
+      { "size": "XS", "color": "Brown", "stock": 5 }
+    ]
+  },
+  {
+    "name": "Arcina Ori",
+    "description": "Audrey Crepe-Georgette Maxi Dress",
+    "price": 340,
+    "category": "Clothing",
+    "subCategory": "Dresses",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1061797/709873/large_arcina-ori-neutral-audrey-dress-2.jpg?_v=1756593804",
+      "https://cdn.modaoperandi.com/assets/images/products/1061797/709873/c/large_arcina-ori-neutral-audrey-dress-2.jpg?_v=1756593804"
+    ],
+    "variants": [
+      { "size": "S", "color": "Neutral", "stock": 2 },
+      { "size": "M", "color": "Neutral", "stock": 5 },
+      { "size": "L", "color": "Neutral", "stock": 7 },
+      { "size": "XS", "color": "Neutral", "stock": 5 }
+    ]
+  },
+  {
+    "name": "Ludovic de Saint Sernin",
+    "description": "New Isabella Wool Maxi Dress",
+    "price": 910,
+    "category": "Clothing",
+    "subCategory": "Dresses",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1047385/694337/large_ludovic-de-saint-sernin-khaki-new-isabella-wool-maxi-dress.jpg?_v=1756269112",
+      "https://cdn.modaoperandi.com/assets/images/products/1047385/694337/c/large_ludovic-de-saint-sernin-khaki-new-isabella-wool-maxi-dress.jpg?_v=1756269112"
+    ],
+    "variants": [
+      { "size": "S", "color": "Khaki", "stock": 2 },
+      { "size": "M", "color": "Khaki", "stock": 5 },
+      { "size": "L", "color": "Khaki", "stock": 7 },
+      { "size": "XS", "color": "Khaki", "stock": 5 }
+    ]
+  },
+  {
+    "name": "SIR",
+    "description": "Luca Silk Gown",
+    "price": 770,
+    "category": "Clothing",
+    "subCategory": "Dresses",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1042307/688803/large_sir-the-label-brown-luca-gown.jpg?_v=1756313287",
+      "https://cdn.modaoperandi.com/assets/images/products/1042307/688803/c/large_sir-the-label-brown-luca-gown.jpg?_v=1756313287"
+    ],
+    "variants": [
+      { "size": "S", "color": "Brown", "stock": 2 },
+      { "size": "M", "color": "Brown", "stock": 5 },
+      { "size": "L", "color": "Brown", "stock": 7 },
+      { "size": "XS", "color": "Brown", "stock": 5 }
+    ]
+  },
+  {
+    "name": "Arcina Ori",
+    "description": "Paloma Georgette Maxi Dress",
+    "price": 540,
+    "category": "Collections",
+    "subCategory": "Arcina Ori",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1061775/709851/large_arcina-ori-black-paloma-dress.jpg?_v=1756515697",
+      "https://cdn.modaoperandi.com/assets/images/products/1061775/709851/c/large_arcina-ori-black-paloma-dress.jpg?_v=1756515697"
+    ],
+    "variants": [
+      { "size": "S", "color": "Black", "stock": 2 },
+      { "size": "M", "color": "Black", "stock": 5 },
+      { "size": "L", "color": "Black", "stock": 7 },
+      { "size": "XS", "color": "Black", "stock": 5 }
+    ]
+  },
+  {
+    "name": "Coperni",
+    "description": "Uniform Twill Mini Dress",
+    "price": 880,
+    "category": "Clothing",
+    "subCategory": "Dresses",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1046356/693225/large_coperni-black-uniform-dress.jpg?_v=1756269000",
+      "https://cdn.modaoperandi.com/assets/images/products/1046356/693225/c/large_coperni-black-uniform-dress.jpg?_v=1756269000"
+    ],
+    "variants": [
+      { "size": "S", "color": "Black", "stock": 2 },
+      { "size": "M", "color": "Black", "stock": 5 },
+      { "size": "L", "color": "Black", "stock": 7 },
+      { "size": "XS", "color": "Black", "stock": 5 }
+    ]
+  },
+  {
+    "name": "Arcina Ori",
+    "description": "Ellery Off-The-Shoulder Ponte Maxi Dress",
+    "price": 520,
+    "category": "Collections",
+    "subCategory": "Arcina Ori",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1061780/709856/large_arcina-ori-black-ellery-dress.jpg?_v=1756586886",
+      "https://cdn.modaoperandi.com/assets/images/products/1061780/709856/c/large_arcina-ori-black-ellery-dress.jpg?_v=1756586886"
+    ],
+    "variants": [
+      { "size": "S", "color": "Black", "stock": 2 },
+      { "size": "M", "color": "Black", "stock": 5 },
+      { "size": "L", "color": "Black", "stock": 7 },
+      { "size": "XS", "color": "Black", "stock": 5 }
+    ]
+  },
+  {
+    "name": "Paris Georgia",
+    "description": "Julia Ruffled Silk-Georgette Mini Dress",
+    "price": 670,
+    "category": "Clothing",
+    "subCategory": "Dresses",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1035594/681213/large_paris-georgia-pink-julia-ruffled-silk-dress.jpg?_v=1756313399",
+      "https://cdn.modaoperandi.com/assets/images/products/1035594/681213/b/large_paris-georgia-pink-julia-ruffled-silk-dress.jpg?_v=1756313399"
+    ],
+    "variants": [
+      { "size": "S", "color": "Pink", "stock": 2 },
+      { "size": "M", "color": "Pink", "stock": 5 },
+      { "size": "L", "color": "Pink", "stock": 7 },
+      { "size": "XS", "color": "Pink", "stock": 5 }
+    ]
+  },
+  {
+    "name": "Marrakshi Life",
+    "description": "Exclusive Striped Cotton High-Rise Shorts",
+    "price": 295,
+    "category": "Collections",
+    "subCategory": "Arcina Ori",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1049773/696846/large_marrakshi-life-brown-exclusive-high-waisted-short.jpg?_v=1755717140",
+      "https://cdn.modaoperandi.com/assets/images/products/1049773/696846/c/large_marrakshi-life-brown-exclusive-high-waisted-short.jpg?_v=1755717140"
+    ],
+    "variants": [
+      { "size": "S", "color": "Brown", "stock": 2 },
+      { "size": "M", "color": "Brown", "stock": 5 },
+      { "size": "L", "color": "Brown", "stock": 7 },
+      { "size": "XS", "color": "Brown", "stock": 5 }
+    ]
+  },
+  {
+    "name": "Alfie",
+    "description": "Boxer Crushed Velour Shorts",
+    "price": 280,
+    "category": "Clothing",
+    "subCategory": "Shorts",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1049210/696257/large_alfie-brown-boxer-shorts-velour-da-vora-light-brown.jpg?_v=1756406045",
+      "https://cdn.modaoperandi.com/assets/images/products/1049210/696257/c/large_alfie-brown-boxer-shorts-velour-da-vora-light-brown.jpg?_v=1756406045"
+    ],
+    "variants": [
+      { "size": "S", "color": "Brown", "stock": 2 },
+      { "size": "M", "color": "Brown", "stock": 5 },
+      { "size": "L", "color": "Brown", "stock": 7 },
+      { "size": "XS", "color": "Brown", "stock": 5 }
+    ]
+  },
+  {
+    "name": "Agua by Agua Bendita",
+    "description": "Maratea Chinesis High-Rise Shorts",
+    "price": 430,
+    "category": "Clothing",
+    "subCategory": "Shorts",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1062744/710863/large_agua-by-agua-bendita-multi-maratea-chinesis-18487.jpg?_v=1756137237",
+      "https://cdn.modaoperandi.com/assets/images/products/1062744/710863/c/large_agua-by-agua-bendita-multi-maratea-chinesis-18487.jpg?_v=1756137237"
+    ],
+    "variants": [
+      { "size": "S", "color": "Multi", "stock": 2 },
+      { "size": "M", "color": "Multi", "stock": 5 },
+      { "size": "L", "color": "Multi", "stock": 7 },
+      { "size": "XS", "color": "Multi", "stock": 5 }
+    ]
+  },
+  {
+    "name": "SIMKHAI",
+    "description": "Hadley Cotton-Blend Shorts",
+    "price": 345,
+    "category": "Clothing",
+    "subCategory": "Shorts",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1053403/700734/large_jonathan-simkhai-ivory-hadley-shorts.jpg?_v=1755733217",
+      "https://cdn.modaoperandi.com/assets/images/products/1053403/700734/c/large_jonathan-simkhai-ivory-hadley-shorts.jpg?_v=1755733217"
+    ],
+    "variants": [
+      { "size": "S", "color": "Ivory", "stock": 2 },
+      { "size": "M", "color": "Ivory", "stock": 5 },
+      { "size": "L", "color": "Ivory", "stock": 7 },
+      { "size": "XS", "color": "Ivory", "stock": 5 }
+    ]
+  },
+  {
+    "name": "Comme Si",
+    "description": "La Classica Cotton-Poplin Boxer Shorts",
+    "price": 95,
+    "category": "Clothing",
+    "subCategory": "Shorts",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1047182/694130/large_comme-si-olive-la-boxer-classica-cotton-poplin.jpg?_v=1756572479",
+      "https://cdn.modaoperandi.com/assets/images/products/1047182/694130/c/large_comme-si-olive-la-boxer-classica-cotton-poplin.jpg?_v=1756572479"
+    ],
+    "variants": [
+      { "size": "S", "color": "Olive", "stock": 2 },
+      { "size": "M", "color": "Olive", "stock": 5 },
+      { "size": "L", "color": "Olive", "stock": 7 },
+      { "size": "XS", "color": "Olive", "stock": 5 }
+    ]
+  },
+  {
+    "name": "Matthew Bruch",
+    "description": "Double-Breasted Cotton-Flannel Skort",
+    "price": 395,
+    "category": "Clothing",
+    "subCategory": "Shorts",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1052136/699362/large_matthew-bruch-taupe-double-breasted-camel-flannel-skort.jpg?_v=1756704025",
+      "https://cdn.modaoperandi.com/assets/images/products/1052136/699362/c/large_matthew-bruch-taupe-double-breasted-camel-flannel-skort.jpg?_v=1756704025"
+    ],
+    "variants": [
+      { "size": "S", "color": "Taupe", "stock": 2 },
+      { "size": "M", "color": "Taupe", "stock": 5 },
+      { "size": "L", "color": "Taupe", "stock": 7 },
+      { "size": "XS", "color": "Taupe", "stock": 5 }
+    ]
+  },
+  {
+    "name": "FRANÇOISE",
+    "description": "Ruby Wool-Blend Tweed Shorts",
+    "price": 555,
+    "category": "Clothing",
+    "subCategory": "Shorts",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1045301/692068/large_francoise-plaid-ruby-tweed-shorts.jpg?_v=1756347398",
+      "https://cdn.modaoperandi.com/assets/images/products/1045301/692068/c/large_francoise-plaid-ruby-tweed-shorts.jpg?_v=1756347398"
+    ],
+    "variants": [
+      { "size": "S", "color": "Plaid", "stock": 2 },
+      { "size": "M", "color": "Plaid", "stock": 5 },
+      { "size": "L", "color": "Plaid", "stock": 7 },
+      { "size": "XS", "color": "Plaid", "stock": 5 }
+    ]
+  },
+  {
+    "name": "BEVZA",
+    "description": "Slit Wool-Blend Shorts",
+    "price": 275,
+    "category": "Clothing",
+    "subCategory": "Shorts",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1038898/684922/large_bevza-grey-shorts-with-slits.jpg?_v=1756512129",
+      "https://cdn.modaoperandi.com/assets/images/products/1038898/684922/c/large_bevza-grey-shorts-with-slits.jpg?_v=1756512129"
+    ],
+    "variants": [
+      { "size": "S", "color": "Grey", "stock": 2 },
+      { "size": "M", "color": "Grey", "stock": 5 },
+      { "size": "L", "color": "Grey", "stock": 7 },
+      { "size": "XS", "color": "Grey", "stock": 5 }
+    ]
+  },
+  {
+    "name": "Favorite Daughter",
+    "description": "Wool Herringbone Spencer Skort",
+    "price": 228,
+    "category": "Clothing",
+    "subCategory": "Shorts",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1049394/696453/large_favorite-daughter-plaid-the-spencer-skort.jpg?_v=1755889336",
+      "https://cdn.modaoperandi.com/assets/images/products/1049394/696453/c/large_favorite-daughter-plaid-the-spencer-skort.jpg?_v=1755889336"
+    ],
+    "variants": [
+      { "size": "S", "color": "Plaid", "stock": 2 },
+      { "size": "M", "color": "Plaid", "stock": 5 },
+      { "size": "L", "color": "Plaid", "stock": 7 },
+      { "size": "XS", "color": "Plaid", "stock": 5 }
+    ]
+  },
+  {
+    "name": "FRAME",
+    "description": "The Structural Cotton Shorts",
+    "price": 248,
+    "category": "Clothing",
+    "subCategory": "Shorts",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1030634/675971/large_frame-denim-black-the-structural-short.jpg?_v=1756068182",
+      "https://cdn.modaoperandi.com/assets/images/products/1030634/675971/c2/large_frame-denim-black-the-structural-short.jpg?_v=1756068182"
+    ],
+    "variants": [
+      { "size": "S", "color": "Black", "stock": 2 },
+      { "size": "M", "color": "Black", "stock": 5 },
+      { "size": "L", "color": "Black", "stock": 7 },
+      { "size": "XS", "color": "Black", "stock": 5 }
+    ]
+  },
+  {
+    "name": "FRANÇOISE",
+    "description": "Exclusive Ruby Cotton Shorts",
+    "price": 495,
+    "category": "Clothing",
+    "subCategory": "Shorts",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1051030/698201/large_francoise-medium-wash-ruby-short.jpg?_v=1756662059",
+      "https://cdn.modaoperandi.com/assets/images/products/1051030/698201/c/large_francoise-medium-wash-ruby-short.jpg?_v=1756662059"
+    ],
+    "variants": [
+      { "size": "S", "color": "Medium wash", "stock": 2 },
+      { "size": "M", "color": "Medium wash", "stock": 5 },
+      { "size": "L", "color": "Medium wash", "stock": 7 },
+      { "size": "XS", "color": "Medium wash", "stock": 5 }
+    ]
+  },
+  {
+    "name": "ELCE",
+    "description": "Exclusive Sidney Striped Cotton-Blend Seersucker Shorts",
+    "price": 130,
+    "category": "Clothing",
+    "subCategory": "Shorts",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1050201/697316/large_elce-neutral-exclusive-sidney-short.jpg?_v=1756404025",
+      "https://cdn.modaoperandi.com/assets/images/products/1050201/697316/c/large_elce-neutral-exclusive-sidney-short.jpg?_v=1756404025"
+    ],
+    "variants": [
+      { "size": "S", "color": "Neutral", "stock": 2 },
+      { "size": "M", "color": "Neutral", "stock": 5 },
+      { "size": "L", "color": "Neutral", "stock": 7 },
+      { "size": "XS", "color": "Neutral", "stock": 5 }
+    ]
+  },
+  {
+    "name": "Magda Butrym",
+    "description": "Lace-Trimmed Leather Shorts",
+    "price": 1860,
+    "category": "Clothing",
+    "subCategory": "Shorts",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1038500/684499/large_magda-butrym-brown-scallop-trim-leather-shorts.jpg?_v=1755708737",
+      "https://cdn.modaoperandi.com/assets/images/products/1038500/684499/c/large_magda-butrym-brown-scallop-trim-leather-shorts.jpg?_v=1755708737"
+    ],
+    "variants": [
+      { "size": "S", "color": "Brown", "stock": 2 },
+      { "size": "M", "color": "Brown", "stock": 5 },
+      { "size": "L", "color": "Brown", "stock": 7 },
+      { "size": "XS", "color": "Brown", "stock": 5 }
+    ]
+  },
+  {
+    "name": "Chloe",
+    "description": "Cut-Off Denim Shorts",
+    "price": 650,
+    "category": "Collections",
+    "subCategory": "Chloe",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1034531/680114/large_chloe-white-ready-wear-denim-short.jpg?_v=1756334060",
+      "https://cdn.modaoperandi.com/assets/images/products/1034531/680114/c/large_chloe-white-ready-wear-denim-short.jpg?_v=1756334060"
+    ],
+    "variants": [
+      { "size": "S", "color": "White", "stock": 2 },
+      { "size": "M", "color": "White", "stock": 5 },
+      { "size": "L", "color": "White", "stock": 7 },
+      { "size": "XS", "color": "White", "stock": 5 }
+    ]
+  },
+  {
+    "name": "Khaite",
+    "description": "Davis Knee High Leather Boots",
+    "price": 1350,
+    "category": "Shoes",
+    "subCategory": "Boots",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/962455/601979/large_khaite-black-davis-knee-high-boots.jpg?_v=1756481576",
+      "https://cdn.modaoperandi.com/assets/images/products/962455/601979/6815066b/large_khaite-black-davis-knee-high-boots.jpg?_v=1756481576"
+    ],
+    "variants": [
+      { "size": "36", "color": "Black", "stock": 2 },
+      { "size": "37", "color": "Black", "stock": 5 },
+      { "size": "38", "color": "Black", "stock": 7 },
+      { "size": "39", "color": "Black", "stock": 5 }
+    ]
+  },
+  {
+    "name": "Khaite",
+    "description": "Arizona Leather Ankle Boots",
+    "price": 990,
+    "category": "Shoes",
+    "subCategory": "Boots",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/842864/467218/large_khaite-black-arizona-leather-ankle-boots.jpg?_v=1756646269",
+      "https://cdn.modaoperandi.com/assets/images/products/842864/467218/c/large_khaite-black-arizona-leather-ankle-boots.jpg?_v=1756646269"
+    ],
+    "variants": [
+      { "size": "36", "color": "Black", "stock": 2 },
+      { "size": "37", "color": "Black", "stock": 5 },
+      { "size": "38", "color": "Black", "stock": 7 },
+      { "size": "39", "color": "Black", "stock": 5 }
+    ]
+  },
+  {
+    "name": "Golden Goose",
+    "description": "Kurt Distressed Leather Boots",
+    "price": 860,
+    "category": "Shoes",
+    "subCategory": "Boots",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1012733/656356/large_golden-goose-brown-kurt-distressed-leather-boots.jpg?_v=1756407184",
+      "https://cdn.modaoperandi.com/assets/images/products/1012733/656356/c/large_golden-goose-brown-kurt-distressed-leather-boots.jpg?_v=1756407184"
+    ],
+    "variants": [
+      { "size": "36", "color": "Brown", "stock": 2 },
+      { "size": "37", "color": "Brown", "stock": 5 },
+      { "size": "38", "color": "Brown", "stock": 7 },
+      { "size": "39", "color": "Brown", "stock": 5 }
+    ]
+  },
+  {
+    "name": "STAUD",
+    "description": "Wally Leather Knee Boots",
+    "price": 495,
+    "category": "Shoes",
+    "subCategory": "Boots",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1033285/678739/large_staud-brown-wally-boot.jpg?_v=1756148337",
+      "https://cdn.modaoperandi.com/assets/images/products/1033285/678739/c/large_staud-brown-wally-boot.jpg?_v=1756148337"
+    ],
+    "variants": [
+      { "size": "36", "color": "Brown", "stock": 2 },
+      { "size": "37", "color": "Brown", "stock": 5 },
+      { "size": "38", "color": "Brown", "stock": 7 },
+      { "size": "39", "color": "Brown", "stock": 5 }
+    ]
+  },
+  {
+    "name": "STAUD",
+    "description": "Wally Leather Ankle Boots",
+    "price": 495,
+    "category": "Shoes",
+    "subCategory": "Boots",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1033289/678743/large_staud-brown-wally-ankle-high-heel-boot.jpg?_v=1756406047",
+      "https://cdn.modaoperandi.com/assets/images/products/1033289/678743/c/large_staud-brown-wally-ankle-high-heel-boot.jpg?_v=1756406047"
+    ],
+    "variants": [
+      { "size": "36", "color": "Brown", "stock": 2 },
+      { "size": "37", "color": "Brown", "stock": 5 },
+      { "size": "38", "color": "Brown", "stock": 7 },
+      { "size": "39", "color": "Brown", "stock": 5 }
+    ]
+  },
+  {
+    "name": "Khaite",
+    "description": "Nevada Leather Ankle Boots",
+    "price": 1680,
+    "category": "Shoes",
+    "subCategory": "Boots",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/948099/586119/large_khaite-black-nevada-leather-stretch-boots.jpg?_v=1756270127",
+      "https://cdn.modaoperandi.com/assets/images/products/948099/586119/c/large_khaite-black-nevada-leather-stretch-boots.jpg?_v=1756270127"
+    ],
+    "variants": [
+      { "size": "36", "color": "Black", "stock": 2 },
+      { "size": "37", "color": "Black", "stock": 5 },
+      { "size": "38", "color": "Black", "stock": 7 },
+      { "size": "39", "color": "Black", "stock": 5 }
+    ]
+  },
+  {
+    "name": "The Row",
+    "description": "Zipped Suede Boot I",
+    "price": 1490,
+    "category": "Shoes",
+    "subCategory": "Boots",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/954427/593449/large_the-row-brown-zipped-boot-i.jpg?_v=1756405631",
+      "https://cdn.modaoperandi.com/assets/images/products/954427/593449/c/large_the-row-brown-zipped-boot-i.jpg?_v=1756405631"
+    ],
+    "variants": [
+      { "size": "36", "color": "Brown", "stock": 2 },
+      { "size": "37", "color": "Brown", "stock": 5 },
+      { "size": "38", "color": "Brown", "stock": 7 },
+      { "size": "39", "color": "Brown", "stock": 5 }
+    ]
+  },
+  {
+    "name": "STAUD",
+    "description": "Austen Leather Knee Boots",
+    "price": 595,
+    "category": "Shoes",
+    "subCategory": "Boots",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1041877/688340/large_staud-black-austen-boot.jpg?_v=1756688847",
+      "https://cdn.modaoperandi.com/assets/images/products/1041877/688340/c/large_staud-black-austen-boot.jpg?_v=1756688847"
+    ],
+    "variants": [
+      { "size": "36", "color": "Black", "stock": 2 },
+      { "size": "37", "color": "Black", "stock": 5 },
+      { "size": "38", "color": "Black", "stock": 7 },
+      { "size": "39", "color": "Black", "stock": 5 }
+    ]
+  },
+  {
+    "name": "Khaite",
+    "description": "Nevada Stretch Leather Boots",
+    "price": 1680,
+    "category": "Shoes",
+    "subCategory": "Boots",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/995677/638059/large_khaite-brown-nevada-mid-ankle-stretch-leather-boots.jpg?_v=1756477959",
+      "https://cdn.modaoperandi.com/assets/images/products/995677/638059/c/large_khaite-brown-nevada-mid-ankle-stretch-leather-boots.jpg?_v=1756477959"
+    ],
+    "variants": [
+      { "size": "36", "color": "Brown", "stock": 2 },
+      { "size": "37", "color": "Brown", "stock": 5 },
+      { "size": "38", "color": "Brown", "stock": 7 },
+      { "size": "39", "color": "Brown", "stock": 5 }
+    ]
+  },
+  {
+    "name": "SIMKHAI",
+    "description": "Noah Leather Knee Boots",
+    "price": 895,
+    "category": "Shoes",
+    "subCategory": "Boots",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1040220/686478/large_jonathan-simkhai-brown-noah-leather-boots.jpg?_v=1756268631",
+      "https://cdn.modaoperandi.com/assets/images/products/962455/601979/6815066b/large_khaite-black-davis-knee-high-boots.jpg?_v=1756481576"
+    ],
+    "variants": [
+      { "size": "36", "color": "Brown", "stock": 2 },
+      { "size": "37", "color": "Brown", "stock": 5 },
+      { "size": "38", "color": "Brown", "stock": 7 },
+      { "size": "39", "color": "Brown", "stock": 5 }
+    ]
+  },
+  {
+    "name": "Aeyde",
+    "description": "Henry Leather Knee Boots",
+    "price": 830,
+    "category": "Shoes",
+    "subCategory": "Boots",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1039318/685377/large_aeyde-black-henry-calf-leather-black.jpg?_v=1755882013",
+      "https://cdn.modaoperandi.com/assets/images/products/1039318/685377/c/large_aeyde-black-henry-calf-leather-black.jpg?_v=1755882013"
+    ],
+    "variants": [
+      { "size": "36", "color": "Black", "stock": 2 },
+      { "size": "37", "color": "Black", "stock": 5 },
+      { "size": "38", "color": "Black", "stock": 7 },
+      { "size": "39", "color": "Black", "stock": 5 }
+    ]
+  },
+  {
+    "name": "Khaite",
+    "description": "Clive Leather Boots",
+    "price": 1680,
+    "category": "Shoes",
+    "subCategory": "Boots",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1034272/679835/large_khaite-brown-clive-boot-25.jpg?_v=1756511722",
+      "https://cdn.modaoperandi.com/assets/images/products/1034272/679835/c/large_khaite-brown-clive-boot-25.jpg?_v=1756511722"
+    ],
+    "variants": [
+      { "size": "36", "color": "Brown", "stock": 2 },
+      { "size": "37", "color": "Brown", "stock": 5 },
+      { "size": "38", "color": "Brown", "stock": 7 },
+      { "size": "39", "color": "Brown", "stock": 5 }
+    ]
+  },
+  {
+    "name": "Balenciaga",
+    "description": "Runner Gradient Mesh, Rubber Sneakers",
+    "price": 1190,
+    "category": "Shoes",
+    "subCategory": "Sneakers",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1013814/657522/large_balenciaga-multi-runner-gradient.jpg?_v=1753110761"
+    ],
+    "variants": [
+      { "size": "36", "color": "Multi", "stock": 2 },
+      { "size": "37", "color": "Multi", "stock": 5 },
+      { "size": "38", "color": "Multi", "stock": 7 },
+      { "size": "39", "color": "Multi", "stock": 5 }
+    ]
+  },
+  {
+    "name": "Golden Goose",
+    "description": "Running Suede Sneakers",
+    "price": 660,
+    "category": "Shoes",
+    "subCategory": "Sneakers",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1031441/676806/large_golden-goose-green-running-sole-suede-sneaker.jpg?_v=1756385786",
+      "https://cdn.modaoperandi.com/assets/images/products/1031441/676806/c/large_golden-goose-green-running-sole-suede-sneaker.jpg?_v=1756385786"
+    ],
+    "variants": [
+      { "size": "36", "color": "Green", "stock": 2 },
+      { "size": "37", "color": "Green", "stock": 5 },
+      { "size": "38", "color": "Green", "stock": 7 },
+      { "size": "39", "color": "Green", "stock": 5 }
+    ]
+  },
+  {
+    "name": "Salomon",
+    "description": "x Ama Lou XT-Whisper Void Sneakers",
+    "price": 170,
+    "category": "Shoes",
+    "subCategory": "Sneakers",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1036011/681693/large_salomon-pink-xt-whisper-void-ama-lou.jpg?_v=1756138103",
+      "https://cdn.modaoperandi.com/assets/images/products/1036011/681693/c/large_salomon-pink-xt-whisper-void-ama-lou.jpg?_v=1756138103"
+    ],
+    "variants": [
+      { "size": "36", "color": "Pink", "stock": 2 },
+      { "size": "37", "color": "Pink", "stock": 5 },
+      { "size": "38", "color": "Pink", "stock": 7 },
+      { "size": "39", "color": "Pink", "stock": 5 }
+    ]
+  },
+  {
+    "name": "Salomon",
+    "description": "XT-6 Sneakers",
+    "price": 180,
+    "category": "Shoes",
+    "subCategory": "Sneakers",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1033760/679253/f/large_salomon-brown-xt-6.jpg?_v=1756599397",
+      "https://cdn.modaoperandi.com/assets/images/products/1033760/679253/f/large_salomon-brown-xt-6.jpg?_v=1756599397"
+    ],
+    "variants": [
+      { "size": "36", "color": "Brown", "stock": 2 },
+      { "size": "37", "color": "Brown", "stock": 5 },
+      { "size": "38", "color": "Brown", "stock": 7 },
+      { "size": "39", "color": "Brown", "stock": 5 }
+    ]
+  },
+  {
+    "name": "Adidas x Wales Bonner",
+    "description": "WB Karintha Lo Suede Sneakers",
+    "price": 250,
+    "category": "Shoes",
+    "subCategory": "Sneakers",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1021017/665366/large_wales-bonner-x-adidas-tan-wb-lo-pro-suede.jpg?_v=1755548096",
+      "https://cdn.modaoperandi.com/assets/images/products/1021017/665366/f3/large_wales-bonner-x-adidas-tan-wb-lo-pro-suede.jpg?_v=1755548096"
+    ],
+    "variants": [
+      { "size": "36", "color": "Tan", "stock": 2 },
+      { "size": "37", "color": "Tan", "stock": 5 },
+      { "size": "38", "color": "Tan", "stock": 7 },
+      { "size": "39", "color": "Tan", "stock": 5 }
+    ]
+  },
+  {
+    "name": "Salomon",
+    "description": "XT-6 GTX Sneakers",
+    "price": 200,
+    "category": "Shoes",
+    "subCategory": "Sneakers",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1012956/656585/large_salomon-neutral-xt-6-gtx.jpg?_v=1756473437",
+      "https://cdn.modaoperandi.com/assets/images/products/1012956/656585/f2/large_salomon-neutral-xt-6-gtx.jpg?_v=1756473437"
+    ],
+    "variants": [
+      { "size": "36", "color": "Neutral", "stock": 2 },
+      { "size": "37", "color": "Neutral", "stock": 5 },
+      { "size": "38", "color": "Neutral", "stock": 7 },
+      { "size": "39", "color": "Neutral", "stock": 5 }
+    ]
+  },
+  {
+    "name": "Toteme",
+    "description": "Sport Leather-Trimmed Nylon Sneakers",
+    "price": 450,
+    "category": "Shoes",
+    "subCategory": "Sneakers",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1008156/651302/large_toteme-brown-sport-sneakers-2.jpg?_v=1756473075",
+      "https://cdn.modaoperandi.com/assets/images/products/1008156/651302/c/large_toteme-brown-sport-sneakers-2.jpg?_v=1756473075"
+    ],
+    "variants": [
+      { "size": "36", "color": "Brown", "stock": 2 },
+      { "size": "37", "color": "Brown", "stock": 5 },
+      { "size": "38", "color": "Brown", "stock": 7 },
+      { "size": "39", "color": "Brown", "stock": 5 }
+    ]
+  },
+  {
+    "name": "Golden Goose",
+    "description": "Soul-Star Suede Sneakers",
+    "price": 495,
+    "category": "Shoes",
+    "subCategory": "Sneakers",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1012747/656370/large_golden-goose-grey-soul-star-suede-sneakers.jpg?_v=1743696164",
+      "https://cdn.modaoperandi.com/assets/images/products/1012747/656370/c/large_golden-goose-grey-soul-star-suede-sneakers.jpg?_v=1743696164"
+    ],
+    "variants": [
+      { "size": "36", "color": "Grey", "stock": 2 },
+      { "size": "37", "color": "Grey", "stock": 5 },
+      { "size": "38", "color": "Grey", "stock": 7 },
+      { "size": "39", "color": "Grey", "stock": 5 }
+    ]
+  },
+  {
+    "name": "Salomon",
+    "description": "XT-Whisper Sneakers",
+    "price": 140,
+    "category": "Shoes",
+    "subCategory": "Sneakers",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1033749/679242/large_salomon-white-xt-whisper.jpg?_v=1756647524",
+      "https://cdn.modaoperandi.com/assets/images/products/1033749/679242/c/large_salomon-white-xt-whisper.jpg?_v=1756647524"
+    ],
+    "variants": [
+      { "size": "36", "color": "White", "stock": 2 },
+      { "size": "37", "color": "White", "stock": 5 },
+      { "size": "38", "color": "White", "stock": 7 },
+      { "size": "39", "color": "White", "stock": 5 }
+    ]
+  },
+  {
+    "name": "Golden Goose",
+    "description": "Soul-Star Leather Sneakers",
+    "price": 495,
+    "category": "Shoes",
+    "subCategory": "Sneakers",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/936871/573667/large_golden-goose-white-soul-star-nappa-upper-bio-based-hf-tongue-leather-heel.jpg?_v=1756217810",
+      "https://cdn.modaoperandi.com/assets/images/products/936871/573667/c/large_golden-goose-white-soul-star-nappa-upper-bio-based-hf-tongue-leather-heel.jpg?_v=1756217810"
+    ],
+    "variants": [
+      { "size": "36", "color": "White", "stock": 2 },
+      { "size": "37", "color": "White", "stock": 5 },
+      { "size": "38", "color": "White", "stock": 7 },
+      { "size": "39", "color": "White", "stock": 5 }
+    ]
+  },
+  {
+    "name": "Golden Goose",
+    "description": "Running Dad Suede Sneakers",
+    "price": 625,
+    "category": "Shoes",
+    "subCategory": "Sneakers",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/963777/603409/large_golden-goose-olive-running-dad-suede-and-net-upper-suede-toe-leather-star-and-heel.jpg?_v=1747230563",
+      "https://cdn.modaoperandi.com/assets/images/products/963777/603409/c/large_golden-goose-olive-running-dad-suede-and-net-upper-suede-toe-leather-star-and-heel.jpg?_v=1747230563"
+    ],
+    "variants": [
+      { "size": "36", "color": "Olive", "stock": 2 },
+      { "size": "37", "color": "Olive", "stock": 5 },
+      { "size": "38", "color": "Olive", "stock": 7 },
+      { "size": "39", "color": "Olive", "stock": 5 }
+    ]
+  },
+  {
+    "name": "Salomon",
+    "description": "XT-Whisper Sneakers",
+    "price": 140,
+    "category": "Shoes",
+    "subCategory": "Sneakers",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1012955/656584/large_salomon-silver-xt-whisper.jpg?_v=1756567550",
+      "https://cdn.modaoperandi.com/assets/images/products/1012955/656584/6814f0ee/large_salomon-silver-xt-whisper.jpg?_v=1756567550"
+    ],
+    "variants": [
+      { "size": "36", "color": "Silver", "stock": 2 },
+      { "size": "37", "color": "Silver", "stock": 5 },
+      { "size": "38", "color": "Silver", "stock": 7 },
+      { "size": "39", "color": "Silver", "stock": 5 }
+    ]
+  },
+  {
+    "name": "GHŌUD VENICE",
+    "description": "Starlight Nylon & Glitter Sneakers",
+    "price": 295,
+    "category": "Shoes",
+    "subCategory": "Sneakers",
+
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1015505/659294/large_ghoud-venice-black-starlight-soft-low-wom-sg09-solid-glitter-black.jpg?_v=1756295008",
+      "https://cdn.modaoperandi.com/assets/images/products/1015505/659294/c/large_ghoud-venice-black-starlight-soft-low-wom-sg09-solid-glitter-black.jpg?_v=1756295008"
+    ],
+    "variants": [
+      { "size": "36", "color": "Black", "stock": 2 },
+      { "size": "37", "color": "Black", "stock": 5 },
+      { "size": "38", "color": "Black", "stock": 7 },
+      { "size": "39", "color": "Black", "stock": 5 }
+    ]
+  },
+  {
+    "name": "Jimmy Choo",
+    "description": "1998 Leo Suede Sandals",
+    "price": 850,
+    "category": "Shoes",
+    "subCategory": "Sandals",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1032175/677562/large_jimmy-choo-brown-1998-leo-65-2.jpg?_v=1756210916",
+      "https://cdn.modaoperandi.com/assets/images/products/1032175/677562/c/large_jimmy-choo-brown-1998-leo-65-2.jpg?_v=1756210916"
+    ],
+    "variants": [
+      { "size": "36", "color": "Brown", "stock": 2 },
+      { "size": "37", "color": "Brown", "stock": 5 },
+      { "size": "38", "color": "Brown", "stock": 7 },
+      { "size": "39", "color": "Brown", "stock": 5 }
+    ]
+  },
+  {
+    "name": "Emme Parsons",
+    "description": "Susan Lace-Up Leather Sandals",
+    "price": 495,
+    "category": "Shoes",
+    "subCategory": "Sandals",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1052149/699379/large_emme-parsons-gold-susan-in-tan-nappa.jpg?_v=1756418455"
+    ],
+    "variants": [
+      { "size": "36", "color": "Gold", "stock": 2 },
+      { "size": "37", "color": "Gold", "stock": 5 },
+      { "size": "38", "color": "Gold", "stock": 7 },
+      { "size": "39", "color": "Gold", "stock": 5 }
+    ]
+  },
+  {
+    "name": "A.Emery",
+    "description": "Paton Leather Sandals",
+    "price": 180,
+    "category": "Shoes",
+    "subCategory": "Sandals",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1039309/685366/large_a-emery-black-paton-sandal.jpg?_v=1756305917",
+      "https://cdn.modaoperandi.com/assets/images/products/1039309/685366/c/large_a-emery-black-paton-sandal.jpg?_v=1756305917"
+    ],
+    "variants": [
+      { "size": "36", "color": "Black", "stock": 2 },
+      { "size": "37", "color": "Black", "stock": 5 },
+      { "size": "38", "color": "Black", "stock": 7 },
+      { "size": "39", "color": "Black", "stock": 5 }
+    ]
+  },
+  {
+    "name": "A.Emery",
+    "description": "Jalen Slim Suede Sandals",
+    "price": 210,
+    "category": "Shoes",
+    "subCategory": "Sandals",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1011103/654607/large_a-emery-tan-jalen-slim-sandal.jpg?_v=1756569984",
+      "https://cdn.modaoperandi.com/assets/images/products/1011103/654607/c/large_a-emery-tan-jalen-slim-sandal.jpg?_v=1756569984"
+    ],
+    "variants": [
+      { "size": "36", "color": "Brown", "stock": 2 },
+      { "size": "37", "color": "Brown", "stock": 5 },
+      { "size": "38", "color": "Brown", "stock": 7 },
+      { "size": "39", "color": "Brown", "stock": 5 }
+    ]
+  },
+  {
+    "name": "Andrea Gomez",
+    "description": "Exclusive Bella Raffia Platform Sandals",
+    "price": 290,
+    "category": "Shoes",
+    "subCategory": "Platforms",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1012411/656031/large_andrea-gomez-brown-bella-1.jpg?_v=1755719540",
+      "https://cdn.modaoperandi.com/assets/images/products/1012411/656031/c/large_andrea-gomez-brown-bella-1.jpg?_v=1755719540"
+    ],
+    "variants": [
+      { "size": "36", "color": "Brown", "stock": 2 },
+      { "size": "37", "color": "Brown", "stock": 5 },
+      { "size": "38", "color": "Brown", "stock": 7 },
+      { "size": "39", "color": "Brown", "stock": 5 }
+    ]
+  },
+  {
+    "name": "Alexandre Birman",
+    "description": "Thalita Leather Platform Sandals",
+    "price": 850,
+    "category": "Shoes",
+    "subCategory": "Platforms",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1063261/711421/large_alexandre-birman-brown-thalita-platform-125-tresse.jpg?_v=1756432917"
+    ],
+    "variants": [
+      { "size": "36", "color": "Brown", "stock": 2 },
+      { "size": "37", "color": "Brown", "stock": 5 },
+      { "size": "38", "color": "Brown", "stock": 7 },
+      { "size": "39", "color": "Brown", "stock": 5 }
+    ]
+  },
+  {
+    "name": "Jimmy Choo",
+    "description": "Alida Suede Platform Clogs",
+    "price": 1295,
+    "category": "Shoes",
+    "subCategory": "Platforms",
+
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1032173/677560/large_jimmy-choo-brown-alida-pf-135.jpg?_v=1756493970",
+      "https://cdn.modaoperandi.com/assets/images/products/1032173/677560/c/large_jimmy-choo-brown-alida-pf-135.jpg?_v=1756493970"
+    ],
+    "variants": [
+      { "size": "36", "color": "Brown", "stock": 2 },
+      { "size": "37", "color": "Brown", "stock": 5 },
+      { "size": "38", "color": "Brown", "stock": 7 },
+      { "size": "39", "color": "Brown", "stock": 5 }
+    ]
+  },
+  {
+    "name": "Toteme",
+    "description": "Leather Pumps",
+    "price": 680,
+    "category": "Shoes",
+    "subCategory": "Pumps",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1039168/685212/large_toteme-grey-leather-kitten-pumps-35mm.jpg?_v=1756493127"
+    ],
+    "variants": [
+      { "size": "36", "color": "Grey", "stock": 2 },
+      { "size": "37", "color": "Grey", "stock": 5 },
+      { "size": "38", "color": "Grey", "stock": 7 },
+      { "size": "39", "color": "Grey", "stock": 5 }
+    ]
+  },
+  {
+    "name": "Studio Amelia",
+    "description": "Ophelia Tulle Pumps",
+    "price": 420,
+    "category": "Shoes",
+    "subCategory": "Pumps",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1053964/701336/large_studio-amelia-black-ophelia-50-heel.jpg?_v=1754533568",
+      "https://cdn.modaoperandi.com/assets/images/products/1053964/701336/c/large_studio-amelia-black-ophelia-50-heel.jpg?_v=1754533568"
+    ],
+    "variants": [
+      { "size": "36", "color": "Black", "stock": 2 },
+      { "size": "37", "color": "Black", "stock": 5 },
+      { "size": "38", "color": "Black", "stock": 7 },
+      { "size": "39", "color": "Black", "stock": 5 }
+    ]
+  },
+  {
+    "name": "Khaite",
+    "description": "Mia Patent Leather Pumps",
+    "price": 980,
+    "category": "Shoes",
+    "subCategory": "Pumps",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1021107/665499/large_khaite-olive-mia-patent-leather-pumps.jpg?_v=1755655120",
+      "https://cdn.modaoperandi.com/assets/images/products/1021107/665499/c/large_khaite-olive-mia-patent-leather-pumps.jpg?_v=1755655120"
+    ],
+    "variants": [
+      { "size": "36", "color": "Olive", "stock": 2 },
+      { "size": "37", "color": "Olive", "stock": 5 },
+      { "size": "38", "color": "Olive", "stock": 7 },
+      { "size": "39", "color": "Olive", "stock": 5 }
+    ]
+  },
+  {
+    "name": "STAUD",
+    "description": "Brigitte Satin Slingback Sandals",
+    "price": 375,
+    "category": "Shoes",
+    "subCategory": "Pumps",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1041880/688343/large_staud-taupe-brigitte-heel.jpg?_v=1756148339",
+      "https://cdn.modaoperandi.com/assets/images/products/1041880/688343/c/large_staud-taupe-brigitte-heel.jpg?_v=1756148339"
+    ],
+    "variants": [
+      { "size": "36", "color": "Taupe", "stock": 2 },
+      { "size": "37", "color": "Taupe", "stock": 5 },
+      { "size": "38", "color": "Taupe", "stock": 7 },
+      { "size": "39", "color": "Taupe", "stock": 5 }
+    ]
+  },
+  {
+    "name": "Studio Amelia",
+    "description": "Iris Mesh Pumps",
+    "price": 395,
+    "category": "Shoes",
+    "subCategory": "Pumps",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1053965/701339/large_studio-amelia-green-iris-50-heel.jpg?_v=1756360241",
+      "https://cdn.modaoperandi.com/assets/images/products/1053965/701339/c/large_studio-amelia-green-iris-50-heel.jpg?_v=1756360241"
+    ],
+    "variants": [
+      { "size": "36", "color": "Green", "stock": 2 },
+      { "size": "37", "color": "Green", "stock": 5 },
+      { "size": "38", "color": "Green", "stock": 7 },
+      { "size": "39", "color": "Green", "stock": 5 }
+    ]
+  },
+  {
+    "name": "Hai",
+    "description": "Daphne Cotton Bag",
+    "price": 124,
+    "category": "Bags",
+    "subCategory": "Mini Bags",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1036911/682699/large_home-of-hai-white-daphne-bag.jpg?_v=1753840515"
+    ],
+    "variants": [{ "size": "Standard", "color": "White", "stock": 5 }]
+  },
+  {
+    "name": "SIMKHAI",
+    "description": "Bridget Oyster Shell Clutch",
+    "price": 124,
+    "category": "Bags",
+    "subCategory": "Mini Bags",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/930503/566726/large_jonathan-simkhai-gold-bridget-oyster-shell-clutch.jpg?_v=1756407184"
+    ],
+    "variants": [{ "size": "Standard", "color": "Gold", "stock": 5 }]
+  },
+  {
+    "name": "Toteme",
+    "description": "Mini T-lock Naplack Clutch",
+    "price": 690,
+    "category": "Bags",
+    "subCategory": "Mini Bags",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1039094/685134/large_toteme-black-mini-t-lock-naplack-clutch-2.jpg?_v=1756405448",
+      "https://cdn.modaoperandi.com/assets/images/products/1039094/685134/c/large_toteme-black-mini-t-lock-naplack-clutch-2.jpg?_v=1756405448"
+    ],
+    "variants": [{ "size": "Standard", "color": "Black", "stock": 5 }]
+  },
+  {
+    "name": "The Row",
+    "description": "90's Leather Top Handle Bag",
+    "price": 1120,
+    "category": "Bags",
+    "subCategory": "Mini Bags",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1028302/673466/large_the-row-yellow-90-s-bag.jpg?_v=1756487330",
+      "https://cdn.modaoperandi.com/assets/images/products/1028302/673466/c/large_the-row-yellow-90-s-bag.jpg?_v=1756487330"
+    ],
+    "variants": [{ "size": "Standard", "color": "Yellow", "stock": 5 }]
+  },
+  {
+    "name": "Bottega Veneta",
+    "description": "Small Parachute Intrecciato Leather Bag",
+    "price": 4500,
+    "category": "Bags",
+    "subCategory": "Evening Bags",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/988364/630080/large_bottega-veneta-brown-andiamo-parachute-small-intrecciato-15-nappa-19.jpg?_v=1754331996",
+      "hhttps://cdn.modaoperandi.com/assets/images/products/988364/630080/c/large_bottega-veneta-brown-andiamo-parachute-small-intrecciato-15-nappa-19.jpg?_v=1754331996"
+    ],
+    "variants": [{ "size": "Standard", "color": "Brown", "stock": 5 }]
+  },
+  {
+    "name": "SIMKHAI",
+    "description": "Nixi Twist Leather Top Handle Bag",
+    "price": 595,
+    "category": "Bags",
+    "subCategory": "Evening Bags",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/998189/640943/large_jonathan-simkhai-white-nixi-twist-handle-hobo.jpg?_v=1756499290",
+      "https://cdn.modaoperandi.com/assets/images/products/998189/640943/c/large_jonathan-simkhai-white-nixi-twist-handle-hobo.jpg?_v=1756499290"
+    ],
+    "variants": [{ "size": "Standard", "color": "White", "stock": 5 }]
+  },
+  {
+    "name": "St. Agni",
+    "description": "Mini Bon Bon Suede Bag",
+    "price": 210,
+    "category": "Bags",
+    "subCategory": "Evening Bags",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/974537/614827/large_st-agni-red-mini-bon-bon-suede-bag.jpg?_v=1755716037",
+      "https://cdn.modaoperandi.com/assets/images/products/974537/614827/c/large_st-agni-red-mini-bon-bon-suede-bag.jpg?_v=1755716037"
+    ],
+    "variants": [{ "size": "Standard", "color": "Red", "stock": 5 }]
+  },
+  {
+    "name": "ALAÏA",
+    "description": "90's Leather Top Handle Bag",
+    "price": 2650,
+    "category": "Bags",
+    "subCategory": "Evening Bags",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/970214/610203/large_alaia-white-le-teckel-small-leather-shoulder-bag.jpg?_v=1754600253",
+      "https://cdn.modaoperandi.com/assets/images/products/970214/610203/6724f9ec/large_alaia-white-le-teckel-small-leather-shoulder-bag.jpg?_v=1754600253"
+    ],
+    "variants": [{ "size": "Standard", "color": "White", "stock": 5 }]
+  },
+  {
+    "name": "Chloe",
+    "description": "Bracelet-Handle Leather Shoulder Bagg",
+    "price": 2850,
+    "category": "Collections",
+    "subCategory": "Chloe",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1011688/655229/large_chloe-black-s611-bracelet-bag.jpg?_v=1745000998",
+      "https://cdn.modaoperandi.com/assets/images/products/1011688/655229/c/large_chloe-black-s611-bracelet-bag.jpg?_v=1745000998"
+    ],
+    "variants": [{ "size": "Standard", "color": "Black", "stock": 5 }]
+  },
+  {
+    "name": "Chloe",
+    "description": "Bracelet-Handle Leather Shoulder Bagg",
+    "price": 2850,
+    "category": "Collections",
+    "subCategory": "Chloe",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1011688/655229/large_chloe-black-s611-bracelet-bag.jpg?_v=1745000998",
+      "https://cdn.modaoperandi.com/assets/images/products/1011688/655229/c/large_chloe-black-s611-bracelet-bag.jpg?_v=1745000998"
+    ],
+    "variants": [{ "size": "Standard", "color": "Black", "stock": 5 }]
+  },
+  {
+    "name": "Chloe",
+    "description": "Eve Leather Over-The-Knee Boots",
+    "price": 2850,
+    "category": "Collections",
+    "subCategory": "Chloe",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1001329/643921/large_chloe-brown-eve-over-the-knee-leather-boots.jpg?_v=1756700769",
+      "https://cdn.modaoperandi.com/assets/images/products/1001329/643921/66d09c81/large_chloe-brown-eve-over-the-knee-leather-boots.jpg?_v=1756700769"
+    ],
+    "variants": [{ "size": "Standard", "color": "Brown", "stock": 5 }]
+  },
+  {
+    "name": "Chloe",
+    "description": "Ruffled Embroidered Lace Top",
+    "price": 3290,
+    "category": "Collections",
+    "subCategory": "Chloe",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1029043/674289/large_chloe-white-ruffled-embroidered-lace-top-3.jpg?_v=1751303583",
+      "https://cdn.modaoperandi.com/assets/images/products/1029043/674289/c/large_chloe-white-ruffled-embroidered-lace-top-3.jpg?_v=1751303583"
+    ],
+    "variants": [{ "size": "Standard", "color": "White", "stock": 5 }]
+  },
+  {
+    "name": "Chloe",
+    "description": "Janis Buckle-Strap Patent Leather Pumps",
+    "price": 1150,
+    "category": "Shoes",
+    "subCategory": "Platforms",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1033807/679310/large_chloe-red-11c-janis.jpg?_v=1756494293",
+      "https://cdn.modaoperandi.com/assets/images/products/1033807/679310/68127f73/large_chloe-red-11c-janis.jpg?_v=1756494293"
+    ],
+    "variants": [{ "size": "Standard", "color": "Red", "stock": 5 }]
+  },
+  {
+    "name": "Chloe",
+    "description": "Leather Midi Skirt",
+    "price": 4350,
+    "category": "Collections",
+    "subCategory": "Chloe",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1034550/680133/large_chloe-burgundy-slouch-lambskin-skirt.jpg?_v=1756300605",
+      "https://cdn.modaoperandi.com/assets/images/products/1034550/680133/c/large_chloe-burgundy-slouch-lambskin-skirt.jpg?_v=1756300605"
+    ],
+    "variants": [{ "size": "Standard", "color": "Burgundy", "stock": 5 }]
+  },
+  {
+    "name": "Chloe",
+    "description": "Ruffled Pointelle-Knit Silk-Alpaca Sweater",
+    "price": 1950,
+    "category": "Collections",
+    "subCategory": "Chloe",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1034541/680124/large_chloe-white-silk-alpaca-cotton-mix-pointelle.jpg?_v=1756217867",
+      "https://cdn.modaoperandi.com/assets/images/products/1034541/680124/c/large_chloe-white-silk-alpaca-cotton-mix-pointelle.jpg?_v=1756217867"
+    ],
+    "variants": [{ "size": "Standard", "color": "White", "stock": 5 }]
+  },
+  {
+    "name": "Chloe",
+    "description": "Crocheted Bracelet Bag",
+    "price": 3600,
+    "category": "Collections",
+    "subCategory": "Chloe",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1034032/679570/large_chloe-white-ch25as611q10.jpg?_v=1756479959",
+      "https://cdn.modaoperandi.com/assets/images/products/1034032/679570/c/large_chloe-white-ch25as611q10.jpg?_v=1756479959"
+    ],
+    "variants": [{ "size": "Standard", "color": "White", "stock": 5 }]
+  },
+  {
+    "name": "St. Agni",
+    "description": "Exclusive Riviera Capsule Leather Clutch",
+    "price": 380,
+    "category": "Bags",
+    "subCategory": "Clutches",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1024979/669801/large_st-agni-white-exclusive-capsule-clutch.jpg?_v=1756298809",
+      "https://cdn.modaoperandi.com/assets/images/products/1024979/669801/c/large_st-agni-white-exclusive-capsule-clutch.jpg?_v=1756298809"
+    ],
+    "variants": [{ "size": "Standard", "color": "White", "stock": 5 }]
+  },
+  {
+    "name": "Khaite",
+    "description": "Audrey Python-Effect Leather Clutch",
+    "price": 1980,
+    "category": "Bags",
+    "subCategory": "Clutches",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1041100/687451/large_khaite-python-audrey-python-effect-leather-clutch.jpg?_v=1757365998",
+      "https://cdn.modaoperandi.com/assets/images/products/1041100/687451/c/large_khaite-python-audrey-python-effect-leather-clutch.jpg?_v=1757365998"
+    ],
+    "variants": [{ "size": "Standard", "color": "Python", "stock": 5 }]
+  },
+  {
+    "name": "Bottega Veneta",
+    "description": "Andiamo Intrecciato Leather E/W Clutch",
+    "price": 3200,
+    "category": "Bags",
+    "subCategory": "Clutches",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1034649/680233/large_bottega-veneta-green-andiamo-clutch-intrecciato-15-nappa.jpg?_v=1756236674",
+      "https://cdn.modaoperandi.com/assets/images/products/1034649/680233/c/large_bottega-veneta-green-andiamo-clutch-intrecciato-15-nappa.jpg?_v=1756236674"
+    ],
+    "variants": [{ "size": "Standard", "color": "Green", "stock": 5 }]
+  },
+  {
+    "name": "Emm Kuo",
+    "description": "Cheval Clutch",
+    "price": 1025,
+    "category": "Bags",
+    "subCategory": "Clutches",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1040763/687060/large_emm-kuo-white-cheval.jpg?_v=1756062957",
+      "https://cdn.modaoperandi.com/assets/images/products/1040763/687060/c/large_emm-kuo-white-cheval.jpg?_v=1756062957"
+    ],
+    "variants": [{ "size": "Standard", "color": "White", "stock": 5 }]
+  },
+  {
+    "name": "STAUD",
+    "description": "Maude Snake-Effect Leather Clutch",
+    "price": 465,
+    "category": "Bags",
+    "subCategory": "Clutches",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1041841/688299/large_staud-animal-maude-soft-clutch.jpg?_v=1756901732",
+      "https://cdn.modaoperandi.com/assets/images/products/1041841/688299/c/large_staud-animal-maude-soft-clutch.jpg?_v=1756901732"
+    ],
+    "variants": [{ "size": "Standard", "color": "Animal", "stock": 5 }]
+  },
+  {
+    "name": "Toteme",
+    "description": "Mini T-lock Naplack Clutch",
+    "price": 690,
+    "category": "Bags",
+    "subCategory": "Clutches",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1039094/685134/large_toteme-black-mini-t-lock-naplack-clutch-2.jpg?_v=1757361092",
+      "https://cdn.modaoperandi.com/assets/images/products/1039094/685134/c/large_toteme-black-mini-t-lock-naplack-clutch-2.jpg?_v=1757361092"
+    ],
+    "variants": [{ "size": "Standard", "color": "Black", "stock": 5 }]
+  },
+  {
+    "name": "Toteme",
+    "description": "T-lock Suede Clutch",
+    "price": 990,
+    "category": "Bags",
+    "subCategory": "Clutches",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1013735/657440/large_toteme-brown-t-lock-suede-clutch.jpg?_v=1757360720",
+      "https://cdn.modaoperandi.com/assets/images/products/1013735/657440/c/large_toteme-brown-t-lock-suede-clutch.jpg?_v=1757360720"
+    ],
+    "variants": [{ "size": "Standard", "color": "Brown", "stock": 5 }]
+  },
+  {
+    "name": "Rabanne",
+    "description": "Crystal Mesh Clutch",
+    "price": 1150,
+    "category": "Bags",
+    "subCategory": "Clutches",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1011659/655196/large_paco-rabanne-silver-crystal-mesh-clutch-with-strap.jpg?_v=1750862681",
+      "https://cdn.modaoperandi.com/assets/images/products/1011659/655196/c/large_paco-rabanne-silver-crystal-mesh-clutch-with-strap.jpg?_v=1750862681"
+    ],
+    "variants": [{ "size": "Standard", "color": "Silver", "stock": 5 }]
+  },
+  {
+    "name": "STAUD",
+    "description": "Lena Zebra Raffia Clutch",
+    "price": 295,
+    "category": "Bags",
+    "subCategory": "Clutches",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1033199/678652/large_staud-black-white-lena-clutch.jpg?_v=1757137483",
+      "https://cdn.modaoperandi.com/assets/images/products/1033199/678652/c/large_staud-black-white-lena-clutch.jpg?_v=1757137483"
+    ],
+    "variants": [{ "size": "Standard", "color": "Animal", "stock": 5 }]
+  },
+  {
+    "name": "The Row",
+    "description": "Harper Leather Backpack",
+    "price": 3900,
+    "category": "Bags",
+    "subCategory": "Travel Bags",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1028313/673486/large_the-row-orange-harper-backpack.jpg?_v=1756417763",
+      "https://cdn.modaoperandi.com/assets/images/products/1028313/673486/c/large_the-row-orange-harper-backpack.jpg?_v=1756417763"
+    ],
+    "variants": [{ "size": "Standard", "color": "Brown", "stock": 5 }]
+  },
+  {
+    "name": "The Row",
+    "description": "Harper Leather Backpack",
+    "price": 3900,
+    "category": "Bags",
+    "subCategory": "Travel Bags",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1001347/643948/large_chloe-brown-leather-camera-shoulder-bag.jpg?_v=1736877386",
+      "https://cdn.modaoperandi.com/assets/images/products/1001347/643948/c/large_chloe-brown-leather-camera-shoulder-bag.jpg?_v=1736877386"
+    ],
+    "variants": [{ "size": "Standard", "color": "Brown", "stock": 5 }]
+  },
+  {
+    "name": "Chloé",
+    "description": "Leather Camera Bag",
+    "price": 2990,
+    "category": "Bags",
+    "subCategory": "Travel Bags",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1001347/645667/large_chloe-black-leather-camera-shoulder-bag.jpg?_v=1745612795",
+      "https://cdn.modaoperandi.com/assets/images/products/1001347/645667/c/large_chloe-black-leather-camera-shoulder-bag.jpg?_v=1745612795"
+    ],
+    "variants": [{ "size": "Standard", "color": "Black", "stock": 5 }]
+  },
+  {
+    "name": "Roger Vivier",
+    "description": "Crystal-Buckle Tweed Vanity Bag",
+    "price": 1675,
+    "category": "Bags",
+    "subCategory": "Travel Bags",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/981544/622540/large_roger-vivier-plaid-roger-vivier-vanity-micro-bag-2.jpg?_v=1756217820",
+      "https://cdn.modaoperandi.com/assets/images/products/981544/622540/c/large_roger-vivier-plaid-roger-vivier-vanity-micro-bag-2.jpg?_v=1756217820"
+    ],
+    "variants": [{ "size": "Standard", "color": "Plaid", "stock": 5 }]
+  },
+  {
+    "name": "The Row",
+    "description": "Harper Leather Backpack",
+    "price": 3900,
+    "category": "Bags",
+    "subCategory": "Travel Bags",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1028313/673485/large_the-row-black-harper-backpack.jpg?_v=1756380230",
+      "https://cdn.modaoperandi.com/assets/images/products/1028313/673485/c/large_the-row-black-harper-backpack.jpg?_v=1756380230"
+    ],
+    "variants": [{ "size": "Standard", "color": "Black", "stock": 5 }]
+  },
+  {
+    "name": "Bottega Veneta",
+    "description": "Bang Bang Intrecciato Leather Vanity Case",
+    "price": 2850,
+    "category": "Bags",
+    "subCategory": "Travel Bags",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/983642/624805/large_bottega-veneta-black-bang-bang-vanity-case-on-strap-intr-15-vn.jpg?_v=1756268420",
+      "https://cdn.modaoperandi.com/assets/images/products/983642/624805/c/large_bottega-veneta-black-bang-bang-vanity-case-on-strap-intr-15-vn.jpg?_v=1756268420"
+    ],
+    "variants": [{ "size": "Standard", "color": "Black", "stock": 5 }]
+  },
+  {
+    "name": "Bottega Veneta",
+    "description": "Mini Cassette Nylon Crossbody Bag",
+    "price": 1100,
+    "category": "Bags",
+    "subCategory": "Shoulder Bags",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/892277/524500/large_bottega-veneta-green-candy-cassette-intrecciato-crossbody-bag.jpg?_v=1741185343",
+      "https://cdn.modaoperandi.com/assets/images/products/892277/524500/f/large_bottega-veneta-green-candy-cassette-intrecciato-crossbody-bag.jpg?_v=1741185343"
+    ],
+    "variants": [{ "size": "Standard", "color": "Green", "stock": 5 }]
+  },
+  {
+    "name": "Toteme",
+    "description": "Bevel Leather Wristlet",
+    "price": 890,
+    "category": "Bags",
+    "subCategory": "Shoulder Bags",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1030978/676333/large_toteme-grey-leather-scoop-wristlet.jpg?_v=1757347874",
+      "https://cdn.modaoperandi.com/assets/images/products/1030978/676333/68127c58/large_toteme-grey-leather-scoop-wristlet.jpg?_v=1757347874"
+    ],
+    "variants": [{ "size": "Standard", "color": "Grey", "stock": 5 }]
+  },
+  {
+    "name": "The Row",
+    "description": "Alger Leather Shoulder Bag",
+    "price": 3690,
+    "category": "Bags",
+    "subCategory": "Shoulder Bags",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1039276/685329/large_the-row-black-alger-shoulder-bag.jpg?_v=1757389710",
+      "https://cdn.modaoperandi.com/assets/images/products/1039276/685329/c/large_the-row-black-alger-shoulder-bag.jpg?_v=1757389710"
+    ],
+    "variants": [{ "size": "Standard", "color": "Black", "stock": 5 }]
+  },
+  {
+    "name": "JW Anderson",
+    "description": "Leather Loafer Bag",
+    "price": 1550,
+    "category": "Bags",
+    "subCategory": "Shoulder Bags",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1013797/657505/large_j-w-anderson-tan-loafer-bag.jpg?_v=1748882650",
+      "https://cdn.modaoperandi.com/assets/images/products/1013797/657505/c/large_j-w-anderson-tan-loafer-bag.jpg?_v=1748882650"
+    ],
+    "variants": [{ "size": "Standard", "color": "Tan", "stock": 5 }]
+  },
+  {
+    "name": "Verafied",
+    "description": "Leather Shoulder Bag",
+    "price": 250,
+    "category": "Bags",
+    "subCategory": "Shoulder Bags",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1062678/710797/large_verafied-ivory-ivory-poise-shoulder-bag.jpg?_v=1757233550",
+      "https://cdn.modaoperandi.com/assets/images/products/1062678/710797/g2/large_verafied-ivory-ivory-poise-shoulder-bag.jpg?_v=1757233550"
+    ],
+    "variants": [{ "size": "Standard", "color": "Ivory", "stock": 5 }]
+  },
+  {
+    "name": "Bottega Veneta",
+    "description": "Small Punch Rubber Shoulder Bag",
+    "price": 1550,
+    "category": "Bags",
+    "subCategory": "Shoulder Bags",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/892266/524487/large_bottega-veneta-white-small-matte-rubber-shoulder-bag.jpg?_v=1750423548",
+      "https://cdn.modaoperandi.com/assets/images/products/892266/524487/c/large_bottega-veneta-white-small-matte-rubber-shoulder-bag.jpg?_v=1750423548"
+    ],
+    "variants": [{ "size": "Standard", "color": "White", "stock": 5 }]
+  },
+  {
+    "name": "Nada Ghazal",
+    "description": "Rose Medium 18K Yellow Diamond Pearl Brooch",
+    "price": 10610,
+    "category": "Jewelry",
+    "subCategory": "Brooches",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1023675/668386/large_nada-ghazal-gold-rose-medium-2.jpg?_v=1728421052",
+      "https://cdn.modaoperandi.com/assets/images/products/1023675/668386/c/large_nada-ghazal-gold-rose-medium-2.jpg?_v=1728421052"
+    ],
+    "variants": [{ "size": "Standard", "color": "Gold", "stock": 2 }]
+  },
+  {
+    "name": "CANO",
+    "description": "Muhu 24K Yellow Gold-Plated Brooch",
+    "price": 200,
+    "category": "Jewelry",
+    "subCategory": "Brooches",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1023675/668386/large_nada-ghazal-gold-rose-medium-2.jpg?_v=1728421052",
+      "https://cdn.modaoperandi.com/assets/images/products/1043411/690010/i/large_la-cano-gold-muhu-brooch.jpg?_v=1749646232"
+    ],
+    "variants": [{ "size": "Standard", "color": "Gold", "stock": 2 }]
+  },
+  {
+    "name": "Nada Ghazal",
+    "description": "Rose Medium 18K Yellow Diamond Pearl Brooch",
+    "price": 32000,
+    "category": "Jewelry",
+    "subCategory": "Brooches",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1061742/709814/large_mindi-mond-new-york-grey-celestial-convertible-diamond-and-sapphire-brooch.jpg?_v=1753281249",
+      "https://cdn.modaoperandi.com/assets/images/products/1061742/709814/g3/large_mindi-mond-new-york-grey-celestial-convertible-diamond-and-sapphire-brooch.jpg?_v=1753281249"
+    ],
+    "variants": [{ "size": "Standard", "color": "Grey", "stock": 2 }]
+  },
+  {
+    "name": "Mindi Mond New York",
+    "description": "Platinum Diamond Wing Brooch",
+    "price": 16950,
+    "category": "Jewelry",
+    "subCategory": "Brooches",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1061741/709813/large_mindi-mond-new-york-grey-diamond-wing-brooch.jpg?_v=1753887820"
+    ],
+    "variants": [{ "size": "Standard", "color": "Gold", "stock": 2 }]
+  },
+  {
+    "name": "Sylvia Toledano",
+    "description": "Dune 22K Gold-Plated Cuff",
+    "price": 260,
+    "category": "Jewelry",
+    "subCategory": "Bracelets",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/956646/595818/large_sylvia-toledano-gold-dune-cuff.jpg?_v=1756435999",
+      "https://cdn.modaoperandi.com/assets/images/products/956646/595818/c/large_sylvia-toledano-gold-dune-cuff.jpg?_v=1756435999"
+    ],
+    "variants": [{ "size": "Standard", "color": "Gold", "stock": 2 }]
+  },
+  {
+    "name": "Graziela",
+    "description": "Folha 18K Yellow Gold Diamond Bracelet",
+    "price": 51500,
+    "category": "Jewelry",
+    "subCategory": "Bracelets",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1023108/667743/large_graziela-gold-white-diamond-folha-bracelet.jpg?_v=1751483448",
+      "https://cdn.modaoperandi.com/assets/images/products/1023108/667743/g3/large_graziela-gold-white-diamond-folha-bracelet.jpg?_v=1751483448"
+    ],
+    "variants": [{ "size": "Standard", "color": "Gold", "stock": 2 }]
+  },
+
+  {
+    "name": "Sidney Garber",
+    "description": "Stretch Line 18K Gold Bracelet",
+    "price": 27000,
+    "category": "Jewelry",
+    "subCategory": "Bracelets",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1000507/643022/large_sidney-garber-white-stretch-line.jpg?_v=1752519333",
+      "https://cdn.modaoperandi.com/assets/images/products/1000507/643022/c/large_sidney-garber-white-stretch-line.jpg?_v=1752519333"
+    ],
+    "variants": [{ "size": "Standard", "color": "White", "stock": 2 }]
+  },
+  {
+    "name": "Ben-Amun",
+    "description": "Exclusive Gold-Tone Cuff",
+    "price": 220,
+    "category": "Jewelry",
+    "subCategory": "Bracelets",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1049717/696790/f3/large_ben-amun-gold-exclusive-cuff.jpg?_v=1757018055",
+      "https://cdn.modaoperandi.com/assets/images/products/1049717/696790/c/large_ben-amun-gold-exclusive-cuff.jpg?_v=1757018055"
+    ],
+    "variants": [{ "size": "Standard", "color": "Gold", "stock": 2 }]
+  },
+  {
+    "name": "Ben-Amun",
+    "description": "Exclusive Stone Silver-Tone Cuff",
+    "price": 240,
+    "category": "Jewelry",
+    "subCategory": "Bracelets",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1040357/686628/large_ben-amun-silver-exclusive-cuff.jpg?_v=1757092008",
+      "https://cdn.modaoperandi.com/assets/images/products/1040357/686628/c/large_ben-amun-silver-exclusive-cuff.jpg?_v=1757092008"
+    ],
+    "variants": [{ "size": "Standard", "color": "Silver", "stock": 2 }]
+  },
+  {
+    "name": "Lelet NY",
+    "description": "Athena Crystal, Pearl Rhodium-Plated Earrings",
+    "price": 198,
+    "category": "Jewelry",
+    "subCategory": "Earrings",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1008008/651138/large_lelet-ny-silver-athena-pearl-linear-earrings.jpg?_v=1756058718",
+      "https://cdn.modaoperandi.com/assets/images/products/1008008/651138/g4/large_lelet-ny-silver-athena-pearl-linear-earrings.jpg?_v=1756058718"
+    ],
+    "variants": [{ "size": "Standard", "color": "Silver", "stock": 2 }]
+  },
+  {
+    "name": "Ten Thousand Things",
+    "description": "Small Oval Totem 18K Yellow Gold Morganite Earrings",
+    "price": 2355,
+    "category": "Jewelry",
+    "subCategory": "Earrings",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1020128/664307/large_ten-thousand-things-pink-small-oval-totem-morganite-18k-earrings.jpg?_v=1738087080",
+      "https://cdn.modaoperandi.com/assets/images/products/1020128/664307/c/large_ten-thousand-things-pink-small-oval-totem-morganite-18k-earrings.jpg?_v=1738087080"
+    ],
+    "variants": [{ "size": "Standard", "color": "Pink", "stock": 2 }]
+  },
+  {
+    "name": "Marina Moscone",
+    "description": "Chandelier Earrings",
+    "price": 395,
+    "category": "Jewelry",
+    "subCategory": "Earrings",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1030049/675346/large_marina-moscone-gold-chandelier-earrings.jpg?_v=1755095162",
+      "https://cdn.modaoperandi.com/assets/images/products/1030049/675346/g5/large_marina-moscone-gold-chandelier-earrings.jpg?_v=1755095162"
+    ],
+    "variants": [{ "size": "Standard", "color": "Gold", "stock": 2 }]
+  },
+  {
+    "name": "Rabanne",
+    "description": "XL Link and Cuff Earrings",
+    "price": 370,
+    "category": "Jewelry",
+    "subCategory": "Earrings",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1011593/655129/large_paco-rabanne-silver-xl-link-and-cuff-earrings.jpg?_v=1757017027",
+      "https://cdn.modaoperandi.com/assets/images/products/1011593/655129/c/large_paco-rabanne-silver-xl-link-and-cuff-earrings.jpg?_v=1757017027",
+      "https://cdn.modaoperandi.com/assets/images/products/1011593/655129/c2/large_paco-rabanne-silver-xl-link-and-cuff-earrings.jpg?_v=1757017027",
+      "https://cdn.modaoperandi.com/assets/images/products/1011593/655129/j01/large_paco-rabanne-silver-xl-link-and-cuff-earrings.jpg?_v=1757017027"
+    ],
+    "variants": [{ "size": "Standard", "color": "Silver", "stock": 2 }]
+  },
+  {
+    "name": "Lié Studio",
+    "description": "The Hannah Topaz Earrings",
+    "price": 235,
+    "category": "Jewelry",
+    "subCategory": "Earrings",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/996897/639555/large_lie-studio-blue-the-hannah-earrings-3.jpg?_v=1752090209",
+      "https://cdn.modaoperandi.com/assets/images/products/996897/639555/c/large_lie-studio-blue-the-hannah-earrings-3.jpg?_v=1752090209"
+    ],
+    "variants": [{ "size": "Standard", "color": "Blue", "stock": 2 }]
+  },
+  {
+    "name": "Sylvia Toledano",
+    "description": "Mini Candies Turquoise, Larimar 22K Gold-Plated Earrings",
+    "price": 290,
+    "category": "Jewelry",
+    "subCategory": "Earrings",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1018576/662639/large_sylvia-toledano-blue-turquoise-and-larimar-mini-candies-earrings.jpg?_v=1755001640",
+      "https://cdn.modaoperandi.com/assets/images/products/1018576/662639/c/large_sylvia-toledano-blue-turquoise-and-larimar-mini-candies-earrings.jpg?_v=1755001640"
+    ],
+    "variants": [{ "size": "Standard", "color": "blue", "stock": 2 }]
+  },
+  {
+    "name": "Ben-Amun",
+    "description": "24K Gold-Plated Link Necklace",
+    "price": 245,
+    "category": "Jewelry",
+    "subCategory": "Necklaces",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/870568/499811/large_ben-amun-gold-gold-tone-link-necklace.jpg?_v=1755868605",
+      "https://cdn.modaoperandi.com/assets/images/products/870568/499811/c/large_ben-amun-gold-gold-tone-link-necklace.jpg?_v=1755868605"
+    ],
+    "variants": [{ "size": "Standard", "color": "Gold", "stock": 2 }]
+  },
+  {
+    "name": "Mateo",
+    "description": "14K Yellow Gold Amethyst, Diamond Necklace",
+    "price": 1150,
+    "category": "Jewelry",
+    "subCategory": "Necklaces",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1054376/701776/large_mateo-green-14kt-green-amethyst-pear-and-diamond-bezel-necklace.jpg?_v=1756314465",
+      "https://cdn.modaoperandi.com/assets/images/products/1054376/701776/c/large_mateo-green-14kt-green-amethyst-pear-and-diamond-bezel-necklace.jpg?_v=1756314465"
+    ],
+    "variants": [{ "size": "Standard", "color": "Green", "stock": 2 }]
+  },
+  {
+    "name": "SHAY",
+    "description": "18K Yellow Gold Emerald Necklace",
+    "price": 17500,
+    "category": "Jewelry",
+    "subCategory": "Necklaces",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1063226/711383/large_shay-gold-18k-yellow-gold-emerald-east-west-pear-pendant-necklace.jpg?_v=1756923729"
+    ],
+    "variants": [{ "size": "Standard", "color": "Gold", "stock": 2 }]
+  },
+  {
+    "name": "Sylvia Toledano",
+    "description": "22kt Yellow Gold Plated Rosarie Necklace",
+    "price": 370,
+    "category": "Jewelry",
+    "subCategory": "Necklaces",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1050639/697790/large_sylvia-toledano-brown-22kt-yellow-gold-rosarie-necklace.jpg?_v=1756054200",
+      "https://cdn.modaoperandi.com/assets/images/products/1050639/697790/c/large_sylvia-toledano-brown-22kt-yellow-gold-rosarie-necklace.jpg?_v=1756054200"
+    ],
+    "variants": [{ "size": "Standard", "color": "Brown", "stock": 2 }]
+  },
+  {
+    "name": "Julietta",
+    "description": "Opyum Necklace",
+    "price": 295,
+    "category": "Jewelry",
+    "subCategory": "Necklaces",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1041987/688455/large_julietta-red-opyum-necklace-2.jpg?_v=1756829236",
+      "https://cdn.modaoperandi.com/assets/images/products/1041987/688455/c/large_julietta-red-opyum-necklace-2.jpg?_v=1756829236"
+    ],
+    "variants": [{ "size": "Standard", "color": "Red", "stock": 2 }]
+  },
+  {
+    "name": "Juju Vera",
+    "description": "Athena Gold-Plated Diamond Necklace",
+    "price": 4800,
+    "category": "Jewelry",
+    "subCategory": "Necklaces",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1037460/683281/large_juju-vera-gold-athena-sterling-silver-diamond-necklace-2.jpg?_v=1746541273",
+      "https://cdn.modaoperandi.com/assets/images/products/1037460/683281/g2/large_juju-vera-gold-athena-sterling-silver-diamond-necklace-2.jpg?_v=1746541273"
+    ],
+    "variants": [{ "size": "Standard", "color": "Gold", "stock": 2 }]
+  },
+  {
+    "name": "Julietta",
+    "description": "Exclusive Ponza Beaded Shell Necklace",
+    "price": 295,
+    "category": "Jewelry",
+    "subCategory": "Necklaces",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1041992/688460/large_julietta-burgundy-exclusive-ponza-necklace.jpg?_v=1757349719",
+      "https://cdn.modaoperandi.com/assets/images/products/1041992/688460/c/large_julietta-burgundy-exclusive-ponza-necklace.jpg?_v=1757349719"
+    ],
+    "variants": [{ "size": "Standard", "color": "Burgundy", "stock": 2 }]
+  },
+  {
+    "name": "Alexis Bittar",
+    "description": "14K Gold-Plated Collar Necklace",
+    "price": 495,
+    "category": "Jewelry",
+    "subCategory": "Necklaces",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1043343/689929/large_alexis-bittar-gold-liquid-lucite-sprout-collar.jpg?_v=1754890526",
+      "https://cdn.modaoperandi.com/assets/images/products/1043343/689929/g2/large_alexis-bittar-gold-liquid-lucite-sprout-collar.jpg?_v=1754890526"
+    ],
+    "variants": [{ "size": "Standard", "color": "Gold", "stock": 2 }]
+  },
+  {
+    "name": "Sophie Bille Brahe",
+    "description": "14K Yellow Gold Pearl Ear Cuff",
+    "price": 790,
+    "category": "Jewelry",
+    "subCategory": "Cufflinks",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1013798/657506/large_sophie-bille-brahe-white-cuff-de-perle.jpg?_v=1752525656",
+      "https://cdn.modaoperandi.com/assets/images/products/1013798/657506/683e175b/large_sophie-bille-brahe-white-cuff-de-perle.jpg?_v=1752525656"
+    ],
+    "variants": [{ "size": "Standard", "color": "White", "stock": 2 }]
+  },
+  {
+    "name": "Spinelli Kilcollin",
+    "description": "Exclusive Riviera Acacia Bleu Sterling Silver Sapphire Ring",
+    "price": 990,
+    "category": "Jewelry",
+    "subCategory": "Rings",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1036237/681964/large_spinelli-kilcollin-blue-acacia-bleu-silver-ring.jpg?_v=1755273467",
+      "https://cdn.modaoperandi.com/assets/images/products/1036237/681964/68002d66/large_spinelli-kilcollin-blue-acacia-bleu-silver-ring.jpg?_v=1755273467"
+    ],
+    "variants": [{ "size": "Standard", "color": "Blue", "stock": 2 }]
+  },
+  {
+    "name": "AGMES",
+    "description": "Cara Sterling Silver Jade Ring",
+    "price": 310,
+    "category": "Jewelry",
+    "subCategory": "Rings",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1013492/657190/large_agmes-silver-cara-ring.jpg?_v=1757101191",
+      "https://cdn.modaoperandi.com/assets/images/products/1013492/657190/c/large_agmes-silver-cara-ring.jpg?_v=1757101191"
+    ],
+    "variants": [{ "size": "Standard", "color": "Silver", "stock": 2 }]
+  },
+  {
+    "name": "Amrapali",
+    "description": "Kundan 18K Yellow Gold Vintage Diamond Ring",
+    "price": 900,
+    "category": "Jewelry",
+    "subCategory": "Rings",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1053203/700522/large_amrapali-gold-kundan-vintage-diamond-square-ring-in-18k-yellow-gold-and-diamond.jpg?_v=1752681101",
+      "https://cdn.modaoperandi.com/assets/images/products/1053203/700522/c/large_amrapali-gold-kundan-vintage-diamond-square-ring-in-18k-yellow-gold-and-diamond.jpg?_v=1752681101"
+    ],
+    "variants": [{ "size": "Standard", "color": "Gold", "stock": 2 }]
+  },
+  {
+    "name": "Goshwara",
+    "description": "18K Yellow Gold Prasiolite And Diamond Ring",
+    "price": 6400,
+    "category": "Jewelry",
+    "subCategory": "Rings",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1011715/655258/large_goshwara-green-prasiolite-diamond-large-octagon-ring.jpg?_v=1751897759",
+      "https://cdn.modaoperandi.com/assets/images/products/1011715/655258/c/large_goshwara-green-prasiolite-diamond-large-octagon-ring.jpg?_v=1751897759"
+    ],
+    "variants": [{ "size": "Standard", "color": "Green", "stock": 2 }]
+  },
+  {
+    "name": "B.P. de Silva Jewellers",
+    "description": "18K Rose Gold Tourmaline Ring",
+    "price": 3000,
+    "category": "Jewelry",
+    "subCategory": "Rings",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1050236/697352/large_b-p-de-silva-jewellers-pink-18k-rose-gold-ring-asscher-tourmaline.jpg?_v=1747238151",
+      "https://cdn.modaoperandi.com/assets/images/products/1050236/697352/c/large_b-p-de-silva-jewellers-pink-18k-rose-gold-ring-asscher-tourmaline.jpg?_v=1747238151"
+    ],
+    "variants": [{ "size": "Standard", "color": "Pink", "stock": 2 }]
+  },
+  {
+    "name": "Sylvia Toledano",
+    "description": "22kt Yellow Gold Plated Dakota Ring",
+    "price": 300,
+    "category": "Jewelry",
+    "subCategory": "Rings",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1050641/697792/large_sylvia-toledano-brown-22kt-yellow-gold-dakota-ring.jpg?_v=1754888564",
+      "https://cdn.modaoperandi.com/assets/images/products/1050641/697792/c/large_sylvia-toledano-brown-22kt-yellow-gold-dakota-ring.jpg?_v=1754888564"
+    ],
+    "variants": [{ "size": "Standard", "color": "Brown", "stock": 2 }]
+  },
+  {
+    "name": "Stephanie Windsor",
+    "description": "Vintage Audemars Piguet Royal Oak Watch",
+    "price": 24200,
+    "category": "Jewelry",
+    "subCategory": "Watches",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1062982/711116/large_stephanie-windsor-white-vintage-audemars-piguet-royal-oak-1.jpg?_v=1756221195",
+      "https://cdn.modaoperandi.com/assets/images/products/1062982/711116/g4/large_stephanie-windsor-white-vintage-audemars-piguet-royal-oak-1.jpg?_v=1756221195"
+    ],
+    "variants": [{ "size": "Standard", "color": "White", "stock": 2 }]
+  },
+  {
+    "name": "Private Label London",
+    "description": "Rolex Daytona Stainless Steel Watch",
+    "price": 24200,
+    "category": "Jewelry",
+    "subCategory": "Watches",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1057628/705294/large_private-label-london-white-rolex-daytona-ceramic-coated-watch-coconut-white.jpg?_v=1752683641",
+      "https://cdn.modaoperandi.com/assets/images/products/1057628/705294/f/large_private-label-london-white-rolex-daytona-ceramic-coated-watch-coconut-white.jpg?_v=1752683641"
+    ],
+    "variants": [{ "size": "Standard", "color": "White", "stock": 2 }]
+  },
+  {
+    "name": "Stephanie Windsor",
+    "description": "Vintage Piaget Polo Watch",
+    "price": 19900,
+    "category": "Jewelry",
+    "subCategory": "Watches",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1061464/709531/large_stephanie-windsor-gold-vintage-piaget-polo-1.jpg?_v=1757356912",
+      "https://cdn.modaoperandi.com/assets/images/products/1061464/709531/f/large_stephanie-windsor-gold-vintage-piaget-polo-1.jpg?_v=1757356912"
+    ],
+    "variants": [{ "size": "Standard", "color": "Gold", "stock": 2 }]
+  },
+  {
+    "name": "Blu Dog World",
+    "description": "18k Yellow Gold Woven One of a Kind Patek Phillipe Watch",
+    "price": 39000,
+    "category": "Jewelry",
+    "subCategory": "Watches",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1064892/713204/large_blu-dog-world-gold-18k-yellow-gold-woven-one-of-a-kind-patek-phillipe-watch.jpg?_v=1756994944",
+      "https://cdn.modaoperandi.com/assets/images/products/1064892/713204/c/large_blu-dog-world-gold-18k-yellow-gold-woven-one-of-a-kind-patek-phillipe-watch.jpg?_v=1756994944"
+    ],
+    "variants": [{ "size": "Standard", "color": "Gold", "stock": 2 }]
+  },
+  {
+    "name": "Stephanie Windsor",
+    "description": "Patek Philippe Gondolo Vintage Watch",
+    "price": 18500,
+    "category": "Jewelry",
+    "subCategory": "Watches",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1054946/702389/large_stephanie-windsor-gold-patek-philippe-gondolo.jpg?_v=1753211848",
+      "https://cdn.modaoperandi.com/assets/images/products/1054946/702389/c/large_stephanie-windsor-gold-patek-philippe-gondolo.jpg?_v=1753211848"
+    ],
+    "variants": [{ "size": "Standard", "color": "Gold", "stock": 2 }]
+  },
+  {
+    "name": "Stephanie Windsor",
+    "description": "Vintage Rare Jaeger LeCoultre Tank Watch",
+    "price": 14800,
+    "category": "Jewelry",
+    "subCategory": "Watches",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1061470/709537/large_stephanie-windsor-gold-vintage-rare-jaeger-lecoultre-tank.jpg?_v=1753281115",
+      "https://cdn.modaoperandi.com/assets/images/products/1061470/709537/f/large_stephanie-windsor-gold-vintage-rare-jaeger-lecoultre-tank.jpg?_v=1753281115"
+    ],
+    "variants": [{ "size": "Standard", "color": "Gold", "stock": 2 }]
+  },
+  {
+    "name": "Oscar de la Renta",
+    "description": "Gold-Tone Enameled Pendant Necklace",
+    "price": 490,
+    "category": "Collections",
+    "subCategory": "Oscar de la Renta",
+
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1021641/666108/large_oscar-de-la-renta-orange-resin-o-pendant-necklace.jpg?_v=1750349070",
+      "https://cdn.modaoperandi.com/assets/images/products/1021641/666108/c/large_oscar-de-la-renta-orange-resin-o-pendant-necklace.jpg?_v=1750349070"
+    ],
+    "variants": [{ "size": "Standard", "color": "Orange", "stock": 2 }]
+  },
+  {
+    "name": "Oscar de la Renta",
+    "description": "Twisted Crystal Clip-On Earrings",
+    "price": 360,
+    "category": "Collections",
+    "subCategory": "Oscar de la Renta",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1040717/687012/large_oscar-de-la-renta-bronze-twisted-drop-clip-on-earrings.jpg?_v=1756268679",
+      "https://cdn.modaoperandi.com/assets/images/products/1040717/687012/c/large_oscar-de-la-renta-bronze-twisted-drop-clip-on-earrings.jpg?_v=1756268679"
+    ],
+    "variants": [{ "size": "Standard", "color": "Bronze", "stock": 2 }]
+  },
+  {
+    "name": "Oscar de la Renta",
+    "description": "O Enamel Flower Stud Earrings",
+    "price": 440,
+    "category": "Collections",
+    "subCategory": "Oscar de la Renta",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1040714/687008/large_oscar-de-la-renta-red-o-enamel-flower-stud-earrings.jpg?_v=1756268677",
+      "https://cdn.modaoperandi.com/assets/images/products/1040714/687008/c/large_oscar-de-la-renta-red-o-enamel-flower-stud-earrings.jpg?_v=1756268677"
+    ],
+    "variants": [{ "size": "Standard", "color": "Red", "stock": 2 }]
+  },
+  {
+    "name": "Khaite",
+    "description": "Salm Ruffled Wool-Silk Cady Midi Dress",
+    "price": 6200,
+    "category": "Collections",
+    "subCategory": "Khaite",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1067073/715593/medium_large_khaite-white-salm-ruffled-wool-silk-cady-midi-dress.jpg?_v=1759263229"
+    ],
+    "variants": [
+      { "size": "S", "color": "White", "stock": 2 },
+      { "size": "M", "color": "White", "stock": 5 },
+      { "size": "L", "color": "White", "stock": 7 },
+      { "size": "XS", "color": "White", "stock": 5 }
+    ]
+  },
+  {
+    "name": "Khaite",
+    "description": "Rae High-Rise Crepe Flare Pants",
+    "price": 1780,
+    "category": "Collections",
+    "subCategory": "Khaite",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1067076/715599/b/large_khaite-black-rae-high-rise-crepe-flare-pants.jpg?_v=1758661895",
+      "https://cdn.modaoperandi.com/assets/images/products/1067076/715599/large_khaite-black-rae-high-rise-crepe-flare-pants.jpg?_v=1758661895"
+    ],
+    "variants": [
+      { "size": "S", "color": "Black", "stock": 2 },
+      { "size": "M", "color": "Black", "stock": 5 },
+      { "size": "L", "color": "Black", "stock": 7 },
+      { "size": "XS", "color": "Black", "stock": 5 }
+    ]
+  },
+  {
+    "name": "Khaite",
+    "description": "Kelsi Wool-Silk Cady Crop Top",
+    "price": 2190,
+    "category": "Collections",
+    "subCategory": "Khaite",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1067075/715597/large_khaite-white-kelsi-wool-silk-cady-crop-top.jpg?_v=1759263230",
+      "https://cdn.modaoperandi.com/assets/images/products/1067075/715597/b/large_khaite-white-kelsi-wool-silk-cady-crop-top.jpg?_v=1759263230"
+    ],
+    "variants": [
+      { "size": "S", "color": "White", "stock": 2 },
+      { "size": "M", "color": "White", "stock": 5 },
+      { "size": "L", "color": "White", "stock": 7 },
+      { "size": "XS", "color": "White", "stock": 5 }
+    ]
+  },
+  {
+    "name": "Khaite",
+    "description": "Kelsi Wool-Silk Cady Crop Top",
+    "price": 2190,
+    "category": "Collections",
+    "subCategory": "Khaite",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1067075/715597/large_khaite-white-kelsi-wool-silk-cady-crop-top.jpg?_v=1759263230",
+      "https://cdn.modaoperandi.com/assets/images/products/1067075/715597/b/large_khaite-white-kelsi-wool-silk-cady-crop-top.jpg?_v=1759263230"
+    ],
+    "variants": [
+      { "size": "S", "color": "White", "stock": 2 },
+      { "size": "M", "color": "White", "stock": 5 },
+      { "size": "L", "color": "White", "stock": 7 },
+      { "size": "XS", "color": "White", "stock": 5 }
+    ]
+  },
+  {
+    "name": "Khaite",
+    "description": "Kendra Cuffed Denim Midi Skirt",
+    "price": 740,
+    "category": "Collections",
+    "subCategory": "Khaite",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1067095/715623/large_khaite-dark-wash-kendra-cuffed-denim-midi-skirt.jpg?_v=1758661896",
+      "https://cdn.modaoperandi.com/assets/images/products/1067095/715623/b/large_khaite-dark-wash-kendra-cuffed-denim-midi-skirt.jpg?_v=1758661896",
+      "https://cdn.modaoperandi.com/assets/images/products/1067095/715623/h01/large_khaite-dark-wash-kendra-cuffed-denim-midi-skirt.jpg?_v=1758661896"
+    ],
+    "variants": [
+      { "size": "S", "color": "Dark wash", "stock": 2 },
+      { "size": "M", "color": "Dark wash", "stock": 5 },
+      { "size": "L", "color": "Dark wash", "stock": 7 },
+      { "size": "XS", "color": "Dark wash", "stock": 5 }
+    ]
+  },
+  {
+    "name": "Khaite",
+    "description": "Churro Belt - Antique Gold (35MM)",
+    "price": 880,
+    "category": "Collections",
+    "subCategory": "Khaite",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1066995/715491/large_khaite-black-churro-belt-antique-gold-35mm.jpg?_v=1758572433",
+      "https://cdn.modaoperandi.com/assets/images/products/1066995/715491/68d1af8f/large_khaite-black-churro-belt-antique-gold-35mm.jpg?_v=1758572433"
+    ],
+    "variants": [
+      { "size": "S", "color": "Black", "stock": 2 },
+      { "size": "M", "color": "Black", "stock": 5 },
+      { "size": "L", "color": "Black", "stock": 7 },
+      { "size": "XS", "color": "Black", "stock": 5 }
+    ]
+  },
+  {
+    "name": "Khaite",
+    "description": "Bella Pump 55",
+    "price": 1280,
+    "category": "Collections",
+    "subCategory": "Khaite",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1066986/715479/large_khaite-brown-bella-pump-55.jpg?_v=1758631960",
+      "https://cdn.modaoperandi.com/assets/images/products/1066986/715479/j11/large_khaite-brown-bella-pump-55.jpg?_v=1758631960",
+      "https://cdn.modaoperandi.com/assets/images/products/1066986/715479/j12/large_khaite-brown-bella-pump-55.jpg?_v=1758631960"
+    ],
+    "variants": [
+      { "size": "36", "color": "Brown", "stock": 2 },
+      { "size": "37", "color": "Brown", "stock": 5 },
+      { "size": "38", "color": "Brown", "stock": 7 },
+      { "size": "39", "color": "Brown", "stock": 5 }
+    ]
+  },
+  {
+    "name": "Khaite",
+    "description": "Bella Pump 55",
+    "price": 6800,
+    "category": "Collections",
+    "subCategory": "Khaite",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1067096/715624/large_khaite-red-dolso-cape-sleeve-plonge-leather-jacket.jpg?_v=1758647749",
+      "https://cdn.modaoperandi.com/assets/images/products/1067096/715624/b/large_khaite-red-dolso-cape-sleeve-plonge-leather-jacket.jpg?_v=1758647749"
+    ],
+    "variants": [
+      { "size": "S", "color": "Red", "stock": 2 },
+      { "size": "M", "color": "Red", "stock": 5 },
+      { "size": "L", "color": "Red", "stock": 7 },
+      { "size": "XS", "color": "Red", "stock": 5 }
+    ]
+  },
+  {
+    "name": "Khaite",
+    "description": "Farley Mid-Rise Straight-Leg Jeans",
+    "price": 620,
+    "category": "Collections",
+    "subCategory": "Khaite",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1054483/701883/large_khaite-dark-wash-farley-mid-rise-denim-straight-leg-jeans.jpg?_v=1758647705",
+      "https://cdn.modaoperandi.com/assets/images/products/1054483/701883/l/large_khaite-dark-wash-farley-mid-rise-denim-straight-leg-jeans.jpg?_v=1758647705",
+      "https://cdn.modaoperandi.com/assets/images/products/1054483/701883/c/large_khaite-dark-wash-farley-mid-rise-denim-straight-leg-jeans.jpg?_v=1758647705",
+      "https://cdn.modaoperandi.com/assets/images/products/1054483/701883/c2/large_khaite-dark-wash-farley-mid-rise-denim-straight-leg-jeans.jpg?_v=1758647705",
+      "https://cdn.modaoperandi.com/assets/images/products/1054483/701883/c3/large_khaite-dark-wash-farley-mid-rise-denim-straight-leg-jeans.jpg?_v=1758647705"
+    ],
+    "variants": [
+      { "size": "S", "color": "Dark wash", "stock": 2 },
+      { "size": "M", "color": "Dark wash", "stock": 5 },
+      { "size": "L", "color": "Dark wash", "stock": 7 },
+      { "size": "XS", "color": "Dark wash", "stock": 5 }
+    ]
+  },
+  {
+    "name": "Khaite",
+    "description": "Farley Mid-Rise Straight-Leg Jeans",
+    "price": 9800,
+    "category": "Collections",
+    "subCategory": "Khaite",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1067099/715629/large_khaite-black-onis-plonge-leather-mini-wrap-dress.jpg?_v=1758561294",
+      "https://cdn.modaoperandi.com/assets/images/products/1067099/715629/b/large_khaite-black-onis-plonge-leather-mini-wrap-dress.jpg?_v=1758561294"
+    ],
+    "variants": [
+      { "size": "S", "color": "Black", "stock": 2 },
+      { "size": "M", "color": "Black", "stock": 5 },
+      { "size": "L", "color": "Black", "stock": 7 },
+      { "size": "XS", "color": "Black", "stock": 5 }
+    ]
+  },
+  {
+    "name": "Khaite",
+    "description": "Salm Ruffled Wool-Silk Cady Midi Dress",
+    "price": 6200,
+    "category": "Collections",
+    "subCategory": "Khaite",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1067073/715594/large_khaite-black-salm-ruffled-wool-silk-cady-midi-dress.jpg?_v=1758560912",
+      "https://cdn.modaoperandi.com/assets/images/products/1067073/715594/b/large_khaite-black-salm-ruffled-wool-silk-cady-midi-dress.jpg?_v=1758560912"
+    ],
+    "variants": [
+      { "size": "S", "color": "Black", "stock": 2 },
+      { "size": "M", "color": "Black", "stock": 5 },
+      { "size": "L", "color": "Black", "stock": 7 },
+      { "size": "XS", "color": "Black", "stock": 5 }
+    ]
+  },
+  {
+    "name": "Khaite",
+    "description": "Sal Ruffled Wool-Silk Cady Top",
+    "price": 4600,
+    "category": "Collections",
+    "subCategory": "Khaite",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1067079/715604/large_khaite-black-sal-ruffled-wool-silk-cady-top.jpg?_v=1758647746",
+      "https://cdn.modaoperandi.com/assets/images/products/1067079/715604/b/large_khaite-black-sal-ruffled-wool-silk-cady-top.jpg?_v=1758647746"
+    ],
+    "variants": [
+      { "size": "S", "color": "Black", "stock": 2 },
+      { "size": "M", "color": "Black", "stock": 5 },
+      { "size": "L", "color": "Black", "stock": 7 },
+      { "size": "XS", "color": "Black", "stock": 5 }
+    ]
+  },
+  {
+    "name": "Khaite",
+    "description": "Sal Ruffled Wool-Silk Cady Top",
+    "price": 4600,
+    "category": "Collections",
+    "subCategory": "Khaite",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1067081/715606/large_khaite-black-fenla-crepe-cropped-jacket.jpg?_v=1758561193",
+      "https://cdn.modaoperandi.com/assets/images/products/1067081/715606/b/large_khaite-black-fenla-crepe-cropped-jacket.jpg?_v=1758561193"
+    ],
+    "variants": [
+      { "size": "S", "color": "Black", "stock": 2 },
+      { "size": "M", "color": "Black", "stock": 5 },
+      { "size": "L", "color": "Black", "stock": 7 },
+      { "size": "XS", "color": "Black", "stock": 5 }
+    ]
+  },
+  {
+    "name": "Alaia",
+    "description": "Bow-Detailed Georgette Maxi Dress",
+    "price": 9400,
+    "category": "Collections",
+    "subCategory": "Alaia",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1046375/693244/large_alaia-purple-bow-fit-dress.jpg?_v=1759178058",
+      "https://cdn.modaoperandi.com/assets/images/products/1046375/693244/c/large_alaia-purple-bow-fit-dress.jpg?_v=1759178058",
+      "https://cdn.modaoperandi.com/assets/images/products/1046375/693244/c2/large_alaia-purple-bow-fit-dress.jpg?_v=1759178058",
+      "https://cdn.modaoperandi.com/assets/images/products/1046375/693244/c3/large_alaia-purple-bow-fit-dress.jpg?_v=1759178058",
+      "https://cdn.modaoperandi.com/assets/images/products/1046375/693244/z/large_alaia-purple-bow-fit-dress.jpg?_v=1759178058"
+    ],
+    "variants": [
+      { "size": "S", "color": "Purple", "stock": 2 },
+      { "size": "M", "color": "Purple", "stock": 5 },
+      { "size": "L", "color": "Purple", "stock": 7 },
+      { "size": "XS", "color": "Purple", "stock": 5 }
+    ]
+  },
+  {
+    "name": "Alaia",
+    "description": "Tights",
+    "price": 200,
+    "category": "Collections",
+    "subCategory": "Alaia",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1046387/693257/large_alaia-burgundy-tights-lingerie.jpg?_v=1759254189",
+      "https://cdn.modaoperandi.com/assets/images/products/1046387/693257/z/large_alaia-burgundy-tights-lingerie.jpg?_v=1759254189"
+    ],
+    "variants": [
+      { "size": "S", "color": "Burgundy", "stock": 2 },
+      { "size": "M", "color": "Burgundy", "stock": 5 },
+      { "size": "L", "color": "Burgundy", "stock": 7 },
+      { "size": "XS", "color": "Burgundy", "stock": 5 }
+    ]
+  },
+  {
+    "name": "Alaia",
+    "description": "Velvet d'Orsay Pumps",
+    "price": 1450,
+    "category": "Collections",
+    "subCategory": "Alaia",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1046764/693664/large_alaia-blue-d-orsay-90.jpg?_v=1758826070"
+    ],
+    "variants": [
+      { "size": "36", "color": "Burgundy", "stock": 2 },
+      { "size": "37", "color": "Burgundy", "stock": 5 },
+      { "size": "38", "color": "Burgundy", "stock": 7 },
+      { "size": "39", "color": "Burgundy", "stock": 5 }
+    ]
+  },
+  {
+    "name": "Alaia",
+    "description": "Flower-Topped PVC Mules",
+    "price": 2150,
+    "category": "Collections",
+    "subCategory": "Alaia",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1046763/693663/large_alaia-pink-mules-90.jpg?_v=1758305333",
+      "https://cdn.modaoperandi.com/assets/images/products/1046763/693663/c/large_alaia-pink-mules-90.jpg?_v=1758305333",
+      "https://cdn.modaoperandi.com/assets/images/products/1046763/693663/f/large_alaia-pink-mules-90.jpg?_v=1758305333",
+      "https://cdn.modaoperandi.com/assets/images/products/1046763/693663/f2/large_alaia-pink-mules-90.jpg?_v=1758305333"
+    ],
+    "variants": [
+      { "size": "36", "color": "Pink", "stock": 2 },
+      { "size": "37", "color": "Pink", "stock": 5 },
+      { "size": "38", "color": "Pink", "stock": 7 },
+      { "size": "39", "color": "Pink", "stock": 5 }
+    ]
+  },
+  {
+    "name": "Alaia",
+    "description": "Bow-Detailed Jersey Blouse",
+    "price": 2600,
+    "category": "Collections",
+    "subCategory": "Alaia",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1046376/693245/large_alaia-ivory-maxi-bow-blouse.jpg?_v=1757348094",
+      "https://cdn.modaoperandi.com/assets/images/products/1046376/693245/c/large_alaia-ivory-maxi-bow-blouse.jpg?_v=1757348094",
+      "https://cdn.modaoperandi.com/assets/images/products/1046376/693245/c2/large_alaia-ivory-maxi-bow-blouse.jpg?_v=1757348094",
+      "https://cdn.modaoperandi.com/assets/images/products/1046376/693245/c3/large_alaia-ivory-maxi-bow-blouse.jpg?_v=1757348094"
+    ],
+    "variants": [
+      { "size": "S", "color": "Ivory", "stock": 2 },
+      { "size": "M", "color": "Ivory", "stock": 5 },
+      { "size": "L", "color": "Ivory", "stock": 7 },
+      { "size": "XS", "color": "Ivory", "stock": 5 }
+    ]
+  },
+  {
+    "name": "Alaia",
+    "description": "Layered Wool-Blend Maxi Skirt",
+    "price": 9850,
+    "category": "Collections",
+    "subCategory": "Alaia",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1046370/693239/large_alaia-neutral-layered-skirt.jpg?_v=1759346741",
+      "https://cdn.modaoperandi.com/assets/images/products/1046370/693239/68ae0144/large_alaia-neutral-layered-skirt.jpg?_v=1759346741",
+      "https://cdn.modaoperandi.com/assets/images/products/1046370/693239/68ae016b/large_alaia-neutral-layered-skirt.jpg?_v=1759346741",
+      "https://cdn.modaoperandi.com/assets/images/products/1046370/693239/c/large_alaia-neutral-layered-skirt.jpg?_v=1759346741"
+    ],
+    "variants": [
+      { "size": "S", "color": "Neutral", "stock": 2 },
+      { "size": "M", "color": "Neutral", "stock": 5 },
+      { "size": "L", "color": "Neutral", "stock": 7 },
+      { "size": "XS", "color": "Neutral", "stock": 5 }
+    ]
+  },
+  {
+    "name": "Alaia",
+    "description": "Le Teckel Medium Calf Leather Bag",
+    "price": 2950,
+    "category": "Collections",
+    "subCategory": "Alaia",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1046614/693500/large_alaia-grey-le-teckel-m.jpg?_v=1758827556",
+      "https://cdn.modaoperandi.com/assets/images/products/1046614/693500/c/large_alaia-grey-le-teckel-m.jpg?_v=1758827556"
+    ],
+    "variants": [{ "size": "Standard", "color": "Grey", "stock": 2 }]
+  },
+  {
+    "name": "Alaia",
+    "description": "Le Click Medium E/W Nubuck Bag",
+    "price": 3100,
+    "category": "Collections",
+    "subCategory": "Alaia",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1046613/693498/large_alaia-brown-le-click-east-west-m.jpg?_v=1757963462",
+      "https://cdn.modaoperandi.com/assets/images/products/1046613/693498/f/large_alaia-brown-le-click-east-west-m.jpg?_v=1757963462",
+      "https://cdn.modaoperandi.com/assets/images/products/1046613/693498/f2/large_alaia-brown-le-click-east-west-m.jpg?_v=1757963462"
+    ],
+    "variants": [{ "size": "Standard", "color": "Brown", "stock": 2 }]
+  },
+  {
+    "name": "Alaia",
+    "description": "Le Coeur Leopard-Print Pony Hair Bag",
+    "price": 2000,
+    "category": "Collections",
+    "subCategory": "Alaia",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1032469/677867/large_alaia-animal-le-coeur.jpg?_v=1758895533",
+      "https://cdn.modaoperandi.com/assets/images/products/1032469/677867/68bf2d22/large_alaia-animal-le-coeur.jpg?_v=1758895533",
+      "https://cdn.modaoperandi.com/assets/images/products/1032469/677867/c/large_alaia-animal-le-coeur.jpg?_v=1758895533",
+      "https://cdn.modaoperandi.com/assets/images/products/1032469/677867/f/large_alaia-animal-le-coeur.jpg?_v=1758895533",
+      "https://cdn.modaoperandi.com/assets/images/products/1032469/677867/f3/large_alaia-animal-le-coeur.jpg?_v=1758895533"
+    ],
+    "variants": [{ "size": "Standard", "color": "Animal", "stock": 2 }]
+  },
+  {
+    "name": "Alaia",
+    "description": "Spiral Denim Skirt",
+    "price": 2400,
+    "category": "Collections",
+    "subCategory": "Alaia",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1032661/678070/large_alaia-blue-spiral-skirt.jpg?_v=1759178072",
+      "https://cdn.modaoperandi.com/assets/images/products/1032661/678070/c/large_alaia-blue-spiral-skirt.jpg?_v=1759178072",
+      "https://cdn.modaoperandi.com/assets/images/products/1032661/678070/c2/large_alaia-blue-spiral-skirt.jpg?_v=1759178072",
+      "https://cdn.modaoperandi.com/assets/images/products/1032661/678070/c3/large_alaia-blue-spiral-skirt.jpg?_v=1759178072"
+    ],
+    "variants": [
+      { "size": "S", "color": "Blue", "stock": 2 },
+      { "size": "M", "color": "Blue", "stock": 5 },
+      { "size": "L", "color": "Blue", "stock": 7 },
+      { "size": "XS", "color": "Blue", "stock": 5 }
+    ]
+  },
+  {
+    "name": "Alaia",
+    "description": "Asymmetric Cotton Midi Slip Dress",
+    "price": 3900,
+    "category": "Collections",
+    "subCategory": "Alaia",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1022577/667193/large_alaia-yellow-asym-dress.jpg?_v=1758724239",
+      "https://cdn.modaoperandi.com/assets/images/products/1022577/667193/c/large_alaia-yellow-asym-dress.jpg?_v=1758724239",
+      "https://cdn.modaoperandi.com/assets/images/products/1022577/667193/c2/large_alaia-yellow-asym-dress.jpg?_v=1758724239",
+      "https://cdn.modaoperandi.com/assets/images/products/1022577/667193/c3/large_alaia-yellow-asym-dress.jpg?_v=1758724239"
+    ],
+    "variants": [
+      { "size": "S", "color": "Yellow", "stock": 2 },
+      { "size": "M", "color": "Yellow", "stock": 5 },
+      { "size": "L", "color": "Yellow", "stock": 7 },
+      { "size": "XS", "color": "Yellow", "stock": 5 }
+    ]
+  },
+  {
+    "name": "Alaia",
+    "description": "Drop-Waist Knit Cotton Midi Dress",
+    "price": 4700,
+    "category": "Collections",
+    "subCategory": "Alaia",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1022581/667198/large_alaia-pink-godet-dress-m.jpg?_v=1753738498",
+      "https://cdn.modaoperandi.com/assets/images/products/1022581/667198/c/large_alaia-pink-godet-dress-m.jpg?_v=1753738498",
+      "https://cdn.modaoperandi.com/assets/images/products/1022581/667198/c2/large_alaia-pink-godet-dress-m.jpg?_v=1753738498",
+      "https://cdn.modaoperandi.com/assets/images/products/1022581/667198/c3/large_alaia-pink-godet-dress-m.jpg?_v=1753738498"
+    ],
+    "variants": [
+      { "size": "S", "color": "Pink", "stock": 2 },
+      { "size": "M", "color": "Pink", "stock": 5 },
+      { "size": "L", "color": "Pink", "stock": 7 },
+      { "size": "XS", "color": "Pink", "stock": 5 }
+    ]
+  },
+  {
+    "name": "Alaia",
+    "description": "Strapless Linen Maxi Dress",
+    "price": 2950,
+    "category": "Collections",
+    "subCategory": "Alaia",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1032659/678068/large_alaia-white-maxi-dress.jpg?_v=1758826991",
+      "https://cdn.modaoperandi.com/assets/images/products/1032659/678068/c/large_alaia-white-maxi-dress.jpg?_v=1758826991",
+      "https://cdn.modaoperandi.com/assets/images/products/1032659/678068/c2/large_alaia-white-maxi-dress.jpg?_v=1758826991",
+      "https://cdn.modaoperandi.com/assets/images/products/1032659/678068/c3/large_alaia-white-maxi-dress.jpg?_v=1758826991"
+    ],
+    "variants": [
+      { "size": "S", "color": "White", "stock": 2 },
+      { "size": "M", "color": "White", "stock": 5 },
+      { "size": "L", "color": "White", "stock": 7 },
+      { "size": "XS", "color": "White", "stock": 5 }
+    ]
+  },
+  {
+    "name": "Alaia",
+    "description": "Strapless Linen Maxi Dress",
+    "price": 1480,
+    "category": "Collections",
+    "subCategory": "Alaia",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/985789/627217/large_alaia-light-wash-hooded-jacket.jpg?_v=1756999598",
+      "https://cdn.modaoperandi.com/assets/images/products/985789/627217/f/large_alaia-light-wash-hooded-jacket.jpg?_v=1756999598"
+    ],
+    "variants": [
+      { "size": "S", "color": "Light Wash", "stock": 2 },
+      { "size": "M", "color": "Light Wash", "stock": 5 },
+      { "size": "L", "color": "Light Wash", "stock": 7 },
+      { "size": "XS", "color": "Light Wash", "stock": 5 }
+    ]
+  },
+  {
+    "name": "Wiederhoeft",
+    "description": "Julie Silk Taffeta Corset With Lost Works Embroidery ",
+    "price": 13900,
+    "category": "Collections",
+    "subCategory": "Wiederhoeft",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1069184/718017/large_wiederhoeft-print-julie-embroidered-silk-blend-corset.jpg?_v=1759354893",
+      "https://cdn.modaoperandi.com/assets/images/products/1069184/718017/b/large_wiederhoeft-print-julie-embroidered-silk-blend-corset.jpg?_v=1759354893",
+      "https://cdn.modaoperandi.com/assets/images/products/1069184/718017/d06/large_wiederhoeft-print-julie-embroidered-silk-blend-corset.jpg?_v=1759354893",
+      "https://cdn.modaoperandi.com/assets/images/products/1069184/718017/f/large_wiederhoeft-print-julie-embroidered-silk-blend-corset.jpg?_v=1759354893",
+      "https://cdn.modaoperandi.com/assets/images/products/1069184/718017/g01/large_wiederhoeft-print-julie-embroidered-silk-blend-corset.jpg?_v=1759354893"
+    ],
+    "variants": [
+      { "size": "S", "color": "Print", "stock": 2 },
+      { "size": "M", "color": "Print", "stock": 5 },
+      { "size": "L", "color": "Print", "stock": 7 },
+      { "size": "XS", "color": "Print", "stock": 5 }
+    ]
+  },
+  {
+    "name": "Wiederhoeft",
+    "description": "Gallery Skirt In Bias-Cut Layered Silks",
+    "price": 2490,
+    "category": "Collections",
+    "subCategory": "Wiederhoeft",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1069185/718018/large_wiederhoeft-blue-gallery-layered-silk-bias-cut-maxi-skirt.jpg?_v=1759354883",
+      "https://cdn.modaoperandi.com/assets/images/products/1069185/718018/b/large_wiederhoeft-blue-gallery-layered-silk-bias-cut-maxi-skirt.jpg?_v=1759354883"
+    ],
+    "variants": [
+      { "size": "S", "color": "Blue", "stock": 2 },
+      { "size": "M", "color": "Blue", "stock": 5 },
+      { "size": "L", "color": "Blue", "stock": 7 },
+      { "size": "XS", "color": "Blue", "stock": 5 }
+    ]
+  },
+  {
+    "name": "Wiederhoeft",
+    "description": "Arbe Dress In Silk Jersey With Silver Embroidery",
+    "price": 4990,
+    "category": "Collections",
+    "subCategory": "Wiederhoeft",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1069197/718030/large_wiederhoeft-black-arbe-embroidered-silk-maxi-dress.jpg?_v=1759259956",
+      "https://cdn.modaoperandi.com/assets/images/products/1069197/718030/b/large_wiederhoeft-black-arbe-embroidered-silk-maxi-dress.jpg?_v=1759259956",
+      "https://cdn.modaoperandi.com/assets/images/products/1069197/718030/f/large_wiederhoeft-black-arbe-embroidered-silk-maxi-dress.jpg?_v=1759259956"
+    ],
+    "variants": [
+      { "size": "S", "color": "Black", "stock": 2 },
+      { "size": "M", "color": "Black", "stock": 5 },
+      { "size": "L", "color": "Black", "stock": 7 },
+      { "size": "XS", "color": "Black", "stock": 5 }
+    ]
+  },
+  {
+    "name": "Wiederhoeft",
+    "description": "Salon Corset In Basketweave Lame With Embroidered Bust Drape",
+    "price": 6500,
+    "category": "Collections",
+    "subCategory": "Wiederhoeft",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1069188/718021/large_wiederhoeft-gold-basketweave-lame-draped-bust-salon-corset.jpg?_v=1759351331",
+      "https://cdn.modaoperandi.com/assets/images/products/1069188/718021/e01/large_wiederhoeft-gold-basketweave-lame-draped-bust-salon-corset.jpg?_v=1759351331"
+    ],
+    "variants": [
+      { "size": "S", "color": "Gold", "stock": 2 },
+      { "size": "M", "color": "Gold", "stock": 5 },
+      { "size": "L", "color": "Gold", "stock": 7 },
+      { "size": "XS", "color": "Gold", "stock": 5 }
+    ]
+  },
+  {
+    "name": "Wiederhoeft",
+    "description": "Gallery Skirt In Bias-Cut Fil Coupe Layered Silks",
+    "price": 4990,
+    "category": "Collections",
+    "subCategory": "Wiederhoeft",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1069189/718022/large_wiederhoeft-print-fil-coupe-silk-bias-cut-gallery-maxi-skirt.jpg?_v=1759351318",
+      "https://cdn.modaoperandi.com/assets/images/products/1069189/718022/b/large_wiederhoeft-print-fil-coupe-silk-bias-cut-gallery-maxi-skirt.jpg?_v=1759351318"
+    ],
+    "variants": [
+      { "size": "S", "color": "Print", "stock": 2 },
+      { "size": "M", "color": "Print", "stock": 5 },
+      { "size": "L", "color": "Print", "stock": 7 },
+      { "size": "XS", "color": "Print", "stock": 5 }
+    ]
+  },
+  {
+    "name": "Wiederhoeft",
+    "description": "Salon Corset In Pressed Velvet With Embroidered Crystal Applique",
+    "price": 6000,
+    "category": "Collections",
+    "subCategory": "Wiederhoeft",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1069194/718027/large_wiederhoeft-brown-embroidered-pressed-velvet-salon-corset.jpg?_v=1759259792",
+      "https://cdn.modaoperandi.com/assets/images/products/1069194/718027/b/large_wiederhoeft-brown-embroidered-pressed-velvet-salon-corset.jpg?_v=1759259792",
+      "https://cdn.modaoperandi.com/assets/images/products/1069194/718027/f/large_wiederhoeft-brown-embroidered-pressed-velvet-salon-corset.jpg?_v=1759259792"
+    ],
+    "variants": [
+      { "size": "S", "color": "Brown", "stock": 2 },
+      { "size": "M", "color": "Brown", "stock": 5 },
+      { "size": "L", "color": "Brown", "stock": 7 },
+      { "size": "XS", "color": "Brown", "stock": 5 }
+    ]
+  },
+  {
+    "name": "Wiederhoeft",
+    "description": "Draped Skirt In Fine Crepe Mesh With Embroidered Crystal Applique ",
+    "price": 1190,
+    "category": "Collections",
+    "subCategory": "Wiederhoeft",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1069195/718028/large_wiederhoeft-brown-embroidered-fine-crepe-mesh-maxi-skirt.jpg?_v=1759259792",
+      "https://cdn.modaoperandi.com/assets/images/products/1069195/718028/b/large_wiederhoeft-brown-embroidered-fine-crepe-mesh-maxi-skirt.jpg?_v=1759259792"
+    ],
+    "variants": [
+      { "size": "S", "color": "Brown", "stock": 2 },
+      { "size": "M", "color": "Brown", "stock": 5 },
+      { "size": "L", "color": "Brown", "stock": 7 },
+      { "size": "XS", "color": "Brown", "stock": 5 }
+    ]
+  },
+  {
+    "name": "Wiederhoeft",
+    "description": "Bias Cut Floral Embroidered Mini Dress",
+    "price": 2990,
+    "category": "Collections",
+    "subCategory": "Wiederhoeft",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1069213/718046/large_wiederhoeft-ivory-floral-embroidered-bias-cut-mini-dress.jpg?_v=1759259999",
+      "https://cdn.modaoperandi.com/assets/images/products/1069213/718046/b/large_wiederhoeft-ivory-floral-embroidered-bias-cut-mini-dress.jpg?_v=1759259999"
+    ],
+    "variants": [
+      { "size": "S", "color": "Ivory", "stock": 2 },
+      { "size": "M", "color": "Ivory", "stock": 5 },
+      { "size": "L", "color": "Ivory", "stock": 7 },
+      { "size": "XS", "color": "Ivory", "stock": 5 }
+    ]
+  },
+  {
+    "name": "Wiederhoeft",
+    "description": "Fully Embroidered Valérie Corset",
+    "price": 9900,
+    "category": "Collections",
+    "subCategory": "Wiederhoeft",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1069209/718042/large_wiederhoeft-brown-valerie-embroidered-silk-corset.jpg?_v=1759351335",
+      "https://cdn.modaoperandi.com/assets/images/products/1069209/718042/b/large_wiederhoeft-brown-valerie-embroidered-silk-corset.jpg?_v=1759351335"
+    ],
+    "variants": [
+      { "size": "S", "color": "Brown", "stock": 2 },
+      { "size": "M", "color": "Brown", "stock": 5 },
+      { "size": "L", "color": "Brown", "stock": 7 },
+      { "size": "XS", "color": "Brown", "stock": 5 }
+    ]
+  },
+  {
+    "name": "Wiederhoeft",
+    "description": "Floor-Length Jersey Skirt With Back Drape ",
+    "price": 1190,
+    "category": "Collections",
+    "subCategory": "Wiederhoeft",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1069210/718043/large_wiederhoeft-grey-jersey-back-draped-maxi-skirt.jpg?_v=1759351320",
+      "https://cdn.modaoperandi.com/assets/images/products/1069210/718043/b/large_wiederhoeft-grey-jersey-back-draped-maxi-skirt.jpg?_v=1759351320"
+    ],
+    "variants": [
+      { "size": "S", "color": "Grey", "stock": 2 },
+      { "size": "M", "color": "Grey", "stock": 5 },
+      { "size": "L", "color": "Grey", "stock": 7 },
+      { "size": "XS", "color": "Grey", "stock": 5 }
+    ]
+  },
+  {
+    "name": "Wiederhoeft",
+    "description": "Strapless Salon Corset With Draping And Rosette Embroidery",
+    "price": 6500,
+    "category": "Collections",
+    "subCategory": "Wiederhoeft",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1069186/718019/large_wiederhoeft-gold-salon-rosette-embroidered-silk-corset.jpg?_v=1759351308",
+      "https://cdn.modaoperandi.com/assets/images/products/1069186/718019/b/large_wiederhoeft-gold-salon-rosette-embroidered-silk-corset.jpg?_v=1759351308",
+      "https://cdn.modaoperandi.com/assets/images/products/1069186/718019/d06/large_wiederhoeft-gold-salon-rosette-embroidered-silk-corset.jpg?_v=1759351308"
+    ],
+    "variants": [
+      { "size": "S", "color": "Gold", "stock": 2 },
+      { "size": "M", "color": "Gold", "stock": 5 },
+      { "size": "L", "color": "Gold", "stock": 7 },
+      { "size": "XS", "color": "Gold", "stock": 5 }
+    ]
+  },
+  {
+    "name": "Wiederhoeft",
+    "description": "Ankle-Length Ballgown Skirt In Fil Coupé Silk Jacquard",
+    "price": 21000,
+    "category": "Collections",
+    "subCategory": "Wiederhoeft",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1069187/718020/large_wiederhoeft-print-fil-coupe-silk-jacquard-maxi-skirt.jpg?_v=1759351337",
+      "https://cdn.modaoperandi.com/assets/images/products/1069187/718020/b/large_wiederhoeft-print-fil-coupe-silk-jacquard-maxi-skirt.jpg?_v=1759351337"
+    ],
+    "variants": [
+      { "size": "S", "color": "Print", "stock": 2 },
+      { "size": "M", "color": "Print", "stock": 5 },
+      { "size": "L", "color": "Print", "stock": 7 },
+      { "size": "XS", "color": "Print", "stock": 5 }
+    ]
+  },
+  {
+    "name": "Wiederhoeft",
+    "description": "Nipped Salon Jacket In Gold Basketweave Lamé",
+    "price": 6000,
+    "category": "Collections",
+    "subCategory": "Wiederhoeft",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1069190/718023/large_wiederhoeft-gold-basketweave-lame-nipped-salon-jacket.jpg?_v=1759259850",
+      "https://cdn.modaoperandi.com/assets/images/products/1069190/718023/b/large_wiederhoeft-gold-basketweave-lame-nipped-salon-jacket.jpg?_v=1759259850"
+    ],
+    "variants": [
+      { "size": "S", "color": "Gold", "stock": 2 },
+      { "size": "M", "color": "Gold", "stock": 5 },
+      { "size": "L", "color": "Gold", "stock": 7 },
+      { "size": "XS", "color": "Gold", "stock": 5 }
+    ]
+  },
+  {
+    "name": "Wiederhoeft",
+    "description": "Ankle-Length Tulip Skirt in Basketweave Lamé",
+    "price": 3900,
+    "category": "Collections",
+    "subCategory": "Wiederhoeft",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1069191/718024/large_wiederhoeft-gold-basketweave-lame-tulip-maxi-skirt.jpg?_v=1759259850",
+      "https://cdn.modaoperandi.com/assets/images/products/1069191/718024/b/large_wiederhoeft-gold-basketweave-lame-tulip-maxi-skirt.jpg?_v=1759259850",
+      "https://cdn.modaoperandi.com/assets/images/products/1069191/718024/f/large_wiederhoeft-gold-basketweave-lame-tulip-maxi-skirt.jpg?_v=1759259850"
+    ],
+    "variants": [
+      { "size": "S", "color": "Gold", "stock": 2 },
+      { "size": "M", "color": "Gold", "stock": 5 },
+      { "size": "L", "color": "Gold", "stock": 7 },
+      { "size": "XS", "color": "Gold", "stock": 5 }
+    ]
+  },
+  {
+    "name": "Wiederhoeft",
+    "description": "Historian Gown In Almond-Peach Brushed Wool",
+    "price": 8500,
+    "category": "Collections",
+    "subCategory": "Wiederhoeft",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1069216/718049/large_wiederhoeft-light-pink-brushed-wool-historian-gown.jpg?_v=1759337489",
+      "https://cdn.modaoperandi.com/assets/images/products/1069216/718049/b/large_wiederhoeft-light-pink-brushed-wool-historian-gown.jpg?_v=1759337489"
+    ],
+    "variants": [
+      { "size": "S", "color": "Light pink", "stock": 2 },
+      { "size": "M", "color": "Light pink", "stock": 5 },
+      { "size": "L", "color": "Light pink", "stock": 7 },
+      { "size": "XS", "color": "Light pink", "stock": 5 }
+    ]
+  },
+  {
+    "name": "Wiederhoeft",
+    "description": "Norma Gown In White Silk Taffeta",
+    "price": 23000,
+    "category": "Collections",
+    "subCategory": "Wiederhoeft",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1069219/718052/large_wiederhoeft-off-white-norma-silk-taffeta-gown.jpg?_v=1759259684",
+      "https://cdn.modaoperandi.com/assets/images/products/1069219/718052/f/large_wiederhoeft-off-white-norma-silk-taffeta-gown.jpg?_v=1759259684"
+    ],
+    "variants": [
+      { "size": "S", "color": "Off-white", "stock": 2 },
+      { "size": "M", "color": "Off-white", "stock": 5 },
+      { "size": "L", "color": "Off-white", "stock": 7 },
+      { "size": "XS", "color": "Off-white", "stock": 5 }
+    ]
+  },
+  {
+    "name": "Wiederhoeft",
+    "description": "Floor-Length Julie Gown With Glass Cut Beading Embroidery ",
+    "price": 17000,
+    "category": "Collections",
+    "subCategory": "Wiederhoeft",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1069218/718051/large_wiederhoeft-off-white-embroidered-julie-gown.jpg?_v=1759369107",
+      "https://cdn.modaoperandi.com/assets/images/products/1069218/718051/b/large_wiederhoeft-off-white-embroidered-julie-gown.jpg?_v=1759369107"
+    ],
+    "variants": [
+      { "size": "S", "color": "Off-white", "stock": 2 },
+      { "size": "M", "color": "Light Wash", "stock": 5 },
+      { "size": "L", "color": "Light Wash", "stock": 7 },
+      { "size": "XS", "color": "Light Wash", "stock": 5 }
+    ]
+  },
+  {
+    "name": "Wiederhoeft",
+    "description": "Zip-Front Venus Denim Corset ",
+    "price": 1790,
+    "category": "Collections",
+    "subCategory": "Wiederhoeft",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1069205/718038/large_wiederhoeft-grey-venus-zip-front-denim-corset.jpg?_v=1759327542",
+      "https://cdn.modaoperandi.com/assets/images/products/1069205/718038/b/large_wiederhoeft-grey-venus-zip-front-denim-corset.jpg?_v=1759327542"
+    ],
+    "variants": [
+      { "size": "S", "color": "Grey", "stock": 2 },
+      { "size": "M", "color": "Grey", "stock": 5 },
+      { "size": "L", "color": "Grey", "stock": 7 },
+      { "size": "XS", "color": "Grey", "stock": 5 }
+    ]
+  },
+
+  {
+    "name": "Jeanerica",
+    "description": "Fuji Stretch High-Rise Flared-Leg Jeans ",
+    "price": 250,
+    "category": "Collections",
+    "subCategory": "Jeanerica",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/907432/541324/large_jeanerica-black-fuji-jeans.jpg?_v=1759331182",
+      "https://cdn.modaoperandi.com/assets/images/products/907432/541324/c/large_jeanerica-black-fuji-jeans.jpg?_v=1759331182",
+      "https://cdn.modaoperandi.com/assets/images/products/907432/541324/c2/large_jeanerica-black-fuji-jeans.jpg?_v=1759331182",
+      "https://cdn.modaoperandi.com/assets/images/products/907432/541324/c3/large_jeanerica-black-fuji-jeans.jpg?_v=1759331182"
+    ],
+    "variants": [
+      { "size": "S", "color": "Black", "stock": 2 },
+      { "size": "M", "color": "Black", "stock": 5 },
+      { "size": "L", "color": "Black", "stock": 7 },
+      { "size": "XS", "color": "Black", "stock": 5 }
+    ]
+  },{
+    "name": "Jeanerica",
+    "description": "Eiffel Stretch High-Rise Straight-Leg Jeans",
+    "price": 240,
+    "category": "Collections",
+    "subCategory": "Jeanerica",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/866842/495760/large_jeanerica-black-eiffel-jeans-super-high-rise-full-length-2.jpg?_v=1759337768",
+      "https://cdn.modaoperandi.com/assets/images/products/866842/495760/c/large_jeanerica-black-eiffel-jeans-super-high-rise-full-length-2.jpg?_v=1759337768",
+      "https://cdn.modaoperandi.com/assets/images/products/866842/495760/c2/large_jeanerica-black-eiffel-jeans-super-high-rise-full-length-2.jpg?_v=1759337768",
+      "https://cdn.modaoperandi.com/assets/images/products/866842/495760/c3/large_jeanerica-black-eiffel-jeans-super-high-rise-full-length-2.jpg?_v=1759337768"
+    ],
+    "variants": [
+      { "size": "S", "color": "Black", "stock": 2 },
+      { "size": "M", "color": "Black", "stock": 5 },
+      { "size": "L", "color": "Black", "stock": 7 },
+      { "size": "XS", "color": "Black", "stock": 5 }
+    ]
+  },{
+    "name": "Jeanerica",
+    "description": "Eiffel Stretch High-Rise Straight-Leg Jeans ",
+    "price": 240,
+    "category": "Collections",
+    "subCategory": "Jeanerica",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/866841/495759/large_jeanerica-medium-wash-eiffel-jeans-super-high-rise-full-length.jpg?_v=1759436000",
+      "https://cdn.modaoperandi.com/assets/images/products/866841/495759/c/large_jeanerica-medium-wash-eiffel-jeans-super-high-rise-full-length.jpg?_v=1759436000",
+      "https://cdn.modaoperandi.com/assets/images/products/866841/495759/c2/large_jeanerica-medium-wash-eiffel-jeans-super-high-rise-full-length.jpg?_v=1759436000"
+    ],
+    "variants": [
+      { "size": "S", "color": "Medium wash", "stock": 2 },
+      { "size": "M", "color": "Medium wash", "stock": 5 },
+      { "size": "L", "color": "Medium wash", "stock": 7 },
+      { "size": "XS", "color": "Medium wash", "stock": 5 }
+    ]
+  },{
+    "name": "Jeanerica",
+    "description": "Fuji Stretch High-Rise Flared-Leg Jeans",
+    "price": 250,
+    "category": "Collections",
+    "subCategory": "Jeanerica",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/866844/495762/large_jeanerica-medium-wash-fuji-jeans.jpg?_v=1759412930",
+      "https://cdn.modaoperandi.com/assets/images/products/866844/495762/c/large_jeanerica-medium-wash-fuji-jeans.jpg?_v=1759412930",
+      "https://cdn.modaoperandi.com/assets/images/products/866844/495762/c2/large_jeanerica-medium-wash-fuji-jeans.jpg?_v=1759412930",
+      "https://cdn.modaoperandi.com/assets/images/products/866844/495762/c3/large_jeanerica-medium-wash-fuji-jeans.jpg?_v=1759412930"
+    ],
+    "variants": [
+      { "size": "S", "color": "Medium wash", "stock": 2 },
+      { "size": "M", "color": "Medium wash", "stock": 5 },
+      { "size": "L", "color": "Medium wash", "stock": 7 },
+      { "size": "XS", "color": "Medium wash", "stock": 5 }
+    ]
+  },{
+    "name": "Jeanerica",
+    "description": "St Monica Stretch High-Rise Flared-Leg Jeans",
+    "price": 240,
+    "category": "Collections",
+    "subCategory": "Jeanerica",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/896614/529279/large_jeanerica-dark-wash-st-monica-stretch-high-rise-wide-leg-jeans.jpg?_v=1759331747",
+      "https://cdn.modaoperandi.com/assets/images/products/896614/529279/c/large_jeanerica-dark-wash-st-monica-stretch-high-rise-wide-leg-jeans.jpg?_v=1759331747",
+      "https://cdn.modaoperandi.com/assets/images/products/896614/529279/c2/large_jeanerica-dark-wash-st-monica-stretch-high-rise-wide-leg-jeans.jpg?_v=1759331747"
+    ],
+    "variants": [
+      { "size": "S", "color": "Dark wash", "stock": 2 },
+      { "size": "M", "color": "Dark wash", "stock": 5 },
+      { "size": "L", "color": "Dark wash", "stock": 7 },
+      { "size": "XS", "color": "Dark wash", "stock": 5 }
+    ]
+  },{
+    "name": "Jeanerica",
+    "description": "Exclusive St Monica Stretch High-Rise Flared-Leg Jeans",
+    "price": 260,
+    "category": "Collections",
+    "subCategory": "Jeanerica",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/866846/495764/large_jeanerica-light-wash-st-monica-jeans.jpg?_v=1759412931",
+      "https://cdn.modaoperandi.com/assets/images/products/866846/495764/c/large_jeanerica-light-wash-st-monica-jeans.jpg?_v=1759412931"
+    ],
+    "variants": [
+      { "size": "S", "color": "Light Wash", "stock": 2 },
+      { "size": "M", "color": "Light Wash", "stock": 5 },
+      { "size": "L", "color": "Light Wash", "stock": 7 },
+      { "size": "XS", "color": "Light Wash", "stock": 5 }
+    ]
+  },{
+    "name": "Jeanerica",
+    "description": "Sisli Mid-Rise Straight-Leg Jeans",
+    "price": 360,
+    "category": "Collections",
+    "subCategory": "Jeanerica",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1039629/685807/large_jeanerica-medium-wash-sisli.jpg?_v=1759328559",
+      "https://cdn.modaoperandi.com/assets/images/products/1039629/685807/c/large_jeanerica-medium-wash-sisli.jpg?_v=1759328559",
+      "https://cdn.modaoperandi.com/assets/images/products/1039629/685807/c2/large_jeanerica-medium-wash-sisli.jpg?_v=1759328559"
+    ],
+    "variants": [
+      { "size": "S", "color": "Medium wash", "stock": 2 },
+      { "size": "M", "color": "Medium wash", "stock": 5 },
+      { "size": "L", "color": "Medium wash", "stock": 7 },
+      { "size": "XS", "color": "Medium wash", "stock": 5 }
+    ]
+  },{
+    "name": "Jeanerica",
+    "description": "Elsa Corduroy Jacket",
+    "price": 590,
+    "category": "Collections",
+    "subCategory": "Jeanerica",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1039632/685810/large_jeanerica-brown-elsa-cord-jacket.jpg?_v=1759465308",
+      "https://cdn.modaoperandi.com/assets/images/products/1039632/685810/c/large_jeanerica-brown-elsa-cord-jacket.jpg?_v=1759465308",
+      "https://cdn.modaoperandi.com/assets/images/products/1039632/685810/c2/large_jeanerica-brown-elsa-cord-jacket.jpg?_v=1759465308"
+    ],
+    "variants": [
+      { "size": "S", "color": "Brown", "stock": 2 },
+      { "size": "M", "color": "Brown", "stock": 5 },
+      { "size": "L", "color": "Brown", "stock": 7 },
+      { "size": "XS", "color": "Brown", "stock": 5 }
+    ]
+  },{
+    "name": "Jeanerica",
+    "description": "Peplum Cotton-Blend Waxed Jacket",
+    "price": 650,
+    "category": "Collections",
+    "subCategory": "Jeanerica",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1039625/685803/large_jeanerica-grey-peplum.jpg?_v=1759265164",
+      "https://cdn.modaoperandi.com/assets/images/products/1039625/685803/c/large_jeanerica-grey-peplum.jpg?_v=1759265164",
+      "https://cdn.modaoperandi.com/assets/images/products/1039625/685803/c2/large_jeanerica-grey-peplum.jpg?_v=1759265164",
+      "https://cdn.modaoperandi.com/assets/images/products/1039625/685803/c3/large_jeanerica-grey-peplum.jpg?_v=1759265164"
+    ],
+    "variants": [
+      { "size": "S", "color": "Grey", "stock": 2 },
+      { "size": "M", "color": "Grey", "stock": 5 },
+      { "size": "L", "color": "Grey", "stock": 7 },
+      { "size": "XS", "color": "Grey", "stock": 5 }
+    ]
+  },{
+    "name": "Jeanerica",
+    "description": "Exclusive Belem Denim Shorts",
+    "price": 210,
+    "category": "Collections",
+    "subCategory": "Jeanerica",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/973846/614065/large_jeanerica-dark-wash-belem-shorts-2.jpg?_v=1758651749",
+      "https://cdn.modaoperandi.com/assets/images/products/973846/614065/c/large_jeanerica-dark-wash-belem-shorts-2.jpg?_v=1758651749",
+      "https://cdn.modaoperandi.com/assets/images/products/973846/614065/c2/large_jeanerica-dark-wash-belem-shorts-2.jpg?_v=1758651749",
+      "https://cdn.modaoperandi.com/assets/images/products/973846/614065/c3/large_jeanerica-dark-wash-belem-shorts-2.jpg?_v=1758651749"
+    ],
+    "variants": [
+      { "size": "S", "color": "Dark wash", "stock": 2 },
+      { "size": "M", "color": "Dark wash", "stock": 5 },
+      { "size": "L", "color": "Dark wash", "stock": 7 },
+      { "size": "XS", "color": "Dark wash", "stock": 5 }
+    ]
+  },{
+    "name": "Jeanerica",
+    "description": "St Monica Stretch Low-Rise Flared-Leg Jeans",
+    "price": 250,
+    "category": "Collections",
+    "subCategory": "Jeanerica",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1016816/660692/large_jeanerica-blue-sw007-st-monica-low.jpg?_v=1758652454",
+      "https://cdn.modaoperandi.com/assets/images/products/1016816/660692/c/large_jeanerica-blue-sw007-st-monica-low.jpg?_v=1758652454",
+      "https://cdn.modaoperandi.com/assets/images/products/1016816/660692/c2/large_jeanerica-blue-sw007-st-monica-low.jpg?_v=1758652454",
+      "https://cdn.modaoperandi.com/assets/images/products/1016816/660692/c3/large_jeanerica-blue-sw007-st-monica-low.jpg?_v=1758652454"
+    ],
+    "variants": [
+      { "size": "S", "color": "Blue", "stock": 2 },
+      { "size": "M", "color": "Blue", "stock": 5 },
+      { "size": "L", "color": "Blue", "stock": 7 },
+      { "size": "XS", "color": "Blue", "stock": 5 }
+    ]
+  },{
+    "name": "Jeanerica",
+    "description": "Fuji Stretch High-Rise Flared-Leg Jeans ",
+    "price": 250,
+    "category": "Collections",
+    "subCategory": "Jeanerica",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/907432/541324/large_jeanerica-black-fuji-jeans.jpg?_v=1759331182",
+      "https://cdn.modaoperandi.com/assets/images/products/907432/541324/c/large_jeanerica-black-fuji-jeans.jpg?_v=1759331182",
+      "https://cdn.modaoperandi.com/assets/images/products/907432/541324/c2/large_jeanerica-black-fuji-jeans.jpg?_v=1759331182",
+      "https://cdn.modaoperandi.com/assets/images/products/907432/541324/c3/large_jeanerica-black-fuji-jeans.jpg?_v=1759331182"
+    ],
+    "variants": [
+      { "size": "S", "color": "Black", "stock": 2 },
+      { "size": "M", "color": "Black", "stock": 5 },
+      { "size": "L", "color": "Black", "stock": 7 },
+      { "size": "XS", "color": "Black", "stock": 5 }
+    ]
+  },{
+    "name": "Jeanerica",
+    "description": "Fuji High-Rise Flared Jeans",
+    "price": 240,
+    "category": "Collections",
+    "subCategory": "Jeanerica",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/999197/641634/large_jeanerica-blue-fw007-fuji.jpg?_v=1759412961",
+      "https://cdn.modaoperandi.com/assets/images/products/999197/641634/c/large_jeanerica-blue-fw007-fuji.jpg?_v=1759412961",
+      "https://cdn.modaoperandi.com/assets/images/products/999197/641634/c2/large_jeanerica-blue-fw007-fuji.jpg?_v=1759412961",
+      "https://cdn.modaoperandi.com/assets/images/products/999197/641634/c3/large_jeanerica-blue-fw007-fuji.jpg?_v=1759412961"
+
+    ],
+    "variants": [
+      { "size": "S", "color": "Blue", "stock": 2 },
+      { "size": "M", "color": "Blue", "stock": 5 },
+      { "size": "L", "color": "Blue", "stock": 7 },
+      { "size": "XS", "color": "Blue", "stock": 5 }
+    ]
+  },{
+    "name": "Carolina Herrera",
+    "description": "Sleeveless Trellis Jacquard Ball Gown",
+    "price": 10990,
+    "category": "Collections",
+    "subCategory": "Carolina Herrera",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1066059/714419/large_carolina-herrera-ivory-sleeveless-lurex-trellis-jacquard-ball-gown.jpg?_v=1758302727",
+      "https://cdn.modaoperandi.com/assets/images/products/1066059/714419/b/large_carolina-herrera-ivory-sleeveless-lurex-trellis-jacquard-ball-gown.jpg?_v=1758302727"
+    ],
+    "variants": [
+      { "size": "S", "color": "Ivory", "stock": 2 },
+      { "size": "M", "color": "Ivory", "stock": 5 },
+      { "size": "L", "color": "Ivory", "stock": 7 },
+      { "size": "XS", "color": "Ivory", "stock": 5 }
+    ]
+  },
+  {
+    "name": "Carolina Herrera",
+    "description": "Puff-Sleeve Stretch Fluid Crepe Gown",
+    "price": 4490,
+    "category": "Collections",
+    "subCategory": "Carolina Herrera",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1066019/714375/large_carolina-herrera-red-puff-sleeve-stretch-fluid-crepe-gown.jpg?_v=1758302528",
+      "https://cdn.modaoperandi.com/assets/images/products/1066019/714375/b/large_carolina-herrera-red-puff-sleeve-stretch-fluid-crepe-gown.jpg?_v=1758302528",
+      "https://cdn.modaoperandi.com/assets/images/products/1066019/714375/h01/large_carolina-herrera-red-puff-sleeve-stretch-fluid-crepe-gown.jpg?_v=1758302528"
+    ],
+    "variants": [
+      { "size": "S", "color": "Red", "stock": 2 },
+      { "size": "M", "color": "Red", "stock": 5 },
+      { "size": "L", "color": "Red", "stock": 7 },
+      { "size": "XS", "color": "Red", "stock": 5 }
+    ]
+  },{
+    "name": "Carolina Herrera",
+    "description": "Corseted Trellis Jacquard Tea-Length Dress",
+    "price": 6990,
+    "category": "Collections",
+    "subCategory": "Carolina Herrera",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1066060/714420/large_carolina-herrera-ivory-corseted-lurex-trellis-jacquard-tea-length-dress.jpg?_v=1758302761",
+      "https://cdn.modaoperandi.com/assets/images/products/1066060/714420/b/large_carolina-herrera-ivory-corseted-lurex-trellis-jacquard-tea-length-dress.jpg?_v=1758302761"
+    ],
+    "variants": [
+      { "size": "S", "color": "Ivory", "stock": 2 },
+      { "size": "M", "color": "Ivory", "stock": 5 },
+      { "size": "L", "color": "Ivory", "stock": 7 },
+      { "size": "XS", "color": "Ivory", "stock": 5 }
+    ]
+  },{
+    "name": "Carolina Herrera",
+    "description": "Fan-Bodice Silk Faille Dress",
+    "price": 2990,
+    "category": "Collections",
+    "subCategory": "Carolina Herrera",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1066024/714380/large_carolina-herrera-red-fan-bodice-silk-faille-dress.jpg?_v=1758302625",
+      "https://cdn.modaoperandi.com/assets/images/products/1066024/714380/b/large_carolina-herrera-red-fan-bodice-silk-faille-dress.jpg?_v=1758302625"
+    ],
+    "variants": [
+      { "size": "S", "color": "Red", "stock": 2 },
+      { "size": "M", "color": "Red", "stock": 5 },
+      { "size": "L", "color": "Red", "stock": 7 },
+      { "size": "XS", "color": "Red", "stock": 5 }
+    ]
+  },{
+    "name": "Carolina Herrera",
+    "description": "Strapless Trellis Jacquard Mini Dress",
+    "price": 3690,
+    "category": "Collections",
+    "subCategory": "Carolina Herrera",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1066055/714415/large_carolina-herrera-ivory-strapless-lurex-trellis-jacquard-mini-dress.jpg?_v=1758302716",
+      "https://cdn.modaoperandi.com/assets/images/products/1066055/714415/b/large_carolina-herrera-ivory-strapless-lurex-trellis-jacquard-mini-dress.jpg?_v=1758302716"
+    ],
+    "variants": [
+      { "size": "S", "color": "Ivory", "stock": 2 },
+      { "size": "M", "color": "Ivory", "stock": 5 },
+      { "size": "L", "color": "Ivory", "stock": 7 },
+      { "size": "XS", "color": "Ivory", "stock": 5 }
+    ]
+  },{
+    "name": "Carolina Herrera",
+    "description": "Exaggerated-Hip Tulle Bustier Top",
+    "price": 1690,
+    "category": "Collections",
+    "subCategory": "Carolina Herrera",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1066012/714368/large_carolina-herrera-black-exaggerated-hip-nylon-tulle-bustier-top.jpg?_v=1758302721"
+    ],
+    "variants": [
+      { "size": "S", "color": "Black", "stock": 2 },
+      { "size": "M", "color": "Black", "stock": 5 },
+      { "size": "L", "color": "Black", "stock": 7 },
+      { "size": "XS", "color": "Black", "stock": 5 }
+    ]
+  },{
+    "name": "Carolina Herrera",
+    "description": "Embellished Bi-Stretch Wool Tailored Skinny Pants",
+    "price": 2990,
+    "category": "Collections",
+    "subCategory": "Carolina Herrera",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1066013/714369/large_carolina-herrera-black-embellished-bi-stretch-wool-tailored-skinny-pants.jpg?_v=1758302554",
+      "https://cdn.modaoperandi.com/assets/images/products/1066013/714369/b/large_carolina-herrera-black-embellished-bi-stretch-wool-tailored-skinny-pants.jpg?_v=1758302554"
+    ],
+    "variants": [
+      { "size": "S", "color": "Black", "stock": 2 },
+      { "size": "M", "color": "Black", "stock": 5 },
+      { "size": "L", "color": "Black", "stock": 7 },
+      { "size": "XS", "color": "Black", "stock": 5 }
+    ]
+  },{
+    "name": "Carolina Herrera",
+    "description": "Embroidered Tulle Tea-Length Dress",
+    "price": 10990,
+    "category": "Collections",
+    "subCategory": "Carolina Herrera",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1066061/714421/large_carolina-herrera-black-white-embroidered-nylon-tulle-tea-length-dress.jpg?_v=1758898982",
+      "https://cdn.modaoperandi.com/assets/images/products/1066061/714421/b/large_carolina-herrera-black-white-embroidered-nylon-tulle-tea-length-dress.jpg?_v=1758898982"
+    ],
+    "variants": [
+      { "size": "S", "color": "Black/White", "stock": 2 },
+      { "size": "M", "color": "Black/White", "stock": 5 },
+      { "size": "L", "color": "Black/White", "stock": 7 },
+      { "size": "XS", "color": "Black/White", "stock": 5 }
+    ]
+  },{
+    "name": "Carolina Herrera",
+    "description": "Sleeveless Crochet Dress",
+    "price": 3990,
+    "category": "Collections",
+    "subCategory": "Carolina Herrera",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1065990/714342/large_carolina-herrera-black-sleeveless-crochet-dress.jpg?_v=1758302708"
+    ],
+    "variants": [
+      { "size": "S", "color": "Black", "stock": 2 },
+      { "size": "M", "color": "Black", "stock": 5 },
+      { "size": "L", "color": "Black", "stock": 7 },
+      { "size": "XS", "color": "Black", "stock": 5 }
+    ]
+  },{
+    "name": "Carolina Herrera",
+    "description": "Embroidered Strapless Tulle Gown",
+    "price": 12990,
+    "category": "Collections",
+    "subCategory": "Carolina Herrera",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1066062/714423/large_carolina-herrera-red-embroidered-strapless-nylon-tulle-gown.jpg?_v=1758838336",
+      "https://cdn.modaoperandi.com/assets/images/products/1066062/714423/b/large_carolina-herrera-red-embroidered-strapless-nylon-tulle-gown.jpg?_v=1758838336"
+    ],
+    "variants": [
+      { "size": "S", "color": "Red", "stock": 2 },
+      { "size": "M", "color": "Red", "stock": 5 },
+      { "size": "L", "color": "Red", "stock": 7 },
+      { "size": "XS", "color": "Red", "stock": 5 }
+    ]
+  },{
+    "name": "Carolina Herrera",
+    "description": "Embroidered Tulle Ball Gown",
+    "price": 19990,
+    "category": "Collections",
+    "subCategory": "Carolina Herrera",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1066057/714417/b/large_carolina-herrera-black-embroidered-nylon-tulle-ball-gown.jpg?_v=1758302758"
+    ],
+    "variants": [
+      { "size": "S", "color": "Black", "stock": 2 },
+      { "size": "M", "color": "Black", "stock": 5 },
+      { "size": "L", "color": "Black", "stock": 7 },
+      { "size": "XS", "color": "Black", "stock": 5 }
+    ]
+  },{
+    "name": "Carolina Herrera",
+    "description": "Strapless Stemmed-Rose-Printed Chiffon Gown",
+    "price": 5590,
+    "category": "Collections",
+    "subCategory": "Carolina Herrera",
+    "images": [
+      "https://cdn.modaoperandi.com/assets/images/products/1066018/714374/large_carolina-herrera-black-strapless-stemmed-rose-printed-chiffon-gown.jpg?_v=1758302541",
+      "https://cdn.modaoperandi.com/assets/images/products/1066018/714374/b/large_carolina-herrera-black-strapless-stemmed-rose-printed-chiffon-gown.jpg?_v=1758302541",
+      "https://cdn.modaoperandi.com/assets/images/products/1066018/714374/h01/large_carolina-herrera-black-strapless-stemmed-rose-printed-chiffon-gown.jpg?_v=1758302541"
+    ],
+    "variants": [
+      { "size": "S", "color": "Black", "stock": 2 },
+      { "size": "M", "color": "Black", "stock": 5 },
+      { "size": "L", "color": "Black", "stock": 7 },
+      { "size": "XS", "color": "Black", "stock": 5 }
+    ]
+  }
+]

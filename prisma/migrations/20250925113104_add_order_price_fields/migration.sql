@@ -1,0 +1,5 @@
+-- AlterTable
+ALTER TABLE "public"."Order" ALTER COLUMN "totalAmount" DROP NOT NULL,
+ALTER COLUMN "itemsPrice" DROP NOT NULL,
+ALTER COLUMN "shippingPrice" DROP NOT NULL,
+ALTER COLUMN "taxPrice" DROP NOT NULL;

@@ -1,0 +1,33 @@
+@import "tailwindcss";
+
+button {
+  cursor: pointer;
+}
+body {
+  font-family: var(--font-montserrat) !important;
+}
+@layer utilities {
+  .bg-light {
+    @apply bg-white;
+  }
+  .border-x {
+    @apply border-x-[1px] border-gray-400 px-4;
+  }
+  .border-bottom {
+    @apply border-b-[1px] border-gray-200;
+  }
+  .center {
+    @apply flex items-center justify-between;
+  }
+
+  /* Navbar*/
+  .navbar {
+    @apply w-full  fixed  top-0 z-50 bg-white  text-[#545454] pb-4 lg:pb-0;
+  }
+  .search-input {
+    @apply items-center gap-2  rounded-full  px-3 py-[0.4rem]  border-[1px] border-gray-300;
+  }
+  .search-input input {
+    @apply focus:outline-none placeholder-gray-400  text-sm w-full;
+  }
+}
