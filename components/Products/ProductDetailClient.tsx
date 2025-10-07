@@ -7,7 +7,7 @@ import {
   Product as ProductModel,
   ProductImage,
   ProductVariant,
-  Session,
+  
  
 } from "@prisma/client";
 import { addToCart } from "@/lib/actions/cart.actions";
@@ -25,7 +25,7 @@ export default function ProductDetailClient({
   userEmail,
 }: {
   product: ProductDetail;
-  userEmail: string | null;
+  userEmail: string | undefined;
 }) {
   const [selectedImage, setSelectedImage] = useState(product.images?.[0]?.url);
   const [selectedSize, setSelectedSize] = useState<string | undefined>();
