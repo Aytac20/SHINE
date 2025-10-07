@@ -12,11 +12,11 @@ export default async function ProductDetailPage(props: { params: paramsType }) {
     where: { id },
     include: { images: true, variants: true },
   });
-  const user = await getServerSession(authOptions);
-  
+  const session = await getServerSession(authOptions);
+  const userEmail = session?.user?.email;
   if (!product) {
     notFound();
   }
 
-  return <ProductDetailClient product={product} user={user} />;
+  return <ProductDetailClient product={product} userEmail={userEmail} />;
 }

@@ -7,7 +7,8 @@ import {
   Product as ProductModel,
   ProductImage,
   ProductVariant,
-  User,
+  Session,
+ 
 } from "@prisma/client";
 import { addToCart } from "@/lib/actions/cart.actions";
 import toast from "react-hot-toast";
@@ -21,10 +22,10 @@ export interface ProductDetail extends ProductModel {
 
 export default function ProductDetailClient({
   product,
-  user,
+  userEmail,
 }: {
   product: ProductDetail;
-  user: User | null;
+  userEmail: string | null;
 }) {
   const [selectedImage, setSelectedImage] = useState(product.images?.[0]?.url);
   const [selectedSize, setSelectedSize] = useState<string | undefined>();
@@ -51,10 +52,11 @@ export default function ProductDetailClient({
 
   async function handleAddToCart() {
     try {
-      if (!user) {
+      if (!userEmail) {
         toast.error("Please log in to add items to your cart.");
         router.push("/login");
-        return;}
+        return;
+      }
       const result = await addToCart(
         product.id,
         1,
