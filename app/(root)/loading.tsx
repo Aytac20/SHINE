@@ -1,5 +1,4 @@
 import React from "react";
-
 const Loading = () => {
   return (
     <div className="w-full gap-x-2 flex justify-center items-center h-screen">

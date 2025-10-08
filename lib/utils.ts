@@ -28,3 +28,6 @@ export const formatPrice = (num: number) =>
     minimumFractionDigits: 2,
     maximumFractionDigits: 2,
   });
+export default function convertToSubcurrency(amount: number, factor = 100) {
+  return Math.round(amount * factor);
+}

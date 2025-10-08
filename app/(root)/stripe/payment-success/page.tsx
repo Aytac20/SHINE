@@ -65,7 +65,6 @@ export default async function SuccessPage() {
 
       return order;
     });
-
     orderId = insertedOrder.id;
   } catch (err) {
     if (err instanceof Error) error = err.message;
