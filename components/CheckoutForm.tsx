@@ -47,7 +47,7 @@ export default function CheckoutForm({ amount }: { amount: number }) {
       elements,
       clientSecret,
       confirmParams: {
-        return_url: `${process.env.NEXT_PUBLIC_DOMAIN}/stripe/payment-success?amount=${amount}`,
+        return_url: `${process.env.NEXT_PUBLIC_SERVER_URL}/stripe/payment-success?amount=${amount}`,
       },
     });
     if (error) {
