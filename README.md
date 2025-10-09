@@ -7,6 +7,11 @@ A modern e-commerce website for women clothing.
 The main purpose of this project is to **deepen my understanding of Next.js** and learn how to integrate **Prisma** (for database management) and **Stripe** (for handling payments).  
 Through this project, I practiced building a complete full-stack web application — from frontend UI to backend functionality and deployment.
 
+## 🌐 Live Demo
+
+Check out the live version of the project:  
+🔗[ [https://shine.vercel.app](https://shine.vercel.app)](https://shine-sigma.vercel.app/)
+
 ## 🚀 Features
 
 - User authentication (NextAuth)
@@ -14,7 +19,7 @@ Through this project, I practiced building a complete full-stack web application
 - Shopping cart with quantity control
 - Stripe payment integration
 
-##👩‍💻Tech Stack
+## 👩‍💻Tech Stack
 - Next.js 14
 - TypeScript
 - Tailwind CSS
